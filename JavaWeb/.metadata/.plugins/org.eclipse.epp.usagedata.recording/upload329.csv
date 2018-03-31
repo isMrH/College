@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461725744500
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461725755656
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1461725774281
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineStart",1461725774500
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1461725774968
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1461725776031
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1461725776796
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461725777453
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461725793000
+error,log,,,"File not found: '/Book/src/__2F_Book_2F_WebContent_2F_searchbook_2E_jsp.java'",1461725793109
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1461725813937
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461725817890
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461725821531
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.run",1461725823468
+started,bundle,org.eclipse.jst.server.tomcat.ui,1.1.102.v20090424,"org.eclipse.jst.server.tomcat.ui",1461725823656
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1461725825000
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461725826140
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461725826296
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1461725826296
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1461725870484
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1461725875046
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461725875593
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461725902437
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461726021515
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461726023343

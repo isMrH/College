@@ -1,0 +1,10 @@
+F:\ASP.NET\WebWeb\酒店管理系统BS\酒店管理系统项目\RoomType.Model\bin\Debug\RoomType.Model.dll
+F:\ASP.NET\WebWeb\酒店管理系统BS\酒店管理系统项目\RoomType.Model\bin\Debug\RoomType.Model.pdb
+F:\ASP.NET\WebWeb\酒店管理系统BS\酒店管理系统项目\RoomType.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\WebWeb\酒店管理系统BS\酒店管理系统项目\RoomType.Model\obj\Debug\RoomType.Model.dll
+F:\ASP.NET\WebWeb\酒店管理系统BS\酒店管理系统项目\RoomType.Model\obj\Debug\RoomType.Model.pdb
+F:\ASP.NET\WebWeb\酒店管理系统BS\RoomType.Model\bin\Debug\RoomType.Model.dll
+F:\ASP.NET\WebWeb\酒店管理系统BS\RoomType.Model\bin\Debug\RoomType.Model.pdb
+F:\ASP.NET\WebWeb\酒店管理系统BS\RoomType.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\WebWeb\酒店管理系统BS\RoomType.Model\obj\Debug\RoomType.Model.dll
+F:\ASP.NET\WebWeb\酒店管理系统BS\RoomType.Model\obj\Debug\RoomType.Model.pdb

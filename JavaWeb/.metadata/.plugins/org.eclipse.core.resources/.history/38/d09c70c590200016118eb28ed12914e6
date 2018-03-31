@@ -1,0 +1,10 @@
+package cn.com.systop.l15;
+
+public class Test {
+	public static void main(String[] args){
+		Service serviceModel=new ObjectServiceFactory().create(ICompute.class);
+		XFire xfire=XFireFactory.newInstance().getXFire();
+		XFireProxyFactory factory = new XFireProxyFactory(xfire):
+		
+	}
+}

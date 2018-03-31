@@ -1,0 +1,140 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true"  CodeFile="Default.aspx.cs" Inherits="_Default" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <style type="text/css">
+
+         *
+        {
+    	    margin:0px;
+    	    padding:0px;
+        }
+        #wapper
+        {
+    	    height:auto;
+    	    width:900px;
+    	    margin:0px auto;
+        }
+        #header
+        {
+        	width:900px;
+        	height:80px;
+        }
+        #center
+        {
+        	width:900px;
+        	height:400px;
+        }
+        #left
+        {
+        	height:400px;
+        	width:600px;
+        	float:left;
+        	margin-left:5px;
+        }
+        #right
+        {
+        	height:400px;
+        	width:280px;
+        	float:left;
+        	margin-left:10px;
+        }
+        #Label1
+        {
+        	text-align:right;
+        }
+        #lblPwd
+        {
+        	text-align:right;
+        }
+        #footer
+        {
+        	width:900px;
+        	height:40px;
+        	background-color:#adb3d6;
+        	text-align:center;
+        	padding-top:15px;
+        	color:White;
+        }
+        #right1
+        {
+        	border:1px soild #575757;
+        }
+        #Button
+        {
+        	margin-left:35px;
+        }
+        #rightt
+        {
+        	text-align:center;
+        }
+        </style>
+</head>
+<body>
+<div id="wapper">
+<div id="header"><img src="top.jpg" alt="top"/>
+</div>
+    <form id="form1" runat="server">
+    <div id="center">
+    <div id="left">
+        
+            <asp:Panel ID="Panel1" runat="server">
+            </asp:Panel>
+        
+        </div>
+        <div id="right">
+        
+                <p>
+                    &nbsp;</p>
+            <div id="right1">
+            <div id="rightt">
+                    <asp:Panel ID="Panel4" runat="server" Height="171px">
+                        <asp:Label ID="Label4" runat="server" Text="用户登录：Login" 
+    ForeColor="#9E9E9E"></asp:Label>
+                        <br />
+                        <br />
+                        <asp:Label ID="Label5" runat="server" Text="用户名：" Width="70px"></asp:Label>
+                        <asp:TextBox ID="txtPwd" runat="server" BorderColor="#A2A2A2"></asp:TextBox>
+                        <br />
+                        <br />
+                        <asp:Label ID="Label6" runat="server" Text="密码：" Width="70px"></asp:Label>
+                        <asp:TextBox ID="txtPwd0" runat="server"  TextMode="Password"></asp:TextBox>
+                        <br />
+                        <br />
+                        <asp:ImageButton ID="IBtnEnter0" runat="server" ImageUrl="~/1111.jpg" 
+                            onclick="IBtnEnter0_Click1" />
+                        <asp:ImageButton ID="IBtnSubmit0" runat="server" ImageUrl="~/222.jpg" />
+                        <br />
+                        <asp:Label ID="lblMessage" runat="server"></asp:Label>
+                    </asp:Panel>
+                <br />
+                </div>
+                    <asp:Panel ID="Panel3" runat="server" Visible="False">
+                        <asp:Label ID="lblMes" runat="server"></asp:Label>
+                        <br />
+                        <asp:Label ID="Label7" runat="server" ForeColor="#1E1E1E" Text="发表文章"></asp:Label>
+                        <br />
+                        <asp:Label ID="Label8" runat="server" ForeColor="#1E1E1E" Text="文章管理"></asp:Label>
+                        <br />
+                        <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/333.jpg" />
+                        <br />
+                        <br />
+                    </asp:Panel>
+                <br />
+                <br />
+                    <br />
+                <br />
+                <br />
+            </div>
+        </div>
+    </div>
+    </form>
+
+<div id="footer">@2007 Beijing Aptech Beida Jade Bird Information Technology CollLtd 
+    版权所有</div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,280 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="css/ui-lightness/jquery-ui-1.8.18.custom.css" rel="stylesheet" type="text/css" />
+
+    <script src="js/jquery-1.7.1.min.js" type="text/javascript"></script>
+
+    <script src="js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+   
+    <style type="text/css">
+       *{ margin:0px auto; padding:0px}
+       #father{ height:600px; width:938px; border:solid 1px gray; margin-top:20px; background-color:#c9e3f7;}
+       #header_01{ width:938px; height:72px; background-image:url(images/top.jpg);}
+       #header_02{ width:938px; height:22px; background-image:url(images/bg2.jpg); background-repeat:repeat-x;}
+       #title{ font-size:12px;float:left; padding-top:5px; margin-left:530px;}
+       #hright{ margin-left:714px;}
+       #left{ width:181px; height:505px;border:solid 1px gray; float:left; background-color:#043b7e;}
+       #right{width:744px; height:498px;border:solid 1px gray; float:left; background-color:#fefeff; margin-left:5px;}
+       #r_header{ width:724px; height:19px; background-image:url(images/gridview.jpg); margin-top:15px; margin-left:10px;}
+       #left_header{ width:181px; height:38px; background-image:url(images/leftmenu.jpg);}
+       #left_header_01{  width:181px; height:19px; background-image:url(images/menubg.jpg);}
+       #r_middle{ width:695px; height:23px; border:solid 1px #cae7fe; margin-top:35px; font-size:12px; padding-left:25px; padding-top:7px;}
+       #search{ width:157px; height:21px; background-image:url(images/textsearch.jpg);}
+       #r_middle1{ float:left; width:230px;}
+       #r_middle2{ margin-left:5px;}
+       #r_content{ width:720px; height:365px; border:solid 1px red; margin-top:25px; font-size:12px;}
+       r_content2{border:solid 1px red; width:720px; height:365px; margin-top:-5px;}
+       #infotb{ border:solid 1px #b1d4fc; width:720px; height:auto;  text-align:center;}
+       #infotb td{ height:23px;}
+       input{ border:solid 1px #d7e8f6;}
+       .odd{ background-color:#d9e7ee;}
+       .even{ background-color:White;}
+       .highClass{ background-color:#bae2f5;}
+        
+        #con{ width:80px; }
+        #myAccordion ul{ list-style:none; width:100px; text-align:center; padding:0px; margin:0px; margin-top:-20px; margin-bottom:-20px;}
+        #myAccordion li{ font-size:12px; color:White; width:100px; height:20px; line-height:20px; padding-top:5px; margin-left:-40px;}
+        #myAccordion{ width:80px;}
+        #container { height:405px;  width:181px; margin-top:20px;}
+        #myAccordion{ padding-left:15px;}
+        #myAccordion .ui-accordion-header{ height:30px; overflow:hidden; border:0px; width:153px; height:23px;}
+        #myAccordion .ui-accordion-header a{ height:30px; font-size:14px; background-color:#043b7e;background-image:url(images/vip.jpg); background-repeat:no-repeat; width:153px; height:19px;}
+        #myAccordion .ui-state-active{ background:#FCC;}
+        #myAccordion .ui-accordion-content-active{ background:#043b7e; border:0px;}
+        #myAccordion .ui-state-default .ui-icon{ background-image:url(); }
+        #myAccordion .ui-state-active .ui-icon{ background-image:url(); }
+    </style>
+    
+     <script type="text/javascript">
+         $(function() {
+             //隔行换色
+             $("#infotb tr:odd").addClass("odd");
+
+             //选中时高亮
+             $("table tr").click(function() {
+                 var highClass = $(this).hasClass("highClass");
+                 $(this)[highClass ? "removeClass" : "addClass"]("highClass");
+                 $(this).find(":checkbox").attr("checked", !highClass);
+             });
+
+             //全选
+             $("#checkall").click(function() {
+                 $("[name=items]:checkbox").attr("checked", this.checked);
+             })
+
+             $("[name=items]:checkbox").click(function() {
+                 var flag = true;
+                 $("[name=items]:checkbox").each(function() {
+                     if (!this.checked) {
+                         flag = false;
+                     }
+                 });
+                 $("#checkall").attr("checked", flag);
+             })
+
+             //accordion
+             var accOpts = {
+                 event: "click",
+                 fillSpace: true
+             };
+
+             $("#myAccordion").accordion(accOpts);
+
+             //会员名称验证
+             //查重
+             $("#name").bind("blur", function() {
+                 $.get("register.ashx", $("#name").serialize(), function(msg) {
+                     if (msg == 1) {
+                         $("#infoName").html("<font color='green'>恭喜您，用户名可以使用！</font>");
+                     } else {
+                         $("#infoName").html("<font color='red'>对不起，用户名已经被注册！</font>");
+                     }
+
+
+                 }, "text");
+             })
+         })
+    </script>
+</head>
+<body>
+    <div id="father">
+        <div id="header">
+            <div id="header_01"></div>
+            <div id="header_02">
+               <div  id="title"><label>刘教授，您好！</label></div>
+               <div id="hright"><img src="images/menu.jpg"/></div> 
+            </div>
+        </div>
+        <div id="middle">
+            <div id="left">
+               <div id="left_header"></div>
+               <div id="left_header_01"></div>
+               <div id="search"></div>
+               <div id="container">
+                 <div id="myAccordion">
+                       <h2><a href="#"></a></h2>
+                       <div id="con">
+                           <ul>
+                              <li><img  src="images/icon2.jpg"/>    基本信息</li>
+                              <li><img  src="images/icon2.jpg"/>    组织机构</li>
+                              <li><img  src="images/icon2.jpg"/>    会员分组</li>
+                              <li><img  src="images/icon2.jpg"/>    保健级别</li>
+                              <li><img  src="images/icon2.jpg"/>    会员合同</li>
+                           </ul>
+                       </div>
+                       <h2><a href="#"></a></h2>
+                       <div id="con">
+                           <ul>
+                              <li><img  src="images/icon2.jpg"/>    基本信息</li>
+                              <li><img  src="images/icon2.jpg"/>    组织机构</li>
+                              <li><img  src="images/icon2.jpg"/>    会员分组</li>
+                              <li><img  src="images/icon2.jpg"/>    保健级别</li>
+                              <li><img  src="images/icon2.jpg"/>    会员合同</li>
+                           </ul>
+                      </div>
+                      <h2><a href="#"></a></h2>
+                       <div id="con">
+                           <ul>
+                              <li><img  src="images/icon2.jpg"/>    基本信息</li>
+                              <li><img  src="images/icon2.jpg"/>    组织机构</li>
+                              <li><img  src="images/icon2.jpg"/>    会员分组</li>
+                              <li><img  src="images/icon2.jpg"/>    保健级别</li>
+                              <li><img  src="images/icon2.jpg"/>    会员合同</li>
+                           </ul>
+                      </div>
+                      <h2><a href="#"></a></h2>
+                       <div id="con">
+                           <ul>
+                              <li><img  src="images/icon2.jpg"/>    基本信息</li>
+                              <li><img  src="images/icon2.jpg"/>    组织机构</li>
+                              <li><img  src="images/icon2.jpg"/>    会员分组</li>
+                              <li><img  src="images/icon2.jpg"/>    保健级别</li>
+                              <li><img  src="images/icon2.jpg"/>    会员合同</li>
+                           </ul>
+                      </div>
+                      <h2><a href="#"></a></h2>
+                       <div id="con">
+                           <ul>
+                              <li><img  src="images/icon2.jpg"/>    基本信息</li>
+                              <li><img  src="images/icon2.jpg"/>    组织机构</li>
+                              <li><img  src="images/icon2.jpg"/>    会员分组</li>
+                              <li><img  src="images/icon2.jpg"/>    保健级别</li>
+                              <li><img  src="images/icon2.jpg"/>    会员合同</li>
+                           </ul>
+                      </div>
+                      <h2><a href="#"></a></h2>
+                       <div id="con">
+                           <ul>
+                              <li><img  src="images/icon2.jpg"/>    基本信息</li>
+                              <li><img  src="images/icon2.jpg"/>    组织机构</li>
+                              <li><img  src="images/icon2.jpg"/>    会员分组</li>
+                              <li><img  src="images/icon2.jpg"/>    保健级别</li>
+                              <li><img  src="images/icon2.jpg"/>    会员合同</li>
+                           </ul>
+                      </div>
+                 </div>
+               </div>
+            </div>
+            <div id="right">
+               <div id="r_header"></div>
+               <div id="r_middle">
+                   <div id="r_middle1">
+                       <label id="huiyuan">会员名称：</label>
+                       <input type="text" name="name" id="name"/>
+                   </div>
+                   <div id="r_middle2">
+                      <img id="add" src="images/query.jpg"/><span id="infoName"></span>
+                   </div>
+               </div>
+               <div id="r_content">
+                   <div id="r_content1"><img  src="images/add.jpg"/>&nbsp;<img  src="images/delete.jpg"/></div>
+                   <div id="r_content2">
+                       <table id="infotb">
+                           <tr>
+                              <td>全选<input id="checkall" type="checkbox"/></td>
+                              <td>用户编号</td>
+                              <td>用户姓名</td>
+                              <td>性别</td>
+                              <td>操作</td>
+                           </tr>
+                           <tr>
+                              <td><input name="items" type="checkbox"/></td>
+                              <td>001</td>
+                              <td>李兰兰</td>
+                              <td>女</td>
+                              <td><a href="#">查看</a> | <a href="#">修改</a></td>
+                           </tr>
+                           <tr>
+                              <td><input  name="items" type="checkbox"/></td>
+                              <td>001</td>
+                              <td>李兰兰</td>
+                              <td>女</td>
+                              <td><a href="#">查看</a> | <a href="#">修改</a></td>
+                           </tr>
+                           <tr>
+                              <td><input  name="items" type="checkbox"/></td>
+                              <td>001</td>
+                              <td>李兰兰</td>
+                              <td>女</td>
+                              <td><a href="#">查看</a> | <a href="#">修改</a></td>
+                           </tr>
+                           <tr>
+                              <td><input name="items"  type="checkbox"/></td>
+                              <td>001</td>
+                              <td>李兰兰</td>
+                              <td>女</td>
+                              <td><a href="#">查看</a> | <a href="#">修改</a></td>
+                           </tr>
+                           <tr>
+                              <td><input name="items"  type="checkbox"/></td>
+                              <td>001</td>
+                              <td>李兰兰</td>
+                              <td>女</td>
+                              <td><a href="#">查看</a> | <a href="#">修改</a></td>
+                           </tr>
+                           <tr>
+                              <td><input name="items"  type="checkbox"/></td>
+                              <td>001</td>
+                              <td>李兰兰</td>
+                              <td>女</td>
+                              <td><a href="#">查看</a> | <a href="#">修改</a></td>
+                           </tr>
+                           <tr>
+                              <td><input  name="items" type="checkbox"/></td>
+                              <td>001</td>
+                              <td>李兰兰</td>
+                              <td>女</td>
+                              <td><a href="#">查看</a> | <a href="#">修改</a></td>
+                           </tr>
+                           <tr>
+                              <td><input  name="items" type="checkbox"/></td>
+                              <td>001</td>
+                              <td>李兰兰</td>
+                              <td>女</td>
+                              <td><a href="#">查看</a> | <a href="#">修改</a></td>
+                           </tr>
+                           <tr>
+                              <td><input  name="items" type="checkbox"/></td>
+                              <td>001</td>
+                              <td>李兰兰</td>
+                              <td>女</td>
+                              <td><a href="#">查看</a> | <a href="#">修改</a></td>
+                           </tr>
+                           <tr>
+                              <td><input name="items"  type="checkbox"/></td>
+                              <td>001</td>
+                              <td>李兰兰</td>
+                              <td>女</td>
+                              <td><a href="#">查看</a> | <a href="#">修改</a></td>
+                           </tr>
+                       </table>
+                   </div>
+               </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

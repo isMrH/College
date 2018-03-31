@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+opened,editor,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.editor",1460965013390
+activated,editor,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.editor",1460965013437
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460965015609
+closed,editor,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.editor",1460965015609
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460965016562
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460965019421
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460965020171
+error,log,,,"Task failed",1460965020453
+error,log,,,"Could not delete F:\\JavaWeb\\.metadata\\.plugins\\org.eclipse.wst.server.core\\tmp0\\wtpwebapps\\Test\\WEB-INF\\lib\\sqljdbc.jar. May be locked by another process.",1460965020468
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460965020515
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460965021796
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1460965025156
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460965025953
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460965027234
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1460965027234
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460965027250
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1460965027750
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460965028843
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460965030937
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460965036890
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.run",1460965041531
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1460965042359
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460965044031
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460965044890
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460965047781

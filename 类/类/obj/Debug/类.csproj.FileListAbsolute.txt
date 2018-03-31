@@ -1,0 +1,5 @@
+F:\类\类\bin\Debug\类.exe
+F:\类\类\bin\Debug\类.pdb
+F:\类\类\obj\Debug\ResolveAssemblyReference.cache
+F:\类\类\obj\Debug\类.exe
+F:\类\类\obj\Debug\类.pdb

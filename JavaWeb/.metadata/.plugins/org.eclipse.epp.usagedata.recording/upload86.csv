@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wst.command.env,1.0.408.v200903110045,"org.eclipse.wst.command.env",1460943397640
+started,bundle,org.eclipse.wst.ws,1.1.103.v200903111822,"org.eclipse.wst.ws",1460943397640
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1460943405875
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460943423359
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460943424937
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460943426218
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460943433640
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1460943435125
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1460943447312
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1460943453593
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1460943453703
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1460943456796
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1460943461671
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1460943465171
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1460943468500
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1460943469093
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460943478093
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1460943478093
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460943480312
+closed,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460943480312
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1460943482296
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460943489140
+error,log,,,"Internal Error",1460943489984
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460943492031
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1460943492046

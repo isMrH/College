@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1463538810703
+java.specification.version,sysinfo,,,"1.6",1463538810703
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1463538810703
+java.version,sysinfo,,,"1.6.0_02",1463538810703
+java.vm.info,sysinfo,,,"mixed mode",1463538810703
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1463538810703
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1463538810703
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1463538810703
+java.vm.specification.version,sysinfo,,,"1.0",1463538810703
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1463538810703
+java.vm.version,sysinfo,,,"1.6.0_02-b06",1463538810703
+started,bundle,org.eclipse.mylyn.tasks.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.tasks.ui",1463538811203
+started,bundle,org.eclipse.mylyn.team.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.team.ui",1463538811343
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1463538811421
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1463538811687
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1463538811750
+started,bundle,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console",1463538811796
+started,bundle,org.eclipse.mylyn.monitor.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.monitor.ui",1463538812046
+started,bundle,org.tigris.subversion.subclipse.ui,1.0.5,"org.tigris.subversion.subclipse.ui",1463538812234
+started,bundle,org.eclipse.jsch.core,1.1.100.I20090430-0408,"org.eclipse.jsch.core",1463538812437
+started,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1463538812437
+started,bundle,org.eclipse.team.cvs.ui,3.3.200.I20090521-1750,"org.eclipse.team.cvs.ui",1463538812703
+started,bundle,com.spket.ui,1.6.16,"com.spket.ui",1463538820031
+started,bundle,com.spket.xml,1.6.15,"com.spket.xml",1463538820031
+opened,editor,com.spket.xml,1.6.15,"com.spket.xml.editor.xmlEditor",1463538820609

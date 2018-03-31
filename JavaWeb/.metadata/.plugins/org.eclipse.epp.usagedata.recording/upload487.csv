@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+opened,editor,com.spket.xml,1.6.15,"com.spket.xml.editor.xmlEditor",1463539715015
+activated,editor,com.spket.xml,1.6.15,"com.spket.xml.editor.xmlEditor",1463539715062
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1463539730937
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463539758078
+error,log,,,"Could not acquire children from extension: org.eclipse.jst.jee.ui.web",1463539758093
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1463539764796
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1463539766515
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463539766843
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463539768421
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.window.openEditorDropDown",1463539768421
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463539770078
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1463539773640
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463539775343
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1463539779156
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463539780875
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1463539785812
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463539786140
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1463539789781
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463539790390
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1463539791703
+started,bundle,org.eclipse.wst.common.ui,1.1.402.v200901262305,"org.eclipse.wst.common.ui",1463539794500
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463539794625
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463539855640
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1463539856859
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1463539858953

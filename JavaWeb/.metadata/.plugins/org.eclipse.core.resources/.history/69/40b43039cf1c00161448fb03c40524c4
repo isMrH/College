@@ -1,0 +1,55 @@
+package cn.com.systop.Servlet;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletContext;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class GetVoteResultServlet
+ */
+public class GetVoteResultServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public GetVoteResultServlet() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		response.setCharacterEncoding("UTF-8");
+		response.setContentType("text/html");
+		response.addHeader("Cache-Control", "no-store,no-cache,must-revalidate");
+		response.addHeader("Cache-Control", "post-check=0,pre-check=0");
+		response.addHeader("Pragma", "no-cache");
+		
+		ServletContext application=getServletContext();
+		Integer chuxiye=(Integer) application.getAttribute("chuxiye");
+		Integer buchaqian=(Integer) application.getAttribute("buchaqian");
+		Integer zuguosong=(Integer) application.getAttribute("zuguosong");
+		Integer bencaogangmu=(Integer) application.getAttribute("bencaogangmu");
+		
+		Integer ballotcount=chuxiye + buchaqian + zuguosong + bencaogangmu;
+		PrintWriter out=response.getWriter();
+		out.println(this.parseHtml("小品《水下除夕夜》",ballotcount,chuxiye));
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}
+
+}

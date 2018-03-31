@@ -1,0 +1,12 @@
+E:\ACCP5.0\课本\使用Ajax和Web Service重构网上书店(Ajax Web Service)1\Chapter1\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\bin\Debug\HotBooksWebService.exe.config
+E:\ACCP5.0\课本\使用Ajax和Web Service重构网上书店(Ajax Web Service)1\Chapter1\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\obj\Debug\HotBooksWebService.exe
+E:\ACCP5.0\课本\使用Ajax和Web Service重构网上书店(Ajax Web Service)1\Chapter1\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\obj\Debug\HotBooksWebService.pdb
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\bin\Debug\HotBooksWebService.exe.config
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\obj\Debug\HotBooksWebService.exe
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\obj\Debug\HotBooksWebService.pdb
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\bin\Debug\HotBooksWebService.exe
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\bin\Debug\HotBooksWebService.pdb
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\obj\Debug\HotBooksWebService.Form1.resources
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\obj\Debug\HotBooksWebService.Properties.Resources.resources
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\obj\Debug\HotBooksWebService.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+E:\ACCP5.0\课本\使用Ajax和Web Service重构网上书店(Ajax Web Service)1\Chapter1\上机部分\源代码\阶段2\MyBookShop\MyBookShopDAL\bin\Debug\MyBookShopDAL.dll
+E:\ACCP5.0\课本\使用Ajax和Web Service重构网上书店(Ajax Web Service)1\Chapter1\上机部分\源代码\阶段2\MyBookShop\MyBookShopDAL\bin\Debug\MyBookShopDAL.pdb
+E:\ACCP5.0\课本\使用Ajax和Web Service重构网上书店(Ajax Web Service)1\Chapter1\上机部分\源代码\阶段2\MyBookShop\MyBookShopDAL\bin\Debug\MyBookShopModels.dll
+E:\ACCP5.0\课本\使用Ajax和Web Service重构网上书店(Ajax Web Service)1\Chapter1\上机部分\源代码\阶段2\MyBookShop\MyBookShopDAL\bin\Debug\MyBookShopModels.pdb
+E:\ACCP5.0\课本\使用Ajax和Web Service重构网上书店(Ajax Web Service)1\Chapter1\上机部分\源代码\阶段2\MyBookShop\MyBookShopDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP5.0\课本\使用Ajax和Web Service重构网上书店(Ajax Web Service)1\Chapter1\上机部分\源代码\阶段2\MyBookShop\MyBookShopDAL\obj\Debug\MyBookShopDAL.dll
+E:\ACCP5.0\课本\使用Ajax和Web Service重构网上书店(Ajax Web Service)1\Chapter1\上机部分\源代码\阶段2\MyBookShop\MyBookShopDAL\obj\Debug\MyBookShopDAL.pdb
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段2\MyBookShop\MyBookShopDAL\bin\Debug\MyBookShopDAL.dll
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段2\MyBookShop\MyBookShopDAL\bin\Debug\MyBookShopDAL.pdb
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段2\MyBookShop\MyBookShopDAL\bin\Debug\MyBookShopModels.dll
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段2\MyBookShop\MyBookShopDAL\bin\Debug\MyBookShopModels.pdb
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段2\MyBookShop\MyBookShopDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段2\MyBookShop\MyBookShopDAL\obj\Debug\MyBookShopDAL.dll
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段2\MyBookShop\MyBookShopDAL\obj\Debug\MyBookShopDAL.pdb

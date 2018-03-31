@@ -1,0 +1,20 @@
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\MyBookShop - Chapter 09\MyBookShopModels\bin\Debug\MyBookShopModels.dll
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\MyBookShop - Chapter 09\MyBookShopModels\bin\Debug\MyBookShopModels.pdb
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\MyBookShop - Chapter 09\MyBookShopModels\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\MyBookShop - Chapter 09\MyBookShopModels\obj\Debug\MyBookShopModels.dll
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\MyBookShop - Chapter 09\MyBookShopModels\obj\Debug\MyBookShopModels.pdb
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\MyBookShop\MyBookShopModels\bin\Debug\MyBookShopModels.dll
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\MyBookShop\MyBookShopModels\bin\Debug\MyBookShopModels.pdb
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\MyBookShop\MyBookShopModels\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\MyBookShop\MyBookShopModels\obj\Debug\MyBookShopModels.dll
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\MyBookShop\MyBookShopModels\obj\Debug\MyBookShopModels.pdb
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\bin\Debug\MyBookShopModels.dll
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\bin\Debug\MyBookShopModels.pdb
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\obj\Debug\MyBookShopModels.dll
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\obj\Debug\MyBookShopModels.pdb
+E:\ACCP5.0\课本\ASPNET\Chapter 09\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\bin\Debug\MyBookShopModels.dll
+E:\ACCP5.0\课本\ASPNET\Chapter 09\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\bin\Debug\MyBookShopModels.pdb
+E:\ACCP5.0\课本\ASPNET\Chapter 09\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP5.0\课本\ASPNET\Chapter 09\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\obj\Debug\MyBookShopModels.dll
+E:\ACCP5.0\课本\ASPNET\Chapter 09\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\obj\Debug\MyBookShopModels.pdb

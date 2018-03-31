@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460539135000
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460539135531
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460539198453
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.103.v200905151848,"org.eclipse.wst.ws.service.policy",1460539203296
+started,bundle,org.eclipse.wst.command.env,1.0.408.v200903110045,"org.eclipse.wst.command.env",1460539203312
+started,bundle,org.eclipse.wst.ws,1.1.103.v200903111822,"org.eclipse.wst.ws",1460539203312
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.0.v20090513-2000,"org.eclipse.ltk.core.refactoring",1460539204593
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1460539204593
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460539204687
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1460539207015
+closed,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460539207187
+started,bundle,org.eclipse.jdt.junit,3.5.0.v20090526-2000,"org.eclipse.jdt.junit",1460539207265
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460539207328
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1460539207343
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1460539207343
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460539209453
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460539210531
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1460539210531
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1460539210531
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460539214734
+error,log,,,"Could not acquire children from extension: org.eclipse.jst.jee.ui.web",1460539216140
+error,log,,,"Unable to create editor ID org.eclipse.jst.jsp.core.jspsource.source: The file does not exist.",1460539216265
+opened,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460539216296
+opened,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460539216296
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1460539216312

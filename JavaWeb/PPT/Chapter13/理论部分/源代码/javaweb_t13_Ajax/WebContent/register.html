@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<script >
+	var xhr;
+	var valid = true;
+	function fun() {
+		//1、创建xhr对象
+		try {
+			xhr = new ActiveXObject("Microsoft.XMLHTTP");
+		} catch (e) {
+			try {
+				xhr = new XMLHttpRequest();
+			} catch (ee) {
+				try {
+					xhr = new ActiveXObject("Msxml2.XMLHTTP");
+				} catch (eee) {
+					alert('该换浏览器了！浏览器不支持Ajax！');
+				}
+			}
+		}
+
+		if (xhr) {
+			//2、创建Ajax请求，Ajax也有两种请求形式get post
+			//首选使用get形式
+
+			xhr.onreadystatechange = function() {
+				if (xhr.readyState == 4) {
+					//4、处理服务器响应
+					var data = xhr.responseText;
+
+					//消息展示容器
+					var span = document.getElementById("spanNameMessage");
+					if (data == "noexist") {
+						span.style.border = "solid 1px green";
+						span.innerHTML = '恭喜，O(∩_∩)O哈哈~可以使用';
+						valid = true;
+					} else {
+						span.style.border = "solid 1px red";
+						span.innerHTML = '-_-!!!,不可以使用';
+						valid = false;
+					}
+				}
+			}
+			var name = document.forms[0].UserName.value;
+
+			xhr.open("get", "checkuserexist.jsp?UserName="
+					+ encodeURIComponent(name));
+
+			//3、发送Ajax请求
+			xhr.send(null);
+
+		}
+
+	}
+</script>
+</head>
+<body>
+	<form action="register_do.jsp" method="post">
+		name:<input type="text" onblur="fun()" name="UserName" /> <span
+			id="spanNameMessage"></span> <br /> pass:<input type="text"
+			name="UserPass" /> <br /> <input type="submit"
+			onclick="return valid;" value="注册" />
+	</form>
+</body>
+</html>

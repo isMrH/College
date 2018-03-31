@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461564847093
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: Users",1461564847203
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1461564848593
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461564848812
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: Users",1461564848921
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461564851796
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461564854109
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461564857453
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461564859359
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1461564863375
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461564863656
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: Users",1461564863750
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461564873234
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: Users",1461564873343
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461564881281
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461564882703
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461564884109
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461564888859
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461564897015
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.103.v200905151848,"org.eclipse.wst.ws.service.policy",1461564905687
+started,bundle,org.eclipse.wst.command.env,1.0.408.v200903110045,"org.eclipse.wst.command.env",1461564905765
+started,bundle,org.eclipse.wst.ws,1.1.103.v200903111822,"org.eclipse.wst.ws",1461564905765
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461564909328
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461564922578
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.properties",1461564922609

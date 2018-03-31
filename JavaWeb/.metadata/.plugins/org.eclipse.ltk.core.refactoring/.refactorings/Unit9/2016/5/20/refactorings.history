@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;cn.com.systop.servlet.SerCookic&apos; to &apos;SerCookie&apos;&#x0D;&#x0A;- Original project: &apos;Unit9&apos;&#x0D;&#x0A;- Original element: &apos;cn.com.systop.servlet.SerCookic&apos;&#x0D;&#x0A;- Renamed element: &apos;cn.com.systop.servlet.SerCookie&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SerCookic&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;cn.com.systop.servlet{SerCookic.java[SerCookic" matchStrategy="1" name="SerCookie" qualified="false" references="true" similarDeclarations="false" stamp="1462762192312" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://xfire.codehaus.org/config/1.0">
+	<service>
+		<name>Compute</name>
+		<serviceClass>cn.com.systop.l15.ICompute</serviceClass>
+		<implementationClass>
+			cn.com.systop.l15.ComputeImpl
+		</implementationClass>
+	</service>
+</beans>

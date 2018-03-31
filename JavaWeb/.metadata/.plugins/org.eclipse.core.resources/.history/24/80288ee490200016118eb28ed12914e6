@@ -1,0 +1,17 @@
+package cn.com.systop.l15;
+import.org.codehaus.xfire.XFire;
+public class Test {
+	public static void main(String[] args){
+		Service serviceModel=new ObjectServiceFactory().create(ICompute.class);
+		XFire xfire=XFireFactory.newInstance().getXFire();
+		XFireProxyFactory factory = new XFireProxyFactory(xfire):
+		String str="http://localhost:8081/ComputeService/services/Compute";
+		ICompute client = null;
+		try{
+			client=(ICompute) factory.create(serviceModel,str);
+		}catch(Exception e ){
+			e.printStackTrace();
+		}
+		System.out.println(client.Add(3, 10));
+	}
+}

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MyAirTicketWeb", "MyAirTicketWeb", "{52E9D39F-D7EC-400A-882E-51DCE9F7D6EA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{23569387-B042-4780-ADE1-A8F0220C65BE}|MyAirTicket.BLL.dll;{3F788D52-E00A-4A44-9AA0-15B1814B3B06}|MyAirTicket.DAL.dll;{2FD80D63-3E2D-4142-90C1-4F64F32F8329}|MyAirTicket.Model.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/MyAirTicketWeb"
+		Debug.AspNetCompiler.PhysicalPath = "MyAirTicketWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\MyAirTicketWeb\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/MyAirTicketWeb"
+		Release.AspNetCompiler.PhysicalPath = "MyAirTicketWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\MyAirTicketWeb\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1469"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAirTicket.Model", "MyAirTicket.Model\MyAirTicket.Model.csproj", "{2FD80D63-3E2D-4142-90C1-4F64F32F8329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAirTicket.DAL", "MyAirTicket.DAL\MyAirTicket.DAL.csproj", "{3F788D52-E00A-4A44-9AA0-15B1814B3B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAirTicket.BLL", "MyAirTicket.BLL\MyAirTicket.BLL.csproj", "{23569387-B042-4780-ADE1-A8F0220C65BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E9D39F-D7EC-400A-882E-51DCE9F7D6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E9D39F-D7EC-400A-882E-51DCE9F7D6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E9D39F-D7EC-400A-882E-51DCE9F7D6EA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E9D39F-D7EC-400A-882E-51DCE9F7D6EA}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{2FD80D63-3E2D-4142-90C1-4F64F32F8329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD80D63-3E2D-4142-90C1-4F64F32F8329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD80D63-3E2D-4142-90C1-4F64F32F8329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD80D63-3E2D-4142-90C1-4F64F32F8329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F788D52-E00A-4A44-9AA0-15B1814B3B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F788D52-E00A-4A44-9AA0-15B1814B3B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F788D52-E00A-4A44-9AA0-15B1814B3B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F788D52-E00A-4A44-9AA0-15B1814B3B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23569387-B042-4780-ADE1-A8F0220C65BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23569387-B042-4780-ADE1-A8F0220C65BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23569387-B042-4780-ADE1-A8F0220C65BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23569387-B042-4780-ADE1-A8F0220C65BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1460943151015
+java.vm.specification.version,sysinfo,,,"1.0",1460943151015
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1460943151015
+java.vm.version,sysinfo,,,"1.6.0_02-b06",1460943151015
+started,bundle,org.eclipse.wst.jsdt.core,1.0.200.v200905201910,"org.eclipse.wst.jsdt.core",1460943151625
+started,bundle,org.eclipse.wst.jsdt.web.core,1.0.200.v200905120445,"org.eclipse.wst.jsdt.web.core",1460943151687
+started,bundle,org.hibernate.eclipse.jdt.ui,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.jdt.ui",1460943152156
+started,bundle,org.hibernate.eclipse,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse",1460943152218
+started,bundle,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.console",1460943152234
+started,bundle,org.eclipse.jdt.apt.core,3.3.200.v20090528-1135,"org.eclipse.jdt.apt.core",1460943152250
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.200.v20090526-2130,"org.eclipse.jdt.apt.pluggable.core",1460943152250
+started,bundle,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui",1460943152296
+started,bundle,org.eclipse.jdt.debug,3.5.0.v20090526,"org.eclipse.jdt.debug",1460943152343
+started,bundle,org.eclipse.wst.dtd.core,1.1.300.v200904181727,"org.eclipse.wst.dtd.core",1460943152562
+started,bundle,org.eclipse.wst.sse.ui,1.1.100.v200905141750,"org.eclipse.wst.sse.ui",1460943152562
+started,bundle,org.eclipse.wst.html.ui,1.0.400.v200904292008,"org.eclipse.wst.html.ui",1460943152562
+started,bundle,org.eclipse.jst.jsp.core,1.2.202.v200905081451,"org.eclipse.jst.jsp.core",1460943152828
+started,bundle,org.eclipse.wst.wsdl.validation,1.1.401.v200902271605,"org.eclipse.wst.wsdl.validation",1460943152859
+started,bundle,org.eclipse.wst.xsd.core,1.1.401.v200903020335,"org.eclipse.wst.xsd.core",1460943152859
+started,bundle,org.eclipse.wst.xsl.core,1.0.0.v200905071815,"org.eclipse.wst.xsl.core",1460943152859
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460943157171
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460943168375
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1460943168390
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1460943168390
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460943173125

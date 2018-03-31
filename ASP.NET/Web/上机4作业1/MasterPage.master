@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+    *
+    {
+    	margin:0px;
+    	padding:0px;
+    	
+    }
+    #Wap
+    {
+    	width:1000px;
+    	height:auto;
+    	margin:10px auto;
+    }
+    #Banner
+    {
+    	margin:0px auto;
+    	width:1000px;
+    	height:82px;
+    }
+    #Footer
+    {
+    	margin:0px auto;
+    	text-align:center;
+    	width:1000px;
+    	height:30px;
+    	font-size:12px;
+    }
+    #Footer ul
+    {
+    	margin:0px auto;
+    	list-style-type:none;
+    	width:1000px;
+    	height:30px;
+    	line-height:30px;
+    }
+    #Footer li 
+    {
+    	float:left;
+    }
+    	
+    
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="Wap">
+        <div id="Banner"><img alt="教育服务" src="images/banner.jpg" /></div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        <div id="Main">
+        
+        </div>
+        </asp:ContentPlaceHolder>
+        
+        <div id="Footer">
+            <ul>
+                <li>联系我们 |</li>
+                <li>&nbsp;关于企业 |</li>
+                <li>&nbsp;企业邮箱 |</li>
+                <li>&nbsp;企业OA | </li>
+                <li>&nbsp;企业视频 | </li>
+                <li>&nbsp;企业博客 | </li>
+                <li>&nbsp;火速报道 | </li>
+            </ul>
+        
+        </div>
+    </div>
+    </form>
+</body>
+</html>

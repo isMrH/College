@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.0.v200906080535,"org.eclipse.wst.common.project.facet.core",1460942684109
+started,bundle,org.eclipse.wst.server.core,1.1.101.v20090515,"org.eclipse.wst.server.core",1460942684109
+started,bundle,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui",1460942684109
+started,bundle,org.eclipse.wst.sse.core,1.1.400.v200905141750,"org.eclipse.wst.sse.core",1460942684109
+started,bundle,org.eclipse.wst.validation,1.2.102.v200905201610,"org.eclipse.wst.validation",1460942684109
+started,bundle,org.eclipse.wst.web,1.1.300.v200901261500,"org.eclipse.wst.web",1460942684109
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1460942684109
+started,bundle,org.eclipse.wst.xml.core,1.1.400.v200904300540,"org.eclipse.wst.xml.core",1460942684109
+started,bundle,org.tigris.subversion.subclipse.core,1.0.6,"org.tigris.subversion.subclipse.core",1460942684109
+started,bundle,org.tigris.subversion.subclipse.ui,1.0.5,"org.tigris.subversion.subclipse.ui",1460942684109
+os,sysinfo,,,"win32",1460942684125
+arch,sysinfo,,,"x86",1460942684125
+ws,sysinfo,,,"win32",1460942684125
+locale,sysinfo,,,"zh_CN",1460942684125
+processors,sysinfo,,,"2",1460942684125
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1460942684125
+java.runtime.version,sysinfo,,,"1.6.0_02-b06",1460942684125
+java.specification.name,sysinfo,,,"Java Platform API Specification",1460942684125
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1460942684125
+java.specification.version,sysinfo,,,"1.6",1460942684125
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1460942684125
+java.version,sysinfo,,,"1.6.0_02",1460942684125
+java.vm.info,sysinfo,,,"mixed mode",1460942684125
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1460942684125
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1460942684125

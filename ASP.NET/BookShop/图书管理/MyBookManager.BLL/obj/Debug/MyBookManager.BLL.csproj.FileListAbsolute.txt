@@ -1,0 +1,72 @@
+C:\Documents and Settings\Administrator\桌面\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.dll
+C:\Documents and Settings\Administrator\桌面\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.dll
+C:\Documents and Settings\Administrator\桌面\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.dll
+C:\Documents and Settings\Administrator\桌面\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.pdb
+C:\Documents and Settings\Administrator\桌面\图书管理\MyBookManager.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.dll
+C:\Documents and Settings\Administrator\桌面\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.pdb
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.dll
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.pdb
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.dll
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.dll
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.pdb
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.pdb
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.dll
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.pdb
+F:\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.dll
+F:\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.pdb
+F:\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.dll
+F:\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.dll
+F:\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.pdb
+F:\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.pdb
+F:\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.dll
+F:\Net企业级\第十章\阶段3\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.pdb
+F:\Net企业级\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.dll
+F:\Net企业级\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.pdb
+F:\Net企业级\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.dll
+F:\Net企业级\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.dll
+F:\Net企业级\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.pdb
+F:\Net企业级\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.pdb
+F:\Net企业级\第十三章\图书管理\MyBookManager.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Net企业级\第十三章\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.dll
+F:\Net企业级\第十三章\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.pdb
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.dll
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.pdb
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.dll
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.dll
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.pdb
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.pdb
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十三章\图书管理\MyBookManager.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十三章\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.dll
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十三章\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\40李兰兰\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.dll
+C:\Documents and Settings\Administrator\桌面\40李兰兰\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\40李兰兰\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.dll
+C:\Documents and Settings\Administrator\桌面\40李兰兰\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.dll
+C:\Documents and Settings\Administrator\桌面\40李兰兰\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\40李兰兰\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.pdb
+C:\Documents and Settings\Administrator\桌面\40李兰兰\图书管理\MyBookManager.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\40李兰兰\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.dll
+C:\Documents and Settings\Administrator\桌面\40李兰兰\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.pdb
+C:\Users\Administrator\Desktop\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.dll
+C:\Users\Administrator\Desktop\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.pdb
+C:\Users\Administrator\Desktop\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.dll
+C:\Users\Administrator\Desktop\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.dll
+C:\Users\Administrator\Desktop\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.pdb
+C:\Users\Administrator\Desktop\第十三章\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.pdb
+C:\Users\Administrator\Desktop\第十三章\图书管理\MyBookManager.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\第十三章\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.dll
+C:\Users\Administrator\Desktop\第十三章\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.pdb
+F:\Net企业级\第十一章\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.dll
+F:\Net企业级\第十一章\图书管理\MyBookManager.BLL\bin\Debug\MyBookManager.BLL.pdb
+F:\Net企业级\第十一章\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.dll
+F:\Net企业级\第十一章\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.dll
+F:\Net企业级\第十一章\图书管理\MyBookManager.BLL\bin\Debug\MyBookService.DAL.pdb
+F:\Net企业级\第十一章\图书管理\MyBookManager.BLL\bin\Debug\MyBook.Model.pdb
+F:\Net企业级\第十一章\图书管理\MyBookManager.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Net企业级\第十一章\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.dll
+F:\Net企业级\第十一章\图书管理\MyBookManager.BLL\obj\Debug\MyBookManager.BLL.pdb

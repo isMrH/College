@@ -1,0 +1,5 @@
+E:\实训\整理课件\Chapter19\上机部分\源代码\阶段1\MyBookShop\MyBookShopModels\bin\Debug\MyBookShopModels.dll
+E:\实训\整理课件\Chapter19\上机部分\源代码\阶段1\MyBookShop\MyBookShopModels\bin\Debug\MyBookShopModels.pdb
+E:\实训\整理课件\Chapter19\上机部分\源代码\阶段1\MyBookShop\MyBookShopModels\obj\Debug\ResolveAssemblyReference.cache
+E:\实训\整理课件\Chapter19\上机部分\源代码\阶段1\MyBookShop\MyBookShopModels\obj\Debug\MyBookShopModels.dll
+E:\实训\整理课件\Chapter19\上机部分\源代码\阶段1\MyBookShop\MyBookShopModels\obj\Debug\MyBookShopModels.pdb

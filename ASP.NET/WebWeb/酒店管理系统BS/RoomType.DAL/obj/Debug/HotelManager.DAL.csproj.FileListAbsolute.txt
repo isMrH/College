@@ -1,0 +1,14 @@
+F:\ASP.NET\WebWeb\酒店管理系统BS\酒店管理系统项目\RoomType.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\WebWeb\酒店管理系统BS\酒店管理系统项目\RoomType.DAL\bin\Debug\RoomType.DAL.dll
+F:\ASP.NET\WebWeb\酒店管理系统BS\酒店管理系统项目\RoomType.DAL\bin\Debug\RoomType.DAL.pdb
+F:\ASP.NET\WebWeb\酒店管理系统BS\酒店管理系统项目\RoomType.DAL\bin\Debug\RoomType.Model.dll
+F:\ASP.NET\WebWeb\酒店管理系统BS\酒店管理系统项目\RoomType.DAL\bin\Debug\RoomType.Model.pdb
+F:\ASP.NET\WebWeb\酒店管理系统BS\酒店管理系统项目\RoomType.DAL\obj\Debug\RoomType.DAL.dll
+F:\ASP.NET\WebWeb\酒店管理系统BS\酒店管理系统项目\RoomType.DAL\obj\Debug\RoomType.DAL.pdb
+F:\ASP.NET\WebWeb\酒店管理系统BS\RoomType.DAL\bin\Debug\RoomType.DAL.dll
+F:\ASP.NET\WebWeb\酒店管理系统BS\RoomType.DAL\bin\Debug\RoomType.DAL.pdb
+F:\ASP.NET\WebWeb\酒店管理系统BS\RoomType.DAL\bin\Debug\RoomType.Model.dll
+F:\ASP.NET\WebWeb\酒店管理系统BS\RoomType.DAL\bin\Debug\RoomType.Model.pdb
+F:\ASP.NET\WebWeb\酒店管理系统BS\RoomType.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\WebWeb\酒店管理系统BS\RoomType.DAL\obj\Debug\RoomType.DAL.dll
+F:\ASP.NET\WebWeb\酒店管理系统BS\RoomType.DAL\obj\Debug\RoomType.DAL.pdb

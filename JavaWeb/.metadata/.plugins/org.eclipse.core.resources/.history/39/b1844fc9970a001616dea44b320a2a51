@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+	xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.0.xsd">
+
+
+	<bean id="dataSource"
+		class="org.apache.commons.dbcp.BasicDataSource">
+		<property name="driverClassName"
+			value="com.microsoft.sqlserver.jdbc.SQLServerDriver">
+		</property>
+		<property name="url"
+			value="jdbc:sqlserver://localhost:1433;databaseName=TestDB">
+		</property>
+		<property name="username" value="sa"></property>
+		<property name="password" value="sa"></property>
+	</bean>
+	<bean id="sessionFactory"
+		class="org.springframework.orm.hibernate3.LocalSessionFactoryBean">
+		<property name="dataSource">
+			<ref bean="dataSource"></ref>
+		</property>
+		<property name="hibernateProperties">
+			<props>
+				<prop key="hibernate.dialect">
+					org.hibernate.dialect.SQLServerDialect
+				</prop>
+				<prop key="hibernate.show_sql">true</prop>
+			</props>
+		</property>
+		<property name="mappingResources">
+			<list>
+				<value>cn/com/systop/ssh/entity/Person.hbm.xml</value></list>
+		</property>
+	</bean>
+	<!-- DAO -->
+	<bean id="personDAO" class="cn.com.systop.ssh.dao.impl.PersonDAOImpl">
+		<property name="sessionFactory">
+			<ref bean="sessionFactory"></ref>
+		</property>
+	</bean>
+	<!-- biz/services -->
+	<bean id="personBiz" class="cn.com.systop.ssh.biz.impl.PersonBizImpl">
+		<property name="personDAO">
+			<ref bean="personDAO"></ref>
+		</property>
+	</bean>
+	<!-- biz/services -->
+	<bean name="/person" class="cn.com.systop.ssh.web.action.PersonAction">
+		<property name="personBiz">
+			<ref bean="personBiz"></ref>
+		</property>
+	</bean>
+</beans>

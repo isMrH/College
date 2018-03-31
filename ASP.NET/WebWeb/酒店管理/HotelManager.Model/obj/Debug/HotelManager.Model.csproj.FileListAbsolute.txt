@@ -1,0 +1,20 @@
+F:\ASP.NET\上机\酒店管理\HotelManager.Model\bin\Debug\HotelManager.Model.dll
+F:\ASP.NET\上机\酒店管理\HotelManager.Model\bin\Debug\HotelManager.Model.pdb
+F:\ASP.NET\上机\酒店管理\HotelManager.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\上机\酒店管理\HotelManager.Model\obj\Debug\HotelManager.Model.dll
+F:\ASP.NET\上机\酒店管理\HotelManager.Model\obj\Debug\HotelManager.Model.pdb
+I:\酒店管理\HotelManager.Model\bin\Debug\HotelManager.Model.dll
+I:\酒店管理\HotelManager.Model\bin\Debug\HotelManager.Model.pdb
+I:\酒店管理\HotelManager.Model\obj\Debug\ResolveAssemblyReference.cache
+I:\酒店管理\HotelManager.Model\obj\Debug\HotelManager.Model.dll
+I:\酒店管理\HotelManager.Model\obj\Debug\HotelManager.Model.pdb
+C:\Documents and Settings\Administrator\桌面\酒店管理\HotelManager.Model\bin\Debug\HotelManager.Model.dll
+C:\Documents and Settings\Administrator\桌面\酒店管理\HotelManager.Model\bin\Debug\HotelManager.Model.pdb
+C:\Documents and Settings\Administrator\桌面\酒店管理\HotelManager.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\酒店管理\HotelManager.Model\obj\Debug\HotelManager.Model.dll
+C:\Documents and Settings\Administrator\桌面\酒店管理\HotelManager.Model\obj\Debug\HotelManager.Model.pdb
+F:\ASP.NET\WebWeb\酒店管理\HotelManager.Model\bin\Debug\HotelManager.Model.dll
+F:\ASP.NET\WebWeb\酒店管理\HotelManager.Model\bin\Debug\HotelManager.Model.pdb
+F:\ASP.NET\WebWeb\酒店管理\HotelManager.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\WebWeb\酒店管理\HotelManager.Model\obj\Debug\HotelManager.Model.dll
+F:\ASP.NET\WebWeb\酒店管理\HotelManager.Model\obj\Debug\HotelManager.Model.pdb

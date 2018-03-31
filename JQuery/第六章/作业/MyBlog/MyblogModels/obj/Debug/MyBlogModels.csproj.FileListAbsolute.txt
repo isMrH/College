@@ -1,0 +1,30 @@
+E:\实训\第2周\Chapter07\项目训练1\源代码\代码参考\MyBlog\MyblogModels\bin\Debug\MyblogModels.dll
+E:\实训\第2周\Chapter07\项目训练1\源代码\代码参考\MyBlog\MyblogModels\bin\Debug\MyblogModels.pdb
+E:\实训\第2周\Chapter07\项目训练1\源代码\代码参考\MyBlog\MyblogModels\obj\Debug\ResolveAssemblyReference.cache
+E:\实训\第2周\Chapter07\项目训练1\源代码\代码参考\MyBlog\MyblogModels\obj\Debug\MyblogModels.dll
+E:\实训\第2周\Chapter07\项目训练1\源代码\代码参考\MyBlog\MyblogModels\obj\Debug\MyblogModels.pdb
+D:\软件学院\网站\第八章\项目训练1\源代码\代码参考\MyBlog\MyblogModels\bin\Debug\MyblogModels.dll
+D:\软件学院\网站\第八章\项目训练1\源代码\代码参考\MyBlog\MyblogModels\bin\Debug\MyblogModels.pdb
+D:\软件学院\网站\第八章\项目训练1\源代码\代码参考\MyBlog\MyblogModels\obj\Debug\ResolveAssemblyReference.cache
+D:\软件学院\网站\第八章\项目训练1\源代码\代码参考\MyBlog\MyblogModels\obj\Debug\MyblogModels.dll
+D:\软件学院\网站\第八章\项目训练1\源代码\代码参考\MyBlog\MyblogModels\obj\Debug\MyblogModels.pdb
+D:\安博\软件学院\网站\第八章\项目训练1\源代码\代码参考\MyBlog\MyblogModels\bin\Debug\MyblogModels.dll
+D:\安博\软件学院\网站\第八章\项目训练1\源代码\代码参考\MyBlog\MyblogModels\bin\Debug\MyblogModels.pdb
+D:\安博\软件学院\网站\第八章\项目训练1\源代码\代码参考\MyBlog\MyblogModels\obj\Debug\ResolveAssemblyReference.cache
+D:\安博\软件学院\网站\第八章\项目训练1\源代码\代码参考\MyBlog\MyblogModels\obj\Debug\MyblogModels.dll
+D:\安博\软件学院\网站\第八章\项目训练1\源代码\代码参考\MyBlog\MyblogModels\obj\Debug\MyblogModels.pdb
+D:\软件学院\项目\JQueryAjax\MyBlog\MyblogModels\bin\Debug\MyblogModels.dll
+D:\软件学院\项目\JQueryAjax\MyBlog\MyblogModels\bin\Debug\MyblogModels.pdb
+D:\软件学院\项目\JQueryAjax\MyBlog\MyblogModels\obj\Debug\ResolveAssemblyReference.cache
+D:\软件学院\项目\JQueryAjax\MyBlog\MyblogModels\obj\Debug\MyblogModels.dll
+D:\软件学院\项目\JQueryAjax\MyBlog\MyblogModels\obj\Debug\MyblogModels.pdb
+E:\软件学院教学\2014上半学年\软件界面设计\JQ\课件\JQueryAjax\JQueryAjax2\MyBlog\MyblogModels\bin\Debug\MyblogModels.dll
+E:\软件学院教学\2014上半学年\软件界面设计\JQ\课件\JQueryAjax\JQueryAjax2\MyBlog\MyblogModels\bin\Debug\MyblogModels.pdb
+E:\软件学院教学\2014上半学年\软件界面设计\JQ\课件\JQueryAjax\JQueryAjax2\MyBlog\MyblogModels\obj\Debug\ResolveAssemblyReference.cache
+E:\软件学院教学\2014上半学年\软件界面设计\JQ\课件\JQueryAjax\JQueryAjax2\MyBlog\MyblogModels\obj\Debug\MyblogModels.dll
+E:\软件学院教学\2014上半学年\软件界面设计\JQ\课件\JQueryAjax\JQueryAjax2\MyBlog\MyblogModels\obj\Debug\MyblogModels.pdb
+C:\Documents and Settings\Administrator\桌面\MyBlog\MyblogModels\bin\Debug\MyblogModels.dll
+C:\Documents and Settings\Administrator\桌面\MyBlog\MyblogModels\bin\Debug\MyblogModels.pdb
+C:\Documents and Settings\Administrator\桌面\MyBlog\MyblogModels\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MyBlog\MyblogModels\obj\Debug\MyblogModels.dll
+C:\Documents and Settings\Administrator\桌面\MyBlog\MyblogModels\obj\Debug\MyblogModels.pdb

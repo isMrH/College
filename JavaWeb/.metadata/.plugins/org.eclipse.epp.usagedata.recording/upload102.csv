@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460945832828
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945842750
+started,bundle,org.eclipse.wst.common.environment,1.0.202.v200807161459,"org.eclipse.wst.common.environment",1460945856953
+started,bundle,org.eclipse.wst.web.ui,1.1.300.v200905242131,"org.eclipse.wst.web.ui",1460945857156
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945862328
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1460945862343
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460945862906
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1460945880984
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460945887718
+opened,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460945888140
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460945888187
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460945889750
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1460945892046
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460945896812
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460945898843
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1460945899625
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460945902937
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460945914968
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945918281
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945933234
+opened,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460945933312
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460945933359
+error,log,,,"Could not publish server configuration for Tomcat v6.0 Server at localhost.",1460945934375
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945934390
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945942640

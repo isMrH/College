@@ -1,0 +1,339 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Admin.master.cs" Inherits="Admin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+     <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+     <style type="text/css">
+        .submenu
+        {
+            display: none;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>  
+     <script language="javascript">
+        function checkall(chk)
+        {
+            var itemlist=document.getElementsByTagName("input");
+            for(var i=0;i<itemlist.length;i++)
+            {
+                if(itemlist[i].type=="checkbox")
+                {
+                    itemlist[i].checked=chk.checked;
+                }
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="page">
+        <div class="header">
+            <table width="100%" style="border:0px inset #000; margin-bottom:5px" >
+            <tr>
+                <td style=" width:170px; text-align:center; border:0px; border-bottom:1px solid #FFC300">
+                <h1>
+                    <asp:Image ID="Image8" runat="server"  ImageUrl ="~/images/jykb_top.gif"/>  </h1>
+           </td>
+                <td style="  border:0px;border-bottom:1px solid #FFC300"> 
+                 <div id="menucontainer">
+                <ul id="menu">
+                    <li>
+                        <asp:HyperLink ID="HyperLink10" NavigateUrl ="~/News/DisplayDynamicNews.aspx" runat="server">返回首页</asp:HyperLink>                      
+                    </li>                 
+                      
+                    <li>
+                        <asp:HyperLink ID="HyperLink9" NavigateUrl ="~/AdminNews/Login.aspx" runat="server">安全退出</asp:HyperLink>                      
+                    </li>
+                </ul>
+            </div></td>
+            </tr>
+        </table>
+            
+        </div>
+
+        <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+                <td id='shang' width="162" height="100%" valign="top" align="center">
+                    <div id="masterdiv">
+                        <div class="menutitle" onclick="SwitchMenu('newsType')">
+                            新闻类别管理
+                            <hr  size=2 style="border-style: solid; border-width: 1px" />
+                        </div>
+                        <span class="submenu" id="newsType">
+                            <table style="margin-left: 4px" cellspacing="1" cellpadding="4" width="159px" class="tableborder">
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <asp:Image ID="Image6" ImageUrl ="~/images/admin/arrow.gif" runat="server" />                                     
+                                        <asp:HyperLink ID="HyperLink1" NavigateUrl ="~/AdminNews/Create.aspx" runat="server">添加新闻类别</asp:HyperLink>
+                                    </td>
+                                </tr>
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <asp:Image ID="Image7" ImageUrl ="~/images/admin/arrow.gif" runat="server" />                                      
+                                         <asp:HyperLink ID="HyperLink2" NavigateUrl ="~/AdminNews/Index.aspx" runat="server">新闻类别管理</asp:HyperLink>
+                                    </td>
+                                </tr>
+                            </table>
+                        </span>
+                        <div class="menutitle" onclick="SwitchMenu('news')">
+                            新闻信息管理
+                            <hr  size=2 style="border-style: solid; border-width: 1px" />                         
+                        </div>
+                        <span class="submenu" id="news">
+                            <table style="margin-left: 4px" cellspacing="1" cellpadding="4" width="159px" class="tableborder">
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;                                       
+                                       <asp:Image ID="Image2" ImageUrl ="~/images/admin/arrow.gif" runat="server" />                                     
+                                      <asp:HyperLink ID="HyperLink3" NavigateUrl ="" runat="server">添加新闻信息</asp:HyperLink>
+                                      
+                                    </td>
+                                </tr>
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;                                      
+                                        <asp:Image ID="Image1" ImageUrl ="~/images/admin/arrow.gif" runat="server" />                                        
+                                         <asp:HyperLink ID="HyperLink4" NavigateUrl ="" runat="server">新闻信息管理</asp:HyperLink>
+                                    </td>
+                                </tr>
+                            </table>
+                        </span>
+                       <%-- <div class="menutitle" onclick="SwitchMenu('vistors')">
+                            我要报名管理
+                             <hr  size=2 style="border-style: solid; border-width: 1px" />
+                        </div>
+                        <span class="submenu" id="vistors">
+                            <table style="margin-left: 4px" cellspacing="1" cellpadding="4" width="159px" class="tableborder">
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("我要报名管理", "RegisterVistorsList", "AdminRegisterVistors")%>
+                                    </td>
+                                </tr>
+                            </table>
+                        </span>
+                        <div class="menutitle" onclick="SwitchMenu('onlineRefers')">
+                            网上咨询管理
+                             <hr  size=2 style="border-style: solid; border-width: 1px" />
+                        </div>
+                        <span class="submenu" id="onlineRefers">
+                            <table style="margin-left: 4px" cellspacing="1" cellpadding="4" width="159px" class="tableborder">
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("网上咨询管理", "Index", "AdminOnLineRefer")%>
+                                    </td>
+                                </tr>
+                            </table>
+                        </span>
+                        <div class="menutitle" onclick="SwitchMenu('class')">
+                            班级信息管理
+                             <hr  size=2 style="border-style: solid; border-width: 1px" />
+                        </div>
+                        <span class="submenu" id="class">
+                            <table style="margin-left: 4px" cellspacing="1" cellpadding="4" width="159px" class="tableborder">
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("添加班级","Create","AdminClassInfo") %>
+                                    </td>
+                                </tr>
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("班级管理", "ClassList", "AdminClassInfo")%>
+                                    </td>
+                                </tr>
+                            </table>
+                        </span>
+                        <div class="menutitle" onclick="SwitchMenu('student')">
+                            就业明星管理
+                             <hr  size=2 style="border-style: solid; border-width: 1px" />
+                        </div>
+                        <span class="submenu" id="student">
+                            <table style="margin-left: 4px" cellspacing="1" cellpadding="4" width="159px" class="tableborder">
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("添加就业明星","Create","AdminStudentStars") %>
+                                    </td>
+                                </tr>
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("就业明星管理","StudentList","AdminStudentStars") %>
+                                    </td>
+                                </tr>
+                            </table>
+                        </span>
+                        <div class="menutitle" onclick="SwitchMenu('dept')">
+                            部门信息管理
+                             <hr  size=2 style="border-style: solid; border-width: 1px" />
+                        </div>
+                        <span class="submenu" id="dept">
+                            <table style="margin-left: 4px" cellspacing="1" cellpadding="4" width="159px" class="tableborder">
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("添加新部门", "Create", "AdminDepartment")%>
+                                    </td>
+                                </tr>
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("部门管理", "DepartmentList", "AdminDepartment")%>&nbsp;&nbsp;
+                                    </td>
+                                </tr>
+                            </table>
+                        </span>
+                        <div class="menutitle" onclick="SwitchMenu('teacher')">
+                            教员信息管理
+                             <hr  size=2 style="border-style: solid; border-width: 1px" />
+                        </div>
+                        <span class="submenu" id="teacher">
+                            <table style="margin-left: 4px" cellspacing="1" cellpadding="4" width="159px" class="tableborder">
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("添加新教员", "Create", "AdminTeachers")%>
+                                    </td>
+                                </tr>
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("教师管理", "TeacherList", "AdminTeachers")%>&nbsp;&nbsp;
+                                    </td>
+                                </tr>
+                            </table>
+                        </span>
+                        <div class="menutitle" onclick="SwitchMenu('enterprise')">
+                            企业信息管理
+                            <hr  size=2 style="border-style: solid; border-width: 1px" />
+                        </div>
+                        <span class="submenu" id="enterprise">
+                            <table style="margin-left: 4px" cellspacing="1" cellpadding="4" width="159px" class="tableborder">
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("添加企业信息", "Create", "AdminEnterprise")%>
+                                    </td>
+                                </tr>
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("企业信息管理", "EnterpriseList", "AdminEnterprise")%>
+                                    </td>
+                                </tr>
+                            </table>
+                        </span>--%>
+                        <div class="menutitle" onclick="SwitchMenu('users')">
+                            用户信息管理
+                            <hr  size=2 style="border-style: solid; border-width: 1px" />
+                        </div>
+                        <span class="submenu" id="users">
+                            <table style="margin-left: 4px" cellspacing="1" cellpadding="4" width="159px" class="tableborder">
+                                <% string userName = Session["userName"] == null ? "" : Session["userName"].ToString();%>
+                                <%if (userName == "admin")
+                                  {%>
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <asp:Image ID="Image3" ImageUrl ="~/images/admin/arrow.gif" runat="server" />
+                                       <%-- <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">--%>
+                                       <%-- <%= Html.ActionLink("注册用户", "Register", "Account")%>--%>
+                                        <asp:HyperLink ID="HyperLink5" NavigateUrl ="" runat="server">注册用户</asp:HyperLink>
+                                    </td>
+                                </tr>
+                                <%} %>
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <asp:Image ID="Image4" ImageUrl ="~/images/admin/arrow.gif" runat="server" />
+                                        <%--<img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">--%>
+                                  <%--      <%= Html.ActionLink("修改密码", "ChangePassword", "Account")%>--%>
+                                         <asp:HyperLink ID="HyperLink6" NavigateUrl ="" runat="server">修改密码</asp:HyperLink>
+                                    </td>
+                                </tr>
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <asp:Image ID="Image5" ImageUrl ="~/images/admin/arrow.gif" runat="server" />
+                                        <%--<img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">--%>
+                                       <%-- <%= Html.ActionLink("用户列表", "AccountList", "Account")%>--%>
+                                        <asp:HyperLink ID="HyperLink7" NavigateUrl ="" runat="server">用户列表</asp:HyperLink>
+                                    </td>
+                                </tr>
+                            </table>
+                        </span>
+                        
+                     <%--     <div class="menutitle" onclick="SwitchMenu('question')">
+                            测评试题管理
+                             <hr  size=2 style="border-style: solid; border-width: 1px" />
+                        </div>
+                        <span class="submenu" id="question">
+                            <table style="margin-left: 4px" cellspacing="1" cellpadding="4" width="159px" class="tableborder">
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("试题列表", "Index", "AdminOLQuestions")%>
+                                    </td>
+                                </tr>
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("添加试题", "Create", "AdminOLQuestions")%>
+                                    </td>
+                                </tr>                           
+                               
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("试题类型", "Index", "AdminQuestionType")%>
+                                    </td>
+                                </tr>
+                                <tr class="altbg1">
+                                    <td height="25" width="100%" align="center" bgcolor="#D6E0EF">
+                                        &nbsp;&nbsp;
+                                        <img border="0" src="../../Content/images/admin/icon_arrow_r.gif" width="13" height="13">
+                                        <%= Html.ActionLink("测评管理", "Index", "AdminVisitorAnswer")%>
+                                    </td>
+                                </tr>
+                            </table>
+                        </span>--%>
+                        
+                        
+                    </div>
+                </td>
+                <td width="100%" height="100%" valign="top">
+                    <div id="main" style="background-color: #D6E0EF">
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                        </asp:ContentPlaceHolder>
+                        <div id="footer">
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

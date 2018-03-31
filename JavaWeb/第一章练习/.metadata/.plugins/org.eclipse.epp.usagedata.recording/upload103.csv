@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460948269515
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1460948294718
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460948295812
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460948298140
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1460948302281
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460948303312
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460948310796
+error,log,,,"File not found: '/MovieTest/src/__2F_MovieTest_2F_WebContent_2F_AddMovie_2F_AddMovie_2E_jsp.java'",1460948338687
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1460948355031
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460948357390
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460948361671
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1460948374421
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1460948376687
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1460948383390
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460948384437
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460948388593
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1460948396500
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1460948416015
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460948417078
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460948428031
+error,log,,,"File not found: '/MovieTest/src/__2F_MovieTest_2F_WebContent_2F_AddMovie_2F_AddMovie_2E_jsp.java'",1460948555000
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1460948574109
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460948579234
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460948582828
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1460948674968

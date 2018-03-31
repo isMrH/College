@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\桌面\图书管理\MyBook.Model\bin\Debug\MyBook.Model.dll
+C:\Documents and Settings\Administrator\桌面\图书管理\MyBook.Model\bin\Debug\MyBook.Model.pdb
+C:\Documents and Settings\Administrator\桌面\图书管理\MyBook.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\图书管理\MyBook.Model\obj\Debug\MyBook.Model.dll
+C:\Documents and Settings\Administrator\桌面\图书管理\MyBook.Model\obj\Debug\MyBook.Model.pdb
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十章\阶段3\图书管理\MyBook.Model\bin\Debug\MyBook.Model.dll
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十章\阶段3\图书管理\MyBook.Model\bin\Debug\MyBook.Model.pdb
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十章\阶段3\图书管理\MyBook.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十章\阶段3\图书管理\MyBook.Model\obj\Debug\MyBook.Model.dll
+C:\Users\Administrator\Desktop\作业\第四学期\Net企业级\第十章\阶段3\图书管理\MyBook.Model\obj\Debug\MyBook.Model.pdb
+F:\Net企业级\第十章\阶段3\图书管理\MyBook.Model\bin\Debug\MyBook.Model.dll
+F:\Net企业级\第十章\阶段3\图书管理\MyBook.Model\bin\Debug\MyBook.Model.pdb
+F:\Net企业级\第十章\阶段3\图书管理\MyBook.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\Net企业级\第十章\阶段3\图书管理\MyBook.Model\obj\Debug\MyBook.Model.dll
+F:\Net企业级\第十章\阶段3\图书管理\MyBook.Model\obj\Debug\MyBook.Model.pdb
+F:\NET企业级\图书管理1\MyBook.Model\bin\Debug\MyBook.Model.dll
+F:\NET企业级\图书管理1\MyBook.Model\bin\Debug\MyBook.Model.pdb
+F:\NET企业级\图书管理1\MyBook.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\NET企业级\图书管理1\MyBook.Model\obj\Debug\MyBook.Model.dll
+F:\NET企业级\图书管理1\MyBook.Model\obj\Debug\MyBook.Model.pdb

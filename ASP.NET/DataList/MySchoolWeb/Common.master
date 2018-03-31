@@ -1,0 +1,77 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Common.master.cs" Inherits="Common" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Styles/common.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/index.css" rel="stylesheet" type="text/css" />
+    <link href ="Styles/news.css" rel="Stylesheet" type ="text/css" />
+</head>
+<body>     
+    <form id="form1" runat="server">
+    <div class="div" id="topN">
+        &nbsp;<asp:HyperLink ID="hlTop" runat="server" ImageUrl="~/images/banner.jpg">HyperLink</asp:HyperLink>
+        </div>
+    <div class="div" id="topNav">
+       
+  
+    
+    <div >
+          <!--中间大广告-->
+<div id="center_ads">
+</div>
+
+<!--新闻页面中间大版块-->
+<div id="main" class="div">
+    <!--左边导航-->
+	<div class="left">
+		<div class="title">新闻动态</div>
+		<div class="nav" id="newsstyle">
+       <asp:SiteMapDataSource ID="NewsSource" runat="server" />
+       <asp:TreeView ID="tvNewsType" runat="server" DataSourceID="NewsSource" 
+                ShowExpandCollapse="False" style="margin-right: 0px">
+           <LeafNodeStyle Font-Bold="True" 
+               ImageUrl="~/images/news_content_title_dot.gif" />
+           <NodeStyle ChildNodesPadding="15px" ForeColor="#0066CC" 
+               HorizontalPadding="10px" NodeSpacing="4px" VerticalPadding="1px" />
+        </asp:TreeView>	
+     </div>
+       
+</div>
+	
+	<!--右边内容-->
+	<div id="right" class="right">
+        <div>
+        您当前的位置为：新闻动态<asp:SiteMapPath ID="SiteMapPath1" runat="server">
+            </asp:SiteMapPath>
+        </div>
+        <asp:ContentPlaceHolder ID="cphContent" runat="server">
+        </asp:ContentPlaceHolder>
+        </div>
+	
+	<div class="hack"></div>
+</div>
+<div class="newsfooter div"></div>
+
+<div class="hack5 div"></div>
+    </div>
+    <!--页尾内容版本-->
+    <div class="div" id="footer">
+        <div class="link1">
+            <a href="About.aspx?url=women">联系我们</a> <a>|</a> <a href="About.aspx?url=jianjie">关于企业</a> <a>|</a> <a href=""
+                target="_blank">企业邮箱</a> <a>|</a> <a href="" target="_blank">企业OA</a> <a>|</a> <a href="" target="_blank">企业视频</a> <a>|</a> 
+            <a href="" target="_blank">企业博客</a> <a>|</a> <a href="" target="_blank">火速报道</a>  
+        </div>
+        <div class="content">
+            地址：河北石家庄中山东路         
+            冀ICP备号 <a href="http://www.hebsoft.net.cn" target="_blank">企业教育集团</a>
+        
+        </div>
+        </div> 
+    </form>
+</body>
+</html>

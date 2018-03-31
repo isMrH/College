@@ -1,0 +1,25 @@
+F:\文件接收柜\上机4\myBlog.Model\bin\Debug\myBlog.Model.dll
+F:\文件接收柜\上机4\myBlog.Model\bin\Debug\myBlog.Model.pdb
+F:\文件接收柜\上机4\myBlog.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\文件接收柜\上机4\myBlog.Model\obj\Debug\myBlog.Model.dll
+F:\文件接收柜\上机4\myBlog.Model\obj\Debug\myBlog.Model.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\myBlog.Model\bin\Debug\myBlog.Model.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\myBlog.Model\bin\Debug\myBlog.Model.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\myBlog.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\myBlog.Model\obj\Debug\myBlog.Model.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\myBlog.Model\obj\Debug\myBlog.Model.pdb
+F:\1\myBlog.Model\bin\Debug\myBlog.Model.dll
+F:\1\myBlog.Model\bin\Debug\myBlog.Model.pdb
+F:\1\myBlog.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\1\myBlog.Model\obj\Debug\myBlog.Model.dll
+F:\1\myBlog.Model\obj\Debug\myBlog.Model.pdb
+C:\Documents and Settings\Administrator\桌面\1\myBlog.Model\bin\Debug\myBlog.Model.dll
+C:\Documents and Settings\Administrator\桌面\1\myBlog.Model\bin\Debug\myBlog.Model.pdb
+C:\Documents and Settings\Administrator\桌面\1\myBlog.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\1\myBlog.Model\obj\Debug\myBlog.Model.dll
+C:\Documents and Settings\Administrator\桌面\1\myBlog.Model\obj\Debug\myBlog.Model.pdb
+F:\ASP.NET\Web\北极星博客\1\myBlog.Model\bin\Debug\myBlog.Model.dll
+F:\ASP.NET\Web\北极星博客\1\myBlog.Model\bin\Debug\myBlog.Model.pdb
+F:\ASP.NET\Web\北极星博客\1\myBlog.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\Web\北极星博客\1\myBlog.Model\obj\Debug\myBlog.Model.dll
+F:\ASP.NET\Web\北极星博客\1\myBlog.Model\obj\Debug\myBlog.Model.pdb

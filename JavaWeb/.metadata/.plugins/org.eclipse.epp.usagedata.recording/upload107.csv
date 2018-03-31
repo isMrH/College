@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946339218
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1460946339234
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460946341468
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1460946343015
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946347953
+error,log,,,"Could not acquire children from extension: org.eclipse.jst.jee.ui.web",1460946348640
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946348671
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1460946348687
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1460946348687
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946349593
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946349593
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946349671
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946361437
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946362468
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946365375
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1460946369640
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946370953
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946370953
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946371031
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946379703
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946382671
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946392828
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1460946392843
+error,log,,,"Could not publish server configuration for Tomcat v6.0 Server at localhost.",1460946394359
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946394406

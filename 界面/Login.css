@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	color:#333333;
+	font-family:"宋体";
+	font-size:12px;
+}
+#Wapper{
+	min-width:1024px;
+	min-height:700px;
+	max-width:100%;
+	max-height:100%;
+}
+#Banner{
+	left:0px;
+	position:absolute;
+	top:0;
+}
+#Login{
+	background-color:#FFF;
+	width:550px;
+	height:50px;
+	position:absolute;
+	top:300px;
+	left:530px;
+	font-size:16px;
+	font-weight:bold;
+	
+}
+#Login input{
+	border:1px solid #CCC;
+	height:30px;
+	width:300px;
+	color:#333333;
+	font-size:18px;
+	line-height:30px;
+
+}
+#Login .col{
+	width:500px;
+	margin-top:10px;
+}
+#Login .BtnLogin{
+	margin-top:20px;
+	position:absolute;
+	left:150px;
+	cursor:pointer;
+}
+#MesNum,#MesPwd{
+	padding-left:5px;
+	font-size:12px;
+	color:red;
+	display:none;
+}
+.Gray{
+	font-size:14px;
+	color:#D5D5D5;
+}
+

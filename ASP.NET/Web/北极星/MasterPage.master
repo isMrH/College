@@ -1,0 +1,146 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        *
+        {
+        	margin:0px;
+        	padding:0px;
+        }
+        #Wap
+        {
+    	    width:900px;
+    	    height:auto;
+    	    margin:5px auto;
+        }
+        #Banner
+        {
+        	width:900px;
+        	height:80px;
+    	    margin:0px auto;
+        }
+        #Main
+        {
+        	width:900px;
+        	height:324px;
+        	margin:30px auto;
+        	
+        }
+        .Main_Left
+        {
+        	width:660px;
+        	height:300px;
+        	border:1px solid gray;
+        	float:left;
+        	text-align:center;
+        	vertical-align:middle;
+        }
+        .Main_Right
+        {
+        	border-left: 1px solid gray;
+            border-right: 1px solid gray;
+            border-bottom: 1px solid gray;
+width:203px;
+        	    height:158px;
+        	    border-top:none;
+        	    float:left;
+        	    margin-left:30px;
+        }
+        .Login span
+        {
+        	height:40px;
+        	width:100px;
+        	line-height:40px;
+        	margin-left:10px;
+        	font-size:14px;
+        	
+        }
+        .Col
+        {
+        	font-size:12px;
+        	line-height:30px;
+        	width:200px;
+            height: 119px;
+            text-align:center;
+            border-top:1px solid gray;
+        }
+ 
+        #Footer
+        {
+        	text-align:center;
+        	height:40px;
+        	width:900px;
+        	background-color:#adb3d6;
+        	line-height:40px;
+        	font-size:12px;
+        }
+        #PanLoginMes
+        {
+        	padding-top:20px;
+        }
+        .font
+        {
+        	margin-left:20px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form2" runat="server">
+        <div id="Wap">
+        <div id="Banner">
+            <img alt="北极星博客" src="images/top.jpg" />
+        </div>
+        <div id="Main">
+            <div class="Main_Left">
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">        
+            </asp:ContentPlaceHolder>            
+            
+            </div>
+            <div class="Main_Right">
+            <asp:Panel ID="PanLogin" runat="server" Width="201px" Height="174px">
+                <div class="Login"><span>用户登录|Login</span></div>
+                <div class="Col">
+                    <asp:Label ID="lblName" runat="server" Text="用户名：" Height="30px" Width="50px" ></asp:Label>
+                    <asp:TextBox ID="txtName" runat="server" BorderColor="#CCCCCC" 
+                        BorderWidth="1px"></asp:TextBox>
+                    <br />
+                    <asp:Label ID="lblPwd" runat="server" Text="密码：" Height="30px" Width="50px"></asp:Label>
+                    <asp:TextBox ID="txtPwd" runat="server" BorderColor="#CCCCCC" BorderWidth="1px" 
+                        TextMode="Password"></asp:TextBox>
+                    <br />
+                    <asp:ImageButton ID="btnAdd" runat="server" ImageUrl="~/images/222.jpg" 
+                        onclick="btnAdd_Click" />
+                    <asp:ImageButton ID="btnLogin" runat="server" ImageUrl="~/images/1111.jpg" 
+                        onclick="btnLogin_Click" />
+
+                    <br />
+                    <asp:Label ID="lblError" runat="server" ForeColor="#CC0000"></asp:Label>
+
+                </div>
+            </asp:Panel>
+            <asp:Panel ID="PanLoginMes" runat="server" Font-Size="12px" Visible="False">
+                <br />
+                <asp:Label ID="lblMes" runat="server"></asp:Label>
+                <br />
+                <br />
+                <br />
+                <span class="font">发表文章</span><br />
+                <span class="font">文章管理</span>
+            </asp:Panel>
+            </div>       
+            <br />
+            </div>
+        <div id="Footer">
+        <span>&copy;2007 BeiJing Aptech Aptech Beida Jade Bird Information Technology Co.Ltd 版权所有</span>        
+        </div>
+    
+    </div>
+    </form>
+</body>
+</html>

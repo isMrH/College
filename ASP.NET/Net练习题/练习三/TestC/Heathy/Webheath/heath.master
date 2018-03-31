@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="heath.master.cs" Inherits="heath" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <style type="text/css">
+    *{ margin:0px auto; padding:0px}
+    #father{width:1024px; height:700px;}
+    #footer{ width:1023px; height:80px; text-align:center; font-size:24px; font-weight:bold; line-height:80px;border:solid 1px blue;}
+    #content{ width:1024px; height:550px; border:solid 1px blue;}
+    #content_right{ width:730px; height:550px; float:left; margin-left:10px;border:solid 1px blue; text-align:center;}
+    #content_left{ width:280px; height:550px; float:left;border:solid 1px blue;}
+    #head{ width:280px; height:30px; line-height:30px; text-align:center; background-color:Blue; color:White; font-weight:bold;}
+    </style>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="father">
+      <div id="footer">欢迎使用体检项目维护模块</div>
+       <div id="content">
+           <div id="content_left">
+            <div id="head">体检类别</div>
+              <br /><br /><br /><br /><br /><br />
+               <asp:TreeView ID="TreeView1" runat="server" DataSourceID="XmlDataSource1" 
+                   Height="121px">
+                    <DataBindings>
+                     <asp:TreeNodeBinding DataMember="siteMapNode" NavigateUrlField="url" TextField="title" />
+                  </DataBindings>
+               </asp:TreeView>
+               <asp:XmlDataSource ID="XmlDataSource1" runat="server" DataFile="~/TreeView.xml">
+               </asp:XmlDataSource>
+           
+           </div>
+           <div id="content_right">
+              <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+           </asp:ContentPlaceHolder>
+           </div>
+       </div>
+    </div>
+    </form>
+</body>
+</html>

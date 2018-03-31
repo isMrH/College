@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1460946040609
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946047421
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946047531
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.correction.renameInFile.assist",1460946049765
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460946053187
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1460946053187
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460946054390
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460946056609
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946061937
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946105218
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1460946105234
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460946105937
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460946114062
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946121250
+error,log,,,"Could not acquire children from extension: org.eclipse.jst.jee.ui.web",1460946121687
+closed,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460946121750
+closed,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460946121750
+closed,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460946121765
+closed,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460946121796
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946121828
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1460946121843
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1460946121843
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946130828
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946138906
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1460946138921

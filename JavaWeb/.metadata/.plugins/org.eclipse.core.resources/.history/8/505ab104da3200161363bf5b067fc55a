@@ -1,0 +1,5 @@
+package com.syste.dao;
+
+public enum aaaa {
+
+}

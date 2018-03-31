@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+
+    <script src="jquery-1.4.1-vsdoc.js" type="text/javascript"></script>
+
+</head>
+
+<script type="text/javascript">
+    $(function() {
+        //    $("#panel h5.head").bind("click",function(){
+        //        $(this).next().show();
+        //    })
+
+
+        //        $("#panel h5.head").bind("click", function() {
+        //            if ($(this).next().is(":visible")) {
+        //                $(this).next().hide();
+        //            } else {
+        //                $(this).next().show();
+        //            }
+
+        //        })
+
+//        $("#panel h5.head").bind("click", function() {
+//            var $content = $(this).next();
+//            if ($content.is("visible")) {
+//                $content.hide();
+//            } else {
+//                $content.show();
+//            }
+//        })
+
+
+        $("#panel h5.head").toggle(function() {
+            $(this).addClass("highlight");
+            $(this).next().show();
+        }, function() {
+            $(this).removeClass("highlight");
+            $(this).next().hide();
+        })
+
+    })
+</script>
+
+<body>
+    <div id="panel">
+        <h5 class="head">
+            什么是jQuery？</h5>
+        <div class="content">
+            这就是jQuery。
+        </div>
+    </div>
+</body>
+</html>

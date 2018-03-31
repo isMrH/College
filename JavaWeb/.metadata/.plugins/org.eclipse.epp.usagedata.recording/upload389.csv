@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1462761276546
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1462761291375
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1462761292406
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1462761369765
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1462761629484
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1462761636953
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462761638890
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462761674062
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1462761738375
+opened,editor,com.spket.xml,1.6.15,"com.spket.xml.editor.xmlEditor",1462761745687
+activated,editor,com.spket.xml,1.6.15,"com.spket.xml.editor.xmlEditor",1462761745781
+error,log,,,"Unhandled event loop exception",1462761784046
+error,log,,,"Unhandled event loop exception",1462761790500
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1462761804343
+error,log,,,"Unhandled event loop exception",1462761821375
+error,log,,,"Unhandled event loop exception",1462761867656
+error,log,,,"Unhandled event loop exception",1462761875062
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1462761885156
+error,log,,,"Unhandled event loop exception",1462761900515
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1462761903750
+error,log,,,"Could not acquire children from extension: org.eclipse.jst.jee.ui.web",1462761903750
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1462761907546
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1462761923218
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1462761935515
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1462761937968

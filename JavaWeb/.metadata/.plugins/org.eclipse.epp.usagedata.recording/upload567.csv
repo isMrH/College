@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463970584093
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1463970584234
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1463970584296
+error,log,,,"Could not write metadata for 'F:\\JavaWeb\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Unit15\\.indexes\\e4\\6b\\81\\98\\90\\history.index'.",1463970606328
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463970606343
+error,log,,,"Could not write metadata for 'F:\\JavaWeb\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Unit15\\.indexes\\e4\\6b\\81\\98\\90\\history.index'.",1463970614390
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463970614453
+error,log,,,"Could not write metadata for 'F:\\JavaWeb\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Unit15\\.indexes\\e4\\6b\\81\\98\\90\\history.index'.",1463970616578
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463970616593
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1463970618906
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463970621656
+error,log,,,"Could not write metadata for 'F:\\JavaWeb\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Unit15\\.indexes\\e4\\6b\\81\\98\\90\\history.index'.",1463970630187
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463970630234
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1463970630328
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1463970630406
+error,log,,,"Could not write metadata for 'F:\\JavaWeb\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Unit15\\.indexes\\e4\\6b\\81\\98\\90\\history.index'.",1463970662796
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463970662812
+started,bundle,org.eclipse.mylyn.java.tasks,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.tasks",1463970665328
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1463970677421
+activated,perspective,org.eclipse.jst.j2ee.ui,1.1.300.v200905132034,"org.eclipse.jst.j2ee.J2EEPerspective",1463970699359
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1463970699390
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1463970701531
+activated,perspective,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.JavaPerspective",1463970705281
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1463970705296
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1463970728640

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 1 elements(s) to &apos;Test&apos;&#x0D;&#x0A;- Original project: &apos;Servers&apos;&#x0D;&#x0A;- Destination element: &apos;Test&apos;&#x0D;&#x0A;- Original element: &apos;Tomcat v6.0 Server at localhost-config&apos;" description="Copy folder" element1="Tomcat v6.0 Server at localhost-config" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1460945953546" target="/Test" units="0" version="1.0"/>
+</session>

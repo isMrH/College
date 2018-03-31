@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461728027843
+error,log,,,"File not found: '/Book/src/__2F_Book_2F_WebContent_2F_datacheck_2E_jsp.java'",1461728068062
+error,log,,,"File not found: '/Book/src/__2F_Book_2F_WebContent_2F_datacheck_2E_jsp.java'",1461728172062
+error,log,,,"File not found: '/Book/src/__2F_Book_2F_WebContent_2F_datacheck_2E_jsp.java'",1461728177156
+error,log,,,"File not found: '/Book/src/__2F_Book_2F_WebContent_2F_datacheck_2E_jsp.java'",1461728182031
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461728184625
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1461728204890
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1461728205078
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1461728205703
+executed,command,,,"AUTOGEN:::org.eclipse.jst.jsp.core.jspsource.ruler.actions/org.eclipse.ui.texteditor.SelectRulerAction",1461728208500
+executed,command,,,"AUTOGEN:::org.eclipse.jst.jsp.core.jspsource.ruler.actions/org.eclipse.ui.texteditor.SelectRulerAction",1461728209968
+error,log,,,"File not found: '/Book/src/__2F_Book_2F_WebContent_2F_datacheck_2E_jsp.java'",1461728225921
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461728253562
+error,log,,,"File not found: '/Book/src/__2F_Book_2F_WebContent_2F_datacheck_2E_jsp.java'",1461728272312
+error,log,,,"File not found: '/Book/src/__2F_Book_2F_WebContent_2F_datacheck_2E_jsp.java'",1461728273375
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461728276671
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461728317796
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461728343562
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461728347937
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461728356328
+opened,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461728356390
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461728356453
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461728363359
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1461728368265
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461728368703

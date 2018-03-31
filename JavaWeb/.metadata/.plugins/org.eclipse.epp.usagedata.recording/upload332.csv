@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461726316218
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461726318000
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461726319796
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461726319812
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461726319906
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461726326859
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1461726327453
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461726328500
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461726340640
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461726341468
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461726342703
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461726346015
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1461726349281
+error,log,,,"File not found: '/Book/src/__2F_Book_2F_WebContent_2F_searchbook_2E_jsp.java'",1461726349375
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461726350796
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461726352718
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461726662984
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461727119171
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461727284265
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461727289609
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461727303953
+opened,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461727304031
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461727304093
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1461727409906
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1461727413218

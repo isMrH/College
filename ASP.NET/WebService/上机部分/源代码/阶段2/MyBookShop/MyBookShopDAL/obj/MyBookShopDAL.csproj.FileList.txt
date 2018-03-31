@@ -1,0 +1,7 @@
+bin\Debug\MyBookShopDAL.dll
+bin\Debug\MyBookShopDAL.pdb
+bin\Debug\MyBookShopModels.dll
+bin\Debug\MyBookShopModels.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyBookShopDAL.dll
+obj\Debug\MyBookShopDAL.pdb

@@ -1,0 +1,6 @@
+E:\实训\整理课件\Chapter19\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\bin\Debug\WinFormWebServiceTest.exe.config
+E:\实训\整理课件\Chapter19\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\obj\Debug\WinFormWebServiceTest.exe
+E:\实训\整理课件\Chapter19\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\obj\Debug\WinFormWebServiceTest.pdb
+F:\ASP.NET\WebService\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\bin\Debug\WinFormWebServiceTest.exe.config
+F:\ASP.NET\WebService\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\obj\Debug\WinFormWebServiceTest.exe
+F:\ASP.NET\WebService\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\obj\Debug\WinFormWebServiceTest.pdb

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TestStealLink", "..\TestStealLink", "{2789DCA5-BAE3-4BFB-B17E-AF5DA83AEE7C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/TestStealLink"
+		Debug.AspNetCompiler.PhysicalPath = "E:\2014上半学年\asp.net企业级\教学课件\HttpHandler技术\理论代码\FileSteal\TestStealLink\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TestStealLink\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TestStealLink"
+		Release.AspNetCompiler.PhysicalPath = "E:\2014上半学年\asp.net企业级\教学课件\HttpHandler技术\理论代码\FileSteal\TestStealLink\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TestStealLink\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1869"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2789DCA5-BAE3-4BFB-B17E-AF5DA83AEE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2789DCA5-BAE3-4BFB-B17E-AF5DA83AEE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1462344512171
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1462344525875
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1462344527671
+started,bundle,com.spket.ui,1.6.16,"com.spket.ui",1462344531734
+started,bundle,com.spket.xml,1.6.15,"com.spket.xml",1462344531734
+opened,editor,com.spket.xml,1.6.15,"com.spket.xml.editor.xmlEditor",1462344532015
+activated,editor,com.spket.xml,1.6.15,"com.spket.xml.editor.xmlEditor",1462344532093
+error,log,,,"Unhandled event loop exception",1462344566828
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462344566843
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462344567765
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1462344588578
+error,log,,,"Unhandled event loop exception",1462344608593
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462344608593
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462344608625
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1462344628250
+error,log,,,"Unhandled event loop exception",1462344644125
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462344644125
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462344645765
+started,bundle,com.spket.js,1.6.16,"com.spket.js",1462344687734
+error,log,,,"Could not acquire children from extension: org.eclipse.jst.jee.ui.web",1462344687750
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1462344687781
+error,log,,,"Unhandled event loop exception",1462344711937
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462344711937
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462344711968
+error,log,,,"Unhandled event loop exception",1462344720281

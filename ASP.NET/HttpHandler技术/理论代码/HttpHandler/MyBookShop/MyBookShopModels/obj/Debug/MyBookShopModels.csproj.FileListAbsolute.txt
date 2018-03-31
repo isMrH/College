@@ -1,0 +1,10 @@
+D:\软件学院\信息\第十七章\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\bin\Debug\MyBookShopModels.dll
+D:\软件学院\信息\第十七章\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\bin\Debug\MyBookShopModels.pdb
+D:\软件学院\信息\第十七章\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\obj\Debug\ResolveAssemblyReference.cache
+D:\软件学院\信息\第十七章\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\obj\Debug\MyBookShopModels.dll
+D:\软件学院\信息\第十七章\理论部分\教学幻灯片\课堂案例\HttpHandler\MyBookShop\MyBookShopModels\obj\Debug\MyBookShopModels.pdb
+E:\软件学院教学\2014上半学年\asp.net企业级\教学课件\HttpHandler技术\理论代码\HttpHandler\MyBookShop\MyBookShopModels\bin\Debug\MyBookShopModels.dll
+E:\软件学院教学\2014上半学年\asp.net企业级\教学课件\HttpHandler技术\理论代码\HttpHandler\MyBookShop\MyBookShopModels\bin\Debug\MyBookShopModels.pdb
+E:\软件学院教学\2014上半学年\asp.net企业级\教学课件\HttpHandler技术\理论代码\HttpHandler\MyBookShop\MyBookShopModels\obj\Debug\ResolveAssemblyReference.cache
+E:\软件学院教学\2014上半学年\asp.net企业级\教学课件\HttpHandler技术\理论代码\HttpHandler\MyBookShop\MyBookShopModels\obj\Debug\MyBookShopModels.dll
+E:\软件学院教学\2014上半学年\asp.net企业级\教学课件\HttpHandler技术\理论代码\HttpHandler\MyBookShop\MyBookShopModels\obj\Debug\MyBookShopModels.pdb

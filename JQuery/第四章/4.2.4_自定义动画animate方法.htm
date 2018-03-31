@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        #panel{
+        	position:relative;
+        	width:100px;
+        	height:100px;
+        	border:1px solid #00500;
+        	background:#96E555;
+        	cursor:pointer;
+        }
+    </style>
+    <script src="../jquery-1.4.1-vsdoc.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function() {
+            //1、自定义动画
+            //            $("#panel").click(function() {
+            //                $(this).animate({ left: "500px" }, 3000);
+            //            });
+            //2、累加、减动画
+            //            $("#panel").click(function() {
+            //                $(this).animate({ left: "+=500px" }, 3000);
+            //            });
+            //3、多重动画
+            //            $("#panel").click(function() {
+            //                $(this).animate({ left: "500px", height: "200px" }, 3000);
+            //            });
+            //3.2、顺序执行动画
+            //            $("#panel").click(function() {
+            //                $(this).animate({ left: "500px" }, 3000)
+            //                       .animate({ height: "200px" }, 3000);
+            //            });
+            //4、综合动画
+            //            $("#panel").css("opacity", "0.5"); //动画效果会按照顺序执行 
+            //            //如果样式写在最后一列还是会先改变样式再进行动画
+//            $("#panel").click(function() {
+//                $(this).animate({ left: "400px", height: "200px", opacity: "1" }, 3000)
+//                   .animate({ top: "200px", width: "200px" }, 3000)
+//                   .fadeOut("slow");
+//            });
+            //5.动画回调函数
+            $("#panel").click(function() {
+                $(this).animate({ left: "400px", height: "200px", opacity: "1" }, 3000)
+                           .animate({ top: "200px", width: "200px" }, 3000, function() {
+                                $("#panel").css("border", "5px solid blue");  
+                           })
+            });
+        });
+    </script>
+</head>
+<body>
+<div id="panel">
+</div>
+</body>
+</html>

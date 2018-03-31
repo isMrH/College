@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<script>
+	var xhr;
+	function fun() {
+		//1、创建xhr对象
+		try {
+			xhr = new ActiveXObject("Microsoft.XMLHTTP");
+		} catch (e) {
+			try {
+				xhr = new XMLHttpRequest();
+			} catch (ee) {
+				try {
+					xhr = new ActiveXObject("Msxml2.XMLHTTP");
+				} catch (eee) {
+					alert('该换浏览器了！浏览器不支持Ajax！');
+				}
+			}
+		}
+
+		if (xhr) {
+			//2、创建Ajax请求，Ajax也有两种请求形式get post
+			//首选使用get形式
+
+			xhr.onreadystatechange = function() {
+				if (xhr.readyState == 4) {
+					//4、处理服务器响应
+					var data = xhr.responseText;
+
+					var span = document.getElementById("spanProvince");
+					span.innerHTML = data;
+				}
+			}
+
+			xhr.open("get", "AreaServlet?type=province");
+
+			//3、发送Ajax请求
+			xhr.send(null);
+		}
+	}
+
+	window.onload = fun;
+
+	function fun2(id) {
+		//1、创建xhr对象
+		try {
+			xhr = new ActiveXObject("Microsoft.XMLHTTP");
+		} catch (e) {
+			try {
+				xhr = new XMLHttpRequest();
+			} catch (ee) {
+				try {
+					xhr = new ActiveXObject("Msxml2.XMLHTTP");
+				} catch (eee) {
+					alert('改换浏览器了！浏览器不支持Ajax！');
+				}
+			}
+		}
+
+		if (xhr) {
+			//2、创建Ajax请求，Ajax也有两种请求形式get post
+			//首选使用get形式
+
+			xhr.onreadystatechange = function() {
+				if (xhr.readyState == 4) {
+					//4、处理服务器响应
+					var data = xhr.responseText;
+
+					var span = document.getElementById("spanCity");
+					span.innerHTML = data;
+				}
+			}
+
+			xhr.open("get", "AreaServlet?type=city&pid=" + id);
+
+			//3、发送Ajax请求
+			xhr.send(null);
+		}
+	}
+</script>
+</head>
+<body>
+	<span id="spanProvince"> <select id="selectProvince"
+		onchange="fun2(this.value)">
+			<option value='0'>--请选择省份--</option>
+	</select> </span>
+	<span id="spanCity"> <select id="selectCity">
+			<option value='0'>--请选择城市--</option>
+	</select> </span>
+</body>
+</html>

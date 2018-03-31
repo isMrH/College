@@ -1,0 +1,8 @@
+F:\联系人\联系人\bin\Debug\联系人.exe
+F:\联系人\联系人\bin\Debug\联系人.pdb
+F:\联系人\联系人\obj\Debug\ResolveAssemblyReference.cache
+F:\联系人\联系人\obj\Debug\联系人.Form1.resources
+F:\联系人\联系人\obj\Debug\联系人.Properties.Resources.resources
+F:\联系人\联系人\obj\Debug\联系人.csproj.GenerateResource.Cache
+F:\联系人\联系人\obj\Debug\联系人.exe
+F:\联系人\联系人\obj\Debug\联系人.pdb

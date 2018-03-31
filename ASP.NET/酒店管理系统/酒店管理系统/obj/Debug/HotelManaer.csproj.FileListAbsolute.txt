@@ -1,0 +1,16 @@
+F:\ASP.NET\酒店管理系统\酒店管理系统\bin\Debug\酒店管理系统.exe
+F:\ASP.NET\酒店管理系统\酒店管理系统\bin\Debug\酒店管理系统.pdb
+F:\ASP.NET\酒店管理系统\酒店管理系统\bin\Debug\HotelManager.BLL.dll
+F:\ASP.NET\酒店管理系统\酒店管理系统\bin\Debug\HotelManager.BLL.pdb
+F:\ASP.NET\酒店管理系统\酒店管理系统\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\酒店管理系统\酒店管理系统\obj\Debug\酒店管理系统.Properties.Resources.resources
+F:\ASP.NET\酒店管理系统\酒店管理系统\obj\Debug\HotelManaer.csproj.GenerateResource.Cache
+F:\ASP.NET\酒店管理系统\酒店管理系统\obj\Debug\酒店管理系统.exe
+F:\ASP.NET\酒店管理系统\酒店管理系统\obj\Debug\酒店管理系统.pdb
+F:\ASP.NET\酒店管理系统\酒店管理系统\obj\Debug\酒店管理系统.frmHotelManager.resources
+F:\ASP.NET\酒店管理系统\酒店管理系统\obj\Debug\酒店管理系统.frmRoomType.resources
+F:\ASP.NET\酒店管理系统\酒店管理系统\bin\Debug\HotelManager.dll
+F:\ASP.NET\酒店管理系统\酒店管理系统\bin\Debug\HotelManager.pdb
+F:\ASP.NET\酒店管理系统\酒店管理系统\bin\Debug\HotelManager.DAL.dll
+F:\ASP.NET\酒店管理系统\酒店管理系统\bin\Debug\HotelManager.DAL.pdb
+F:\ASP.NET\酒店管理系统\酒店管理系统\obj\Debug\酒店管理系统.frmRoom.resources

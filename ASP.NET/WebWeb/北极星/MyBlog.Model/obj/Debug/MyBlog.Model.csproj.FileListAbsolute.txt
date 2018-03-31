@@ -1,0 +1,10 @@
+F:\ASP.NET\Web\北极星\MyBlog.Model\bin\Debug\MyBlog.Model.dll
+F:\ASP.NET\Web\北极星\MyBlog.Model\bin\Debug\MyBlog.Model.pdb
+F:\ASP.NET\Web\北极星\MyBlog.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\Web\北极星\MyBlog.Model\obj\Debug\MyBlog.Model.dll
+F:\ASP.NET\Web\北极星\MyBlog.Model\obj\Debug\MyBlog.Model.pdb
+F:\ASP.NET\WebWeb\北极星\MyBlog.Model\bin\Debug\MyBlog.Model.dll
+F:\ASP.NET\WebWeb\北极星\MyBlog.Model\bin\Debug\MyBlog.Model.pdb
+F:\ASP.NET\WebWeb\北极星\MyBlog.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\WebWeb\北极星\MyBlog.Model\obj\Debug\MyBlog.Model.dll
+F:\ASP.NET\WebWeb\北极星\MyBlog.Model\obj\Debug\MyBlog.Model.pdb

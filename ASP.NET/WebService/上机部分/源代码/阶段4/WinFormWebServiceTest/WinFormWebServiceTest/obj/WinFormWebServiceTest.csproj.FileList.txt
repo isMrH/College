@@ -1,0 +1,9 @@
+bin\Debug\WinFormWebServiceTest.exe.config
+bin\Debug\WinFormWebServiceTest.exe
+bin\Debug\WinFormWebServiceTest.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WinFormWebServiceTest.Form1.resources
+obj\Debug\WinFormWebServiceTest.Properties.Resources.resources
+obj\Debug\WinFormWebServiceTest.csproj.GenerateResource.Cache
+obj\Debug\WinFormWebServiceTest.exe
+obj\Debug\WinFormWebServiceTest.pdb

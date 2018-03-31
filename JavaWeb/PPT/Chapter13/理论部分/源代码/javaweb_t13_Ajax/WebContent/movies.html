@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	var xhr;
+	function fun() {
+		//1、创建xhr对象
+		try {
+			xhr = new ActiveXObject("Microsoft.XMLHTTP");
+		} catch (e1) {
+			try {
+				xhr = new XMLHttpRequest();
+			} catch (e2) {
+				try {
+					xhr = new ActiveXObject("Msxml2.XMLHTTP");
+				} catch (e3) {
+					alert('该换浏览器了！浏览器不支持Ajax！');
+				}
+			}
+		}
+
+		if (xhr) {
+			//2、创建Ajax请求，Ajax也有两种请求形式get post
+			//首选使用get形式
+
+			xhr.onreadystatechange = function() {
+				if (xhr.readyState == 4) {
+					//4、处理服务器响应
+					alert(xhr.responseText);
+					document.getElementById("divMovies").innerHTML = xhr.responseText;
+				}
+			}
+
+			xhr.open("get", "MovieServlet?type=list");
+
+			//3、发送Ajax请求
+			xhr.send(null);
+
+		}
+
+	}
+	window.onload = fun;
+</script>
+
+</head>
+<body>
+	<div id="divMovies"></div>
+</body>
+</html>

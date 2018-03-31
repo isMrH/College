@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="../jquery-1.4.1-vsdoc.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function() {
+            //            $('#btn').bind("click", function() {
+            //                $("#test").append("<p>我绑定的函数1</p>");
+            //            }).bind("click", function() {
+            //                $("#test").append("<p>我绑定的函数2</p>");
+            //            }).bind("click", function() {
+            //                $("#test").append("<p>我绑定的函数3</p>");
+            //            });
+            //页面加载完直接输出按钮的绑定事件
+            //            $('#btn').trigger("click");
+            ///2.触发自定义事件
+            //自定义
+            $('#btn').bind("myClick", function() {
+                $('#test').append("<p>我的自定义事件。</p>")
+            });
+            //触发
+            $("#btn").trigger("myClick");
+            //传递数据
+            $('#btn'), bind("myClick", function() {
+                $('#test').append("<p>" + message1 + message2 + "</p>");
+            })
+            $('#btn').bind("myClick", ["我的自定义", "事件"])
+            //4.执行默认操作
+            //触发元素特定事件并使元素本身的到焦点
+            $("input").trigger("focus");
+            //只触发特定事件
+            $("input").triggerHamdler("focus");
+        })
+        
+        
+        
+    </script>
+</head>
+<body>
+<button id="btn">单击我</button>
+<div id="test"></div>
+<button id="delAll">删除所有事件</button><br />
+<button id="delTow">删除第二个事件</button>
+</body>
+</html>

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.spket.js,1.6.16,"com.spket.js",1463970953781
+error,log,,,"Could not write metadata for 'F:\\JavaWeb\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Unit15\\.indexes\\e4\\6b\\81\\98\\90\\history.index'.",1463970953812
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463970953828
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1463970963828
+opened,editor,com.spket.xml,1.6.15,"com.spket.xml.editor.xmlEditor",1463970968109
+activated,editor,com.spket.xml,1.6.15,"com.spket.xml.editor.xmlEditor",1463970968156
+error,log,,,"Unhandled event loop exception",1463970990421
+error,log,,,"Unhandled event loop exception",1463970996281
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1463971044500
+error,log,,,"Unhandled event loop exception",1463971060562
+error,log,,,"Unhandled event loop exception",1463971089671
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1463971096468
+error,log,,,"Unhandled event loop exception",1463971097781
+error,log,,,"Unhandled event loop exception",1463971119468
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463971119812
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1463971138859
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1463971140015
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1463971140906
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463971143078
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463971147593
+activated,editor,com.spket.xml,1.6.15,"com.spket.xml.editor.xmlEditor",1463971149078
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1463971153625
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1463971153875
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1463971153906
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463971154734

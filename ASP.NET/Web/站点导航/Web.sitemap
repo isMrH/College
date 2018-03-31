@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/Default.aspx" title="首页"  description="">
+      <siteMapNode url="~/News/News.aspx" title="新闻"  description="">
+          <siteMapNode url="~/News/EnterpriseNews.aspx" title="企业新闻"  description=""></siteMapNode>
+          <siteMapNode url="~/News/WorldNews.aspx" title="国际新闻"  description=""></siteMapNode>
+      </siteMapNode>
+      
+      <siteMapNode url="~/Train/Train.aspx" title="软件培训"  description="">
+        <siteMapNode url="~/Train/Net.aspx" title="NET培训"  description=""></siteMapNode>
+        <siteMapNode url="~/Train/Java.aspx" title="JAVA培训"  description=""></siteMapNode>
+      </siteMapNode>
+    </siteMapNode>
+
+</siteMap>

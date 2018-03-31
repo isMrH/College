@@ -1,0 +1,41 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>添加电影类型</title>
+<style type="text/css">
+*{
+   margin:0px auto;
+   padding:0px;
+}
+.father{
+   width:1004px;
+   height:700px;
+   border:1px solid #c1c1c1;
+}
+.title{
+   padding-top:25px;
+   background-color:#c1c1c1;
+   height:60px;
+}
+.content{
+   padding-top:20px;
+   text-align:center;
+}
+</style>
+</head>
+<body>
+<form name="fm1" method="post" action="doaction.jsp">
+  <div class="father">
+    <div class="title"><h2>添加电影分类信息</h2></div>
+    <div class="content">
+            电影分类名称：<input type="text" name="typename"></input><br/><br/>
+            <input type="submit" value="提交"></input> <br/><br/><br/>
+           <img alt="" src="/MovieTest/images/title_pic.jpg">
+    </div>
+  </div>
+</form>
+</body>
+</html>

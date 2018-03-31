@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SimpleHttpHandler", ".", "{CC9A57F4-6BD4-4115-B27A-364A84A4D9F9}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/SimpleHttpHandler"
+		Debug.AspNetCompiler.PhysicalPath = "E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\HttpHandler\SimpleHttpHandler\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SimpleHttpHandler\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SimpleHttpHandler"
+		Release.AspNetCompiler.PhysicalPath = "E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\理论部分\教学幻灯片\课堂案例\HttpHandler\SimpleHttpHandler\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SimpleHttpHandler\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1346"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9A57F4-6BD4-4115-B27A-364A84A4D9F9}.Debug|.NET.ActiveCfg = Debug|.NET
+		{CC9A57F4-6BD4-4115-B27A-364A84A4D9F9}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

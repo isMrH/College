@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.properties",1461565284171
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: Users",1461565284281
+activated,perspective,org.eclipse.jst.j2ee.ui,1.1.300.v200905132034,"org.eclipse.jst.j2ee.J2EEPerspective",1461565297218
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461565297250
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461565299968
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461565308671
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461565309781
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461565310109
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461565312062
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461565345593
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461565358796
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.properties",1461565358812
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461565391656
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461565408218
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1461565418156
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461565421109
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461565429812
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461565443234
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461565443468
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461565450125
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461565455031
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461565473703
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.properties",1461565473734
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: Users",1461565473843
+started,bundle,org.eclipse.pde.core,3.5.0.v20090602,"org.eclipse.pde.core",1461565475000

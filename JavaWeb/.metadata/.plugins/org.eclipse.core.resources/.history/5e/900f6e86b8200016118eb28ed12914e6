@@ -1,0 +1,63 @@
+package cn.com.systop.sql;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Collection;
+
+import cn.com.systop.JavaBean.DBCon;
+import cn.com.systop.JavaBean.WareBean;
+
+public class wareSql {
+	public void addWare(WareBean wareBean) throws Exception{
+		try{
+			Connection con=new DBCon().getCon();
+			PreparedStatement stm=con.prepareStatement("inset into wareTable values(?,?,?)");
+			stm.setString(1, wareBean.getWareName());
+			stm.setString(2,wareBean.getWareSort()());
+			SimpleDateFormat dateFormat=new SimpleDateFormat("yyyy-MM-dd");
+			Calendar ct=Calendar.getInstance();
+			stm.setDate(3, java.sql.Date.valueOf(String.valueOf(dateFormat.format(ct.getTime()))));
+			stm.setString(4,mesBean.getContent());
+			try{
+				int i=stm.executeUpdate();
+			}catch(Exception e){
+				e.printStackTrace();
+			}
+			con.close();
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+	}
+	public Collection getMessage() throws Exception{
+		Collection met=new ArrayList();
+		try{
+			Connection con=new DBConnection().getCon();
+			Statement stm=con.createStatement();
+			ResultSet rst=null;
+			rst=stm.executeQuery("select * from Message");
+			while(rst.next()){
+				String title = rst.getString("title");
+				String messName=rst.getString("messName");
+				String content=rst.getString("content");
+				java.sql.Date messDate=rst.getDate("messDate");
+					MessageBean messb=new MessageBean();
+					messb.setMessName(messName);
+					messb.setTitle(title);
+					messb.setContent(content);
+					messb.setMessDate(messDate);
+					met.add(messb);
+				}
+				rst.close();
+				stm.close();
+				con.close();
+			}catch(Exception e ){
+				e.printStackTrace();
+			}
+			return met;
+		}
+
+}

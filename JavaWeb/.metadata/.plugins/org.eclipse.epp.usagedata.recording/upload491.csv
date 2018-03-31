@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1463541605875
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1463541608468
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1463541608890
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463541620187
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1463541628328
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463541629562
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463541630765
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463541632046
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463541632750
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1463541633421
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.selectAll",1463541653671
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1463541654343
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463541655937
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463541662015
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1463541677312
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463541679156
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463541683234
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463541684406
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463541685343
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1463541690875
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463541691968
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463541694296
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1463541695203
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463541695234
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463541696125

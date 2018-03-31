@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1461566685046
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566689609
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566708500
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.properties",1461566708531
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1461566711218
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.stop",1461566712890
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1461566713406
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1461566714437
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.run",1461566716656
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1461566717265
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1461566718953
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566719453
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566719453
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566719546
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566799703
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1461566800234
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461566802687
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566807296
+error,log,,,"Could not acquire children from extension: org.eclipse.ui.navigator.resourceContent",1461566807718
+error,log,,,"Unhandled event loop exception during blocked modal context.",1461566807906
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566807921
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1461566807937
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1461566807937
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1461566810250
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461566812343

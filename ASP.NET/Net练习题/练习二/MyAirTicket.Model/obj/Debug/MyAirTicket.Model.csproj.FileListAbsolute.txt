@@ -1,0 +1,10 @@
+F:\Net练习题\练习二\MyAirTicket.Model\bin\Debug\MyAirTicket.Model.dll
+F:\Net练习题\练习二\MyAirTicket.Model\bin\Debug\MyAirTicket.Model.pdb
+F:\Net练习题\练习二\MyAirTicket.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\Net练习题\练习二\MyAirTicket.Model\obj\Debug\MyAirTicket.Model.dll
+F:\Net练习题\练习二\MyAirTicket.Model\obj\Debug\MyAirTicket.Model.pdb
+F:\ASP.NET\Net练习题\练习二\MyAirTicket.Model\bin\Debug\MyAirTicket.Model.dll
+F:\ASP.NET\Net练习题\练习二\MyAirTicket.Model\bin\Debug\MyAirTicket.Model.pdb
+F:\ASP.NET\Net练习题\练习二\MyAirTicket.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\Net练习题\练习二\MyAirTicket.Model\obj\Debug\MyAirTicket.Model.dll
+F:\ASP.NET\Net练习题\练习二\MyAirTicket.Model\obj\Debug\MyAirTicket.Model.pdb

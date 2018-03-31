@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.hibernate.eclipse,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse",1461550513171
+started,bundle,org.hibernate.eclipse.mapper,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.mapper",1461550513203
+os,sysinfo,,,"win32",1461550513218
+arch,sysinfo,,,"x86",1461550513218
+ws,sysinfo,,,"win32",1461550513218
+locale,sysinfo,,,"zh_CN",1461550513218
+processors,sysinfo,,,"2",1461550513218
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1461550513218
+java.runtime.version,sysinfo,,,"1.6.0_02-b06",1461550513218
+java.specification.name,sysinfo,,,"Java Platform API Specification",1461550513218
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1461550513218
+java.specification.version,sysinfo,,,"1.6",1461550513218
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1461550513218
+java.version,sysinfo,,,"1.6.0_02",1461550513218
+java.vm.info,sysinfo,,,"mixed mode",1461550513218
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1461550513218
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1461550513218
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1461550513218
+java.vm.specification.version,sysinfo,,,"1.0",1461550513218
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1461550513218
+java.vm.version,sysinfo,,,"1.6.0_02-b06",1461550513218
+started,bundle,org.tigris.subversion.subclipse.core,1.0.6,"org.tigris.subversion.subclipse.core",1461550513562
+started,bundle,org.eclipse.wst.wsdl.validation,1.1.401.v200902271605,"org.eclipse.wst.wsdl.validation",1461550513625
+started,bundle,org.eclipse.jst.j2ee.ejb,1.1.300.v200904230730,"org.eclipse.jst.j2ee.ejb",1461550513843
+started,bundle,org.hibernate.eclipse.jdt.ui,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.jdt.ui",1461550513875

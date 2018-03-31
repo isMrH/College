@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "alumni", "..\alumni", "{69FDB5F7-F1FD-47FC-963F-2C14DC6E87F6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/alumni"
+		Debug.AspNetCompiler.PhysicalPath = "E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\上机部分\教学幻灯片\上机答案\阶段4\End\alumni\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\alumni\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/alumni"
+		Release.AspNetCompiler.PhysicalPath = "E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\Chapter 09\上机部分\教学幻灯片\上机答案\阶段4\End\alumni\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\alumni\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2088"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69FDB5F7-F1FD-47FC-963F-2C14DC6E87F6}.Debug|.NET.ActiveCfg = Debug|.NET
+		{69FDB5F7-F1FD-47FC-963F-2C14DC6E87F6}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

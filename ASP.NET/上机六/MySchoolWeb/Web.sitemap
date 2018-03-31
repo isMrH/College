@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode  >
+    <siteMapNode url="~/News/DisplayDynamicNews.aspx?id=1" title="学校新闻"  description="学校新闻"></siteMapNode>
+    <siteMapNode url="~/News/DisplayDynamicNews.aspx?id=2" title="行业动态" description ="行业动态"></siteMapNode>
+    <siteMapNode url="~/News/DisplayDynamicNews.aspx?id=3" title="媒体报到"  description="媒体报到"></siteMapNode>
+    <siteMapNode url="~/News/DisplayDynamicNews.aspx?id=4" title="企业荣誉"  description="企业荣誉"></siteMapNode>
+    <siteMapNode url="~/News/DisplayDynamicNews.aspx?id=5" title="焦点关注"  description="焦点关注"></siteMapNode>
+    <siteMapNode url="~/News/DisplayDynamicNews.aspx?id=6" title="就业快报"  description="就业快报"></siteMapNode>
+    <siteMapNode url="~/News/DisplayDynamicNews.aspx?id=8" title="企业招聘"  description="企业招聘"></siteMapNode>
+    <siteMapNode url="~/News/DisplayDynamicNews.aspx?id=9" title="学员作品"  description="学员作品"></siteMapNode>
+    <siteMapNode url="~/News/DisplayDynamicNews.aspx?id=10" title="学习员地"  description="学习员地"></siteMapNode>
+    <siteMapNode url="~/News/DisplayDynamicNews.aspx?id=11" title="学员感受"  description="学员感受"></siteMapNode>
+
+  </siteMapNode>
+</siteMap>

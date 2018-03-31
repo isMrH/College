@@ -1,0 +1,82 @@
+/* CSS Document */
+    *
+    {
+    	padding:0px;
+    	margin:0px;
+    	list-style:none;
+    	
+    	}
+    body
+	{
+		background-image:url(images/Background.jpg);
+		background-size:cover;
+		background-repeat:no-repeat;
+	}
+    #from1
+    {
+    	
+    	background-image:url(~/images/Background.jpg);
+    }
+    #father
+    {
+    	width:90%;
+    	height:1000px;
+    	padding:0px;
+    	margin:0px auto;
+    	}
+    #login
+    {
+    	width:300px;
+    	margin-left:40%;
+	    margin-top:200px;
+	    border:1px solid #ffffff;
+	    padding:20px;
+    	}
+    #text
+    {
+    	font-size:16px;
+    	padding-bottom:20px;
+    	}
+    .name1
+    {
+    	float:left;
+    	padding-right:10px;
+    	margin-bottom:10px;
+    	}
+    .name2
+    {
+    	margin-bottom:10px;
+    	}
+    .pwd
+    {
+    	float:left;
+    	padding-right:10px;
+    	}
+    #forget
+    {
+    	float:left;
+    	margin:5px 20px 10px 45px;
+    	font-size:13px;
+	height: 13px;
+}
+    #forget1
+    {
+    	margin:5px 10px 10px 10px;
+    	font-size:13px;
+    	}
+    #btn
+    {
+    	padding-left:48px;
+    	float:left;
+    	margin-right:30px;
+    	}
+     #btn1
+     {
+     	margin-left:20px;
+     }
+     .back
+     {
+     	height:1024px;
+     	width:960px;
+     	background-image:url(~/images/Background.jpg);
+     	}

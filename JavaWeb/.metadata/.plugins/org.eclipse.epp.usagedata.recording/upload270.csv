@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1461564536984
+started,bundle,org.hibernate.eclipse.jdt.ui,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.jdt.ui",1461564537000
+started,bundle,org.eclipse.mylyn.monitor.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.monitor.ui",1461564537046
+started,bundle,org.eclipse.wst.wsdl.validation,1.1.401.v200902271605,"org.eclipse.wst.wsdl.validation",1461564537375
+started,bundle,org.eclipse.team.ui,3.5.0.I20090430-0408,"org.eclipse.team.ui",1461564537421
+started,bundle,org.eclipse.jst.j2ee.jca,1.1.300.v200903120000,"org.eclipse.jst.j2ee.jca",1461564537953
+started,bundle,org.eclipse.jst.j2ee.ejb,1.1.300.v200904230730,"org.eclipse.jst.j2ee.ejb",1461564538000
+started,bundle,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.console",1461564538031
+started,bundle,org.eclipse.jdt.apt.core,3.3.200.v20090528-1135,"org.eclipse.jdt.apt.core",1461564538234
+started,bundle,org.eclipse.wst.xsl.core,1.0.0.v200905071815,"org.eclipse.wst.xsl.core",1461564538234
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.200.v20090526-2130,"org.eclipse.jdt.apt.pluggable.core",1461564538250
+started,bundle,org.eclipse.wst.dtd.core,1.1.300.v200904181727,"org.eclipse.wst.dtd.core",1461564538296
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: Users",1461564539093
+started,bundle,org.eclipse.jsch.core,1.1.100.I20090430-0408,"org.eclipse.jsch.core",1461564539468
+started,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1461564539484
+started,bundle,org.tigris.subversion.subclipse.ui,1.0.5,"org.tigris.subversion.subclipse.ui",1461564539671
+started,bundle,org.eclipse.team.cvs.ui,3.3.200.I20090521-1750,"org.eclipse.team.cvs.ui",1461564539968
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461564540062
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461564540078
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461564540140
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1461564540218
+started,bundle,org.eclipse.jst.jee.ejb,1.0.200.v200810230716,"org.eclipse.jst.jee.ejb",1461564540625
+started,bundle,org.eclipse.jst.jee.web,1.0.200.v200904130912,"org.eclipse.jst.jee.web",1461564540640
+started,bundle,org.eclipse.xsd,2.5.0.v200906151043,"org.eclipse.xsd",1461564540781
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461564550015

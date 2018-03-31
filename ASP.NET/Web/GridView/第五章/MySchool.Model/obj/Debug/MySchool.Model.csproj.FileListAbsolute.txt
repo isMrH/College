@@ -1,0 +1,10 @@
+F:\Asp.net\第五章\MySchool.Model\bin\Debug\MySchool.Model.dll
+F:\Asp.net\第五章\MySchool.Model\bin\Debug\MySchool.Model.pdb
+F:\Asp.net\第五章\MySchool.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\Asp.net\第五章\MySchool.Model\obj\Debug\MySchool.Model.dll
+F:\Asp.net\第五章\MySchool.Model\obj\Debug\MySchool.Model.pdb
+F:\ASP.NET\Web\GridView\第五章\MySchool.Model\bin\Debug\MySchool.Model.dll
+F:\ASP.NET\Web\GridView\第五章\MySchool.Model\bin\Debug\MySchool.Model.pdb
+F:\ASP.NET\Web\GridView\第五章\MySchool.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\Web\GridView\第五章\MySchool.Model\obj\Debug\MySchool.Model.dll
+F:\ASP.NET\Web\GridView\第五章\MySchool.Model\obj\Debug\MySchool.Model.pdb

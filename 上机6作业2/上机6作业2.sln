@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "上机6作业2", "上机6作业2\上机6作业2.csproj", "{D3F37E0E-39D1-4948-8E02-93F033B4E629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F37E0E-39D1-4948-8E02-93F033B4E629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F37E0E-39D1-4948-8E02-93F033B4E629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F37E0E-39D1-4948-8E02-93F033B4E629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F37E0E-39D1-4948-8E02-93F033B4E629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

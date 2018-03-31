@@ -1,0 +1,11 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461736795234
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461736796531
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461737339906
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461737341765
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461737343437
+error,log,,,"Unhandled event loop exception during blocked modal context.",1461737343531
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.406.v200903031852,"org.eclipse.jst.ws.axis.creation.ui",1461737347390
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.405.v200901261650,"org.eclipse.jst.ws.axis.consumption.ui",1461737347468
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.306.v200810082309,"org.eclipse.jst.ws.axis.consumption.core",1461737347484
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.ui,1.0.103.v200807162242,"org.eclipse.jst.ws.axis2.creation.ui",1461737347703

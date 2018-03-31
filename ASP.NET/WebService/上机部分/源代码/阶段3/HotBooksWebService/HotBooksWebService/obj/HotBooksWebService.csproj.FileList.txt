@@ -1,0 +1,9 @@
+bin\Debug\HotBooksWebService.exe.config
+bin\Debug\HotBooksWebService.exe
+bin\Debug\HotBooksWebService.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HotBooksWebService.Form1.resources
+obj\Debug\HotBooksWebService.Properties.Resources.resources
+obj\Debug\HotBooksWebService.csproj.GenerateResource.Cache
+obj\Debug\HotBooksWebService.exe
+obj\Debug\HotBooksWebService.pdb

@@ -1,0 +1,28 @@
+F:\ASP.NET\上机\酒店管理\HotelManager.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\上机\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.DAL.dll
+F:\ASP.NET\上机\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.DAL.pdb
+F:\ASP.NET\上机\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.Model.dll
+F:\ASP.NET\上机\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.Model.pdb
+F:\ASP.NET\上机\酒店管理\HotelManager.DAL\obj\Debug\HotelManager.DAL.dll
+F:\ASP.NET\上机\酒店管理\HotelManager.DAL\obj\Debug\HotelManager.DAL.pdb
+I:\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.DAL.dll
+I:\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.DAL.pdb
+I:\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.Model.dll
+I:\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.Model.pdb
+I:\酒店管理\HotelManager.DAL\obj\Debug\ResolveAssemblyReference.cache
+I:\酒店管理\HotelManager.DAL\obj\Debug\HotelManager.DAL.dll
+I:\酒店管理\HotelManager.DAL\obj\Debug\HotelManager.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.DAL.dll
+C:\Documents and Settings\Administrator\桌面\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.Model.dll
+C:\Documents and Settings\Administrator\桌面\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.Model.pdb
+C:\Documents and Settings\Administrator\桌面\酒店管理\HotelManager.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\酒店管理\HotelManager.DAL\obj\Debug\HotelManager.DAL.dll
+C:\Documents and Settings\Administrator\桌面\酒店管理\HotelManager.DAL\obj\Debug\HotelManager.DAL.pdb
+F:\ASP.NET\WebWeb\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.DAL.dll
+F:\ASP.NET\WebWeb\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.DAL.pdb
+F:\ASP.NET\WebWeb\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.Model.dll
+F:\ASP.NET\WebWeb\酒店管理\HotelManager.DAL\bin\Debug\HotelManager.Model.pdb
+F:\ASP.NET\WebWeb\酒店管理\HotelManager.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\WebWeb\酒店管理\HotelManager.DAL\obj\Debug\HotelManager.DAL.dll
+F:\ASP.NET\WebWeb\酒店管理\HotelManager.DAL\obj\Debug\HotelManager.DAL.pdb

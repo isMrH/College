@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463970451390
+error,log,,,"Could not write metadata for 'F:\\JavaWeb\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Unit15\\.indexes\\e4\\6b\\81\\98\\90\\history.index'.",1463970462375
+error,log,,,"Could not write metadata for 'F:\\JavaWeb\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Unit15\\.indexes\\e4\\6b\\81\\98\\90\\history.index'.",1463970462421
+error,log,,,"Could not write metadata for 'F:\\JavaWeb\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Unit15\\.indexes\\e4\\6b\\81\\98\\90\\history.index'.",1463970462500
+started,bundle,org.eclipse.jst.jee.ejb,1.0.200.v200810230716,"org.eclipse.jst.jee.ejb",1463970462781
+started,bundle,org.eclipse.jst.jee.web,1.0.200.v200904130912,"org.eclipse.jst.jee.web",1463970462781
+started,bundle,org.eclipse.xsd,2.5.0.v200906151043,"org.eclipse.xsd",1463970463546
+error,log,,,"Could not write metadata for 'F:\\JavaWeb\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Unit15\\.indexes\\e4\\6b\\81\\98\\90\\history.index'.",1463970465328
+error,log,,,"Could not write metadata for 'F:\\JavaWeb\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Unit15\\.indexes\\e4\\6b\\81\\98\\90\\history.index'.",1463970465406
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463970466140
+started,bundle,org.eclipse.pde.core,3.5.0.v20090602,"org.eclipse.pde.core",1463970467812
+started,bundle,org.eclipse.wst.internet.cache,1.0.301.v200805140020,"org.eclipse.wst.internet.cache",1463970468937
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463970470531
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463970472734
+error,log,,,"Unhandled event loop exception during blocked modal context.",1463970474000
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1463970474015
+activated,perspective,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.JavaPerspective",1463970491078
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1463970491171
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463970543546
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463970547359
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.properties",1463970547390
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463970561640
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463970567234
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463970572218
+error,log,,,"Could not write metadata for 'F:\\JavaWeb\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Unit15\\.indexes\\e4\\6b\\81\\98\\90\\history.index'.",1463970584046

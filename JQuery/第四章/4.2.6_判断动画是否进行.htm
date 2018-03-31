@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style type="text/css">
+        #panel{
+        	position:relative;
+        	width:100px;
+        	height:100px;
+        	border:1px solid #00500;
+        	background:#96E555;
+        	cursor:pointer;
+        }
+    </style>
+
+    <script src="../jquery-1.4.1-vsdoc.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function() {
+            function animateIt() {
+                $("#panel").slideToggle("slow", animateIt);
+            }
+
+            function animateIt2() {
+                $("#panel").fadeToggle("slow", animateIt2);
+            }
+
+            animateIt();
+
+            $("button").click(function() {
+                if (!$("#panel").is(":animated")) {
+                    $("#panel").fadeToggle("slow", animateIt2);
+                } else {
+                    $("#panel").stop();
+                }
+            });
+
+    });
+    </script>
+</head>
+<body>
+<button>点击</button>
+<div id="panel">
+</div>
+</body>
+</html>

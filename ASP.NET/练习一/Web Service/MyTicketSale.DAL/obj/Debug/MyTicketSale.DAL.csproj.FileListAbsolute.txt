@@ -1,0 +1,7 @@
+F:\Net练习题\练习一\Web Service\MyTicketSale.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Net练习题\练习一\Web Service\MyTicketSale.DAL\bin\Debug\MyTicketSale.DAL.dll
+F:\Net练习题\练习一\Web Service\MyTicketSale.DAL\bin\Debug\MyTicketSale.DAL.pdb
+F:\Net练习题\练习一\Web Service\MyTicketSale.DAL\bin\Debug\MyTicketSale.Model.dll
+F:\Net练习题\练习一\Web Service\MyTicketSale.DAL\bin\Debug\MyTicketSale.Model.pdb
+F:\Net练习题\练习一\Web Service\MyTicketSale.DAL\obj\Debug\MyTicketSale.DAL.dll
+F:\Net练习题\练习一\Web Service\MyTicketSale.DAL\obj\Debug\MyTicketSale.DAL.pdb

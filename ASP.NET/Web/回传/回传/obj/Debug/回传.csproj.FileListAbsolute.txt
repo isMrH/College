@@ -1,0 +1,5 @@
+F:\ASP.NET\Web\回传\回传\bin\回传.dll
+F:\ASP.NET\Web\回传\回传\bin\回传.pdb
+F:\ASP.NET\Web\回传\回传\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\Web\回传\回传\obj\Debug\回传.dll
+F:\ASP.NET\Web\回传\回传\obj\Debug\回传.pdb

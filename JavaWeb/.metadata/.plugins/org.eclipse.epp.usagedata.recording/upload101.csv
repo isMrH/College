@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1460945671406
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460945675703
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460945678812
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945682140
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945683093
+error,log,,,"Could not publish server configuration for Tomcat v6.0 Server at localhost.",1460945683265
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945683390
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945685187
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460945687125
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1460945690078
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460945693765
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460945695218
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945753343
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945758484
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945768109
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945781156
+opened,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460945781234
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460945781312
+error,log,,,"Could not publish server configuration for Tomcat v6.0 Server at localhost.",1460945782359
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945782390
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945792593
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460945793843
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460945818796
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945822078
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460945823156

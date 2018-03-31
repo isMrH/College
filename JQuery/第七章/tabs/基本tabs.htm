@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    
+    <link href="css/ui-lightness/jquery-ui-1.8.18.custom.css" rel="stylesheet" type="text/css" />
+
+    <script src="js/jquery-1.7.1.min.js" type="text/javascript"></script>
+
+    <script src="js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function() {
+            //简单的选项卡
+            //$("#myTabs").tabs();
+            //鼠标滑动事件
+            //$("#myTabs").tabs({ event: "mouseover" });
+            //自动切换
+            $("#myTabs").tabs().tabs("rotate", 1000, true);
+        })
+        
+    </script>
+    <style type="text/css">
+        #myTabs {
+        border:1px solid #636363; width:400px;
+        background:#FC9 none; padding:5px;
+        }
+        .ui-widget-header {
+        border:0; background:#c2c2c2 none; font-family:Georgia;
+        }
+        #myTabs .ui-widget-content {
+        border:1px solid #aaaaaa; background:#ffffff none;
+        font-size:80%;
+        }
+        .ui-state-default, .ui-widget-content .ui-state-default {
+        background:#a2a2a2 none; border:1px solid #636363;
+        }
+        .ui-state-active, .ui-widget-content .ui-state-active {
+        background:#ffffff none; border:1px solid #aaaaaa;
+        }
+    </style>
+</head>
+<body>
+<div id="myTabs">
+    <ul>
+        <li><a href="#a">薛之谦</a></li>
+        <li><a href="#b">许嵩</a></li>
+    </ul>
+    <div id="a">
+          简单点，说话的方式简单点。递进的情绪请省略，你又不是个演员，别设计那些情节。
+    </div>
+    <div id="b">
+         那天午后，我站在你家门口，你咬咬嘴唇还是说出了分手。我的挽留和眼泪全都没有用。
+    </div>
+</div>
+</body>
+</html>

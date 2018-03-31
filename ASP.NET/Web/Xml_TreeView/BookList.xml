@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mainNode url="~/BookList.aspx" title="图书目录" descriptio="">
+  <categoryNode ID="" url="~/BookList.aspx?Catalog=计算机基础" title="计算机基础" descriptio="">
+    <bookNode url="~/BookList.aspx?BookName=数据结构" title="数据结构" descriptio=""></bookNode>
+    <bookNode url="~/BookList.aspx?BookName=操作系统" title="操作系统" descriptio=""></bookNode>
+  </categoryNode>
+
+  <categoryNode ID="" url="~/BookList.aspx?Catalog=软件开发" title="软件开发" descriptio="">
+    <bookNode url="~/BookList.aspx?BookName=C#高级编程" title="C#高级编程" descriptio=""></bookNode>
+    <bookNode url="~/BookList.aspx?BookName=ASP.NET程序设计" title="ASP.NET程序设计" descriptio=""></bookNode>
+  </categoryNode>
+
+  <categoryNode ID="" url="~/BookList.aspx?Catalog=网站开发" title="网站开发" descriptio="">
+    <bookNode url="~/BookList.aspx?BookName=网站建设与管理" title="网站建设与管理" descriptio=""></bookNode>
+    <bookNode url="~/BookList.aspx?BookName=CSS入门经典" title="CSS入门经典" descriptio=""></bookNode>
+  </categoryNode>
+
+  <categoryNode ID="" url="" title="电子商务" descriptio="">
+    <bookNode url="~/BookList.aspx?BookName=电子商务物流管理" title="电子商务物流管理" descriptio=""></bookNode>
+    <bookNode url="~/BookList.aspx?BookName=电子商务与网络营销" title="电子商务与网络营销" descriptio=""></bookNode>
+  </categoryNode>
+  
+  
+</mainNode>

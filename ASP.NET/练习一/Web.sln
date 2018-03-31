@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Web", "Web Service\Web", "{9052F0A5-011D-4672-BBA1-3CD9EF9C4671}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{DEB27572-ABBA-4597-9DC9-D64C5FFD7A77}|MyTicketSale.BLL.dll;{64CEE669-2136-44A9-8904-90D70092B056}|MyTicketSale.DAL.dll;{3F1E7B28-9996-419B-867D-DEC12621A4B5}|MyTicketSale.Model.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Web"
+		Debug.AspNetCompiler.PhysicalPath = "Web Service\Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Web"
+		Release.AspNetCompiler.PhysicalPath = "Web Service\Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1310"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTicketSale.Model", "Web Service\MyTicketSale.Model\MyTicketSale.Model.csproj", "{3F1E7B28-9996-419B-867D-DEC12621A4B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTicketSale.DAL", "Web Service\MyTicketSale.DAL\MyTicketSale.DAL.csproj", "{64CEE669-2136-44A9-8904-90D70092B056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTicketSale.BLL", "Web Service\MyTicketSale.BLL\MyTicketSale.BLL.csproj", "{DEB27572-ABBA-4597-9DC9-D64C5FFD7A77}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TicketSelect", "TicketSelect", "{FB68A2D2-3F75-4DAA-BA6C-9D9F9071067E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{DEB27572-ABBA-4597-9DC9-D64C5FFD7A77}|MyTicketSale.BLL.dll;{64CEE669-2136-44A9-8904-90D70092B056}|MyTicketSale.DAL.dll;{3F1E7B28-9996-419B-867D-DEC12621A4B5}|MyTicketSale.Model.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/TicketSelect"
+		Debug.AspNetCompiler.PhysicalPath = "TicketSelect\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TicketSelect\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TicketSelect"
+		Release.AspNetCompiler.PhysicalPath = "TicketSelect\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TicketSelect\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1376"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9052F0A5-011D-4672-BBA1-3CD9EF9C4671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9052F0A5-011D-4672-BBA1-3CD9EF9C4671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9052F0A5-011D-4672-BBA1-3CD9EF9C4671}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9052F0A5-011D-4672-BBA1-3CD9EF9C4671}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{3F1E7B28-9996-419B-867D-DEC12621A4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1E7B28-9996-419B-867D-DEC12621A4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1E7B28-9996-419B-867D-DEC12621A4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1E7B28-9996-419B-867D-DEC12621A4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64CEE669-2136-44A9-8904-90D70092B056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CEE669-2136-44A9-8904-90D70092B056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CEE669-2136-44A9-8904-90D70092B056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CEE669-2136-44A9-8904-90D70092B056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEB27572-ABBA-4597-9DC9-D64C5FFD7A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEB27572-ABBA-4597-9DC9-D64C5FFD7A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEB27572-ABBA-4597-9DC9-D64C5FFD7A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEB27572-ABBA-4597-9DC9-D64C5FFD7A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB68A2D2-3F75-4DAA-BA6C-9D9F9071067E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB68A2D2-3F75-4DAA-BA6C-9D9F9071067E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB68A2D2-3F75-4DAA-BA6C-9D9F9071067E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB68A2D2-3F75-4DAA-BA6C-9D9F9071067E}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

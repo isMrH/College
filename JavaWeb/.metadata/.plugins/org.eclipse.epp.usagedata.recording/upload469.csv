@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.jst.jee.ejb,1.0.200.v200810230716,"org.eclipse.jst.jee.ejb",1463365875468
+started,bundle,org.eclipse.jst.jee.web,1.0.200.v200904130912,"org.eclipse.jst.jee.web",1463365875468
+started,bundle,org.eclipse.xsd,2.5.0.v200906151043,"org.eclipse.xsd",1463365875593
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463365876390
+started,bundle,org.eclipse.pde.core,3.5.0.v20090602,"org.eclipse.pde.core",1463365877406
+started,bundle,org.eclipse.wst.internet.cache,1.0.301.v200805140020,"org.eclipse.wst.internet.cache",1463365877578
+started,bundle,org.eclipse.wst.common.ui,1.1.402.v200901262305,"org.eclipse.wst.common.ui",1463365886093
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463365886218
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463366633578
+started,bundle,com.spket.ui,1.6.16,"com.spket.ui",1463366636625
+started,bundle,com.spket.xml,1.6.15,"com.spket.xml",1463366636625
+opened,editor,com.spket.xml,1.6.15,"com.spket.xml.editor.xmlEditor",1463366636843
+activated,editor,com.spket.xml,1.6.15,"com.spket.xml.editor.xmlEditor",1463366636890
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463366869234
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463366877718
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463366878984
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463366966546
+error,log,,,"Unhandled event loop exception",1463366991140
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463366991140
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463366991187
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1463366999421
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1463367003171
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463367005718
+started,bundle,com.spket.js,1.6.16,"com.spket.js",1463367011171
+opened,editor,com.spket.xml,1.6.15,"com.spket.xml.editor.xmlEditor",1463367011218

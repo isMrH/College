@@ -1,0 +1,157 @@
+﻿*{
+	margin:0px;
+	padding:0px;
+}
+#Wapper{
+	margin:0px auto;
+
+	height:750px;
+
+}
+.Title
+{
+	width:1440px;
+	height:82px;
+	background-image:url(../images/images_03.jpg);
+	background-repeat:repeat-x;
+}
+.Title p{
+	color:#FFF;
+	font-size:24px;
+	font-weight:bold;
+	line-height:82px;
+	margin-left:40px;
+}
+.Main{
+	margin:0px auto;
+	margin-top:10px;
+	height:500px;
+}
+.Main_right
+{
+	position:absolute;
+	top:92px;
+	left:200px;	
+	margin-left:10px;
+	width:1229px;	
+
+
+}
+.Main_right .col_r{
+	height:36px;
+	background-image:url(../images/images_16.jpg);
+	background-repeat:repeat-x;
+
+}
+.Main_right .col_r ul{
+	list-style-type:none;	
+	color:#0CF;
+}
+.Main_right .col_r ul li{
+	width:100px;
+	height:29px;
+	line-height:29px;
+	float:left;
+	text-align:center;
+	border:#CCC 1px solid;
+	background-color:#FFF;
+	margin-top:5px;
+	margin-right:4px;
+	/*color:#0CF;*/
+	font-weight:bold;
+	font-size:16px;
+	margin-left:3px;
+	border-bottom:none;
+	cursor:pointer;
+	
+}
+.Main_left
+{
+	color:#454545;
+	width:200px;
+	text-align:center;	
+}
+.Main_left ul{
+	list-style-type:none;
+}
+.Main_left ul li{
+	height:33px;
+	line-height:33px;
+	font-size:12px;
+	background-image:url(../images/images_21.jpg);
+	background-repeat:repeat-x;
+
+}
+.Main_left .col_1{
+	font-size:14px;
+	font-weight:bold;
+	background-image:url(../images/images_07.jpg);
+	background-repeat:repeat-x;
+	cursor:pointer;
+}
+.Main_left .col_1 img{
+	margin-right:20px;
+	margin-left:20px;
+}
+.Bottom
+{
+	clear:both;
+	width:80%;
+	margin:0px auto;
+	margin-top:100px;
+	color:#3c3c3c;
+	text-align:center;
+	font-size:12px;
+}
+table
+{
+	color:#454545;
+	margin-left:250px;
+	width:500px;
+	border-collapse:collapse;
+	border:1px solid #CCC;
+
+}
+table td
+{
+	height:30px;
+	border:1px solid #CCC;
+}
+table .text
+{
+	height:25px;
+	width:300px;
+}
+table .btn
+{
+	width:100px;
+	height:25px;
+}
+
+ .Content
+{
+	padding-top:30px;
+	margin-top:0px;
+    border: 1px solid #898989;
+    height:400px;
+    border-top:none;
+}
+
+.selected
+{	
+    color:Orange;
+    background: #6D84B4;
+    position:relative;
+    top:1px;
+    
+}
+
+ .hide
+{
+    display: none;
+    
+}
+.hover
+{
+    background:red;
+}

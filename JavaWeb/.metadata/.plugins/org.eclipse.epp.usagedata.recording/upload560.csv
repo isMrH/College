@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.version,sysinfo,,,"1.0",1463966083859
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1463966083859
+java.vm.version,sysinfo,,,"1.6.0_02-b06",1463966083859
+started,bundle,org.eclipse.epp.usagedata.ui,1.1.0.R200906100410,"org.eclipse.epp.usagedata.ui",1463966084937
+started,bundle,org.tigris.subversion.subclipse.ui,1.0.5,"org.tigris.subversion.subclipse.ui",1463966089000
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463966089687
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463966108109
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463966182484
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463966656421
+started,bundle,org.eclipse.wst.sse.ui,1.1.100.v200905141750,"org.eclipse.wst.sse.ui",1463966762359
+started,bundle,org.eclipse.wst.xml.ui,1.1.0.v200905242047,"org.eclipse.wst.xml.ui",1463966762453
+started,bundle,org.eclipse.wst.html.ui,1.0.400.v200904292008,"org.eclipse.wst.html.ui",1463966762453
+started,bundle,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.ui",1463966762453
+started,bundle,org.eclipse.jst.jsp.core,1.2.202.v200905081451,"org.eclipse.jst.jsp.core",1463966762921
+started,bundle,org.eclipse.wst.html.core,1.1.300.v200903120608,"org.eclipse.wst.html.core",1463966763078
+started,bundle,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui",1463966763421
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.301.v200805140415,"org.eclipse.wst.common.uriresolver",1463966763515
+started,bundle,org.eclipse.wst.css.core,1.1.300.v200904131653,"org.eclipse.wst.css.core",1463966763578
+started,bundle,org.hibernate.eclipse,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse",1463966764375
+started,bundle,org.hibernate.eclipse.mapper,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.mapper",1463966764375
+started,bundle,org.eclipse.wst.jsdt.web.support.jsp,1.0.200.v200904140255,"org.eclipse.wst.jsdt.web.support.jsp",1463966764546
+started,bundle,org.eclipse.wst.jsdt.web.ui,1.0.200.v200904230847,"org.eclipse.wst.jsdt.web.ui",1463966764562
+started,bundle,org.eclipse.wst.css.ui,1.0.400.v200904292008,"org.eclipse.wst.css.ui",1463966764843
+started,bundle,org.eclipse.wst.jsdt.core,1.0.200.v200905201910,"org.eclipse.wst.jsdt.core",1463966765218
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.100.v200809240707,"org.eclipse.wst.jsdt.manipulation",1463966765375

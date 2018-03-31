@@ -1,0 +1,104 @@
+/* COMMON CSS Document */
+body {line-height:1.3em;font-size:12px;color:#676767;text-align:left;}
+li,ul,p,body,h1,h2,dl,dd,dt,form{margin:0px;padding:0px;list-style:none}
+.div {width:900px;text-align:left;margin:0 auto}
+.fc_1{color:#FE6000;}
+.fc_2{color:#276BB4;}
+.fc_3{color:#393939;}
+.fc_4{color:#3A9D09;}
+.fc_5{color:#FF0000;}
+
+.font_size12{ font-size:12px;}
+.font_size14{ font-size:14px;}
+.font_size16{ font-size:16px;}
+
+.fb{font-weight:bold;}
+.hack {clear:both;}
+.hack5 {font-size:5px;height:5px;clear:both;line-height:5px}
+a {color:#676767;text-decoration:none;}
+a:hover {color:#FF0000;} 
+
+.line_bg_solid1 {border-bottom:#CCCCCC solid 1px;}
+.line_bg_dotted1 {border-bottom:#CCCCCC dotted 1px;}
+
+.input_bg_black{border:#000000 1px solid;}
+
+.a_blue a{color:#276BB4;}
+
+#topN {margin:0 auto;}
+#topNav {margin:0 auto;height:33px;background:url(images/top_nav_bg.gif)}
+#topNav .left{ float:left; width:20px;}
+#topNav .center{ float:left;color:#FFFFFF;font-size:13px;}
+#topNav .center li {float:left;padding:0px;}
+#topNav .center li a {display:block;height:25px;line-height:20px;width:75px;text-align:center;color:#FFFFFF;text-decoration:none;padding-top:8px;}
+#topNav .center li img {padding-top:8px;}
+#topNav .center li a:hover {background:url(images/top_nav_bg_b.gif);text-align:center}
+#topNav .center .b {background:url(images/top_nav_bg_b.gif);}
+#topNav .right{ float:right; width:3px;}
+#titleNav {margin:0 auto;height:34px;background:url(images/title_nav_bg.gif);}
+#titleNav .left{ float:left;height:34px;line-height:34px; margin-top:5px; margin-left:5px;width:457px;
+}
+#titleNav img {float:left;margin-left:20px;padding-top:0px; border :0px}
+#titleNav .right{ float:right;height:34px;line-height:34px;width:186px;
+	margin-left: 33px;
+	margin-bottom: 0px;
+}
+#titleNav .right p { float:left; height:35px; line-height:35px;
+	width: 179px;
+}
+#titleNav .right form{ float:right;width:340px;height:20px;display:block;}
+#titleNav .right input { border:#cccccc solid 1px; color:#cccccc; height:18px; line-height:20px; width:190px; margin-top:0.35em;}
+#titleNav .right select{ border:#cccccc solid 1px; height:20px; margin-bottom:0.1em;}
+#titleNav .right .btn { width:61px;height:22px;background-image:url(images/top_nav_bt.gif);border:0px;margin-left:10px; color:#FFFFFF;}
+
+#main {margin:0 auto; background:url(images/news_center_bg.gif);}
+#main .left {float:left;width:214px;border-top:#CECFD3 1px solid;}
+#main .left .title {height:31px; background:url(images/title_bg1.gif); margin-left:1px; line-height:31px; color:#000000;font-size:14px; font-weight:bold; padding-left:20px;}
+#main .left  .nav{ margin-left:25px;color:#07509F; font-size :larger ; font-weight:bold;}
+#main .left  .nav li{ margin-top:5px;height:21px; line-height:21px; background:url(images/nav_li_bg.gif) left bottom no-repeat; padding-left:10px; color:#07509F; font-weight:bold;}
+#main .left  .nav li a{color:#07509F;}
+#main .left  .nav li a:hover {color:#FF0000;}
+
+#main .right {float:right;width:680px;}
+#main .right .title{ border-top:#CDCED2 1px solid;border-bottom:#CDCED2 1px solid; height:25px;line-height:25px; padding-left:10px; color:#000000;}
+#main .right .space{height:5px; line-height:5px; font-size:0px;background:#FFFFFF;width:682px;margin-left:-1px;}
+#main .right .content{border-top:#CDCED2 1px solid;}
+
+.mainfooter {height:3px;width:900px;line-height:3px;}
+
+#telbox { margin-top:50px; margin-left:8px; width:200px;}
+#telbox .top {height:5px;width:200px;background:url(images/tel_box_top.gif);}
+#telbox .content1 {width:200px;height:400px;background:#FFFFFF;}
+#telbox .content1 img {margin-top:5px; margin-left:8px;}
+#telbox .content1 form{ margin-left:20px; margin-right:20px; line-height:20px;}
+#telbox .content1 input{color:#000; margin-bottom:5px;}
+#telbox .content1 textarea {width:150px;margin-top:3px;margin-bottom:8px;color:#000;}
+#telbox .content1 .btnStyle{ height:24px;line-height:24px;width:58px;background:url(images/bt_center.gif);border:0; text-align:center; color:#000000; margin:0 auto; display:block;}
+#telbox .content1 p{margin-top:10px; margin-left:20px; color:#276AB8;}
+#telbox .content1 p a{color:#276AB8;}
+#telbox .content1 p a:hover{color:#FF0000;}
+#telbox .bottom {width:200px;height:5px;background:url(images/tel_box_bottom.gif);}
+
+#center_ads { border:0; margin:5px auto!important;margin:3px auto 1px; width:900px;}
+
+#footer {margin:0 auto;}
+#footer .link1{border-top:#D0D0D0 solid 1px; border-bottom:#D0D0D0 solid 1px; height:25px; line-height:25px; text-align:center;}
+#footer .content {text-align:center; margin:8px 0px;}
+
+.field-validation-error
+{
+    color: #ff0000;
+}
+
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+

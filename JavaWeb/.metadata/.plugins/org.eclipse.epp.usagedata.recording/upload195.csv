@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461132988078
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461132990390
+error,log,,,"Could not acquire children from extension: org.eclipse.jst.jee.ui.web",1461132992968
+closed,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461132993046
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461132993125
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1461132993125
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1461132993125
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461132995109
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133015031
+opened,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461133020578
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461133020625
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133033265
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133033281
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133033375
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133037859
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133038890
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133052203
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133054015
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133055109
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1461133055734
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133056828
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133058000
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133060187
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133065343
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461133066140

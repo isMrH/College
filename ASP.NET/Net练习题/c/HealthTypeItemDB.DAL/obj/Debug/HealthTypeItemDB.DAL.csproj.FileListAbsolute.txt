@@ -1,0 +1,14 @@
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.DAL\bin\Debug\HealthTypeItemDB.DAL.dll
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.DAL\bin\Debug\HealthTypeItemDB.DAL.pdb
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.DAL\bin\Debug\HealthTypeItemDB.Medol.dll
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.DAL\bin\Debug\HealthTypeItemDB.Medol.pdb
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.DAL\obj\Debug\HealthTypeItemDB.DAL.dll
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.DAL\obj\Debug\HealthTypeItemDB.DAL.pdb
+F:\asp.net考核\c\HealthTypeItemDB.DAL\bin\Debug\HealthTypeItemDB.DAL.dll
+F:\asp.net考核\c\HealthTypeItemDB.DAL\bin\Debug\HealthTypeItemDB.DAL.pdb
+F:\asp.net考核\c\HealthTypeItemDB.DAL\bin\Debug\HealthTypeItemDB.Medol.dll
+F:\asp.net考核\c\HealthTypeItemDB.DAL\bin\Debug\HealthTypeItemDB.Medol.pdb
+F:\asp.net考核\c\HealthTypeItemDB.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\asp.net考核\c\HealthTypeItemDB.DAL\obj\Debug\HealthTypeItemDB.DAL.dll
+F:\asp.net考核\c\HealthTypeItemDB.DAL\obj\Debug\HealthTypeItemDB.DAL.pdb

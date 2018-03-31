@@ -1,0 +1,8 @@
+F:\上机6作业1\上机6作业1\bin\Debug\上机6作业1.exe
+F:\上机6作业1\上机6作业1\bin\Debug\上机6作业1.pdb
+F:\上机6作业1\上机6作业1\obj\Debug\ResolveAssemblyReference.cache
+F:\上机6作业1\上机6作业1\obj\Debug\上机6作业1.frmStudent.resources
+F:\上机6作业1\上机6作业1\obj\Debug\上机6作业1.Properties.Resources.resources
+F:\上机6作业1\上机6作业1\obj\Debug\上机6作业1.csproj.GenerateResource.Cache
+F:\上机6作业1\上机6作业1\obj\Debug\上机6作业1.exe
+F:\上机6作业1\上机6作业1\obj\Debug\上机6作业1.pdb

@@ -1,0 +1,5 @@
+F:\ASP.NET\Web\上机1作业1\Users.Model\bin\Debug\Users.Model.dll
+F:\ASP.NET\Web\上机1作业1\Users.Model\bin\Debug\Users.Model.pdb
+F:\ASP.NET\Web\上机1作业1\Users.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\Web\上机1作业1\Users.Model\obj\Debug\Users.Model.dll
+F:\ASP.NET\Web\上机1作业1\Users.Model\obj\Debug\Users.Model.pdb

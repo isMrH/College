@@ -1,0 +1,101 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<HEAD id="HEAD1" runat="server">
+<META http-equiv="Content-Type" content="text/html">
+<TITLE>第三波+书店</TITLE>
+<link href="Css/page_bottom_new.css" type="text/css" rel="Stylesheet" />
+<style type="text/css">
+*{padding:0;margin:0}
+image{border:0;}
+div{color:#000000;
+     font-size:12px;}
+	 
+td{color:#000000;
+     font-size:12px;}
+	 
+.topdiv{position:absolute;
+        left:700px;
+		top:100px;
+		width:190px;}
+.top-input{border:0;
+           background:#FFFFFF;
+		   width:175px;
+		   height:20px;
+		   padding-top:2px;}
+.middle-bg{background:url(Images/index-bg.jpg) 0px 0px no-repeat;
+           width:1024px;}
+.middle-left{width:180px;}
+.middle-left1{width:150px;border-left:1 #7AB271 solid;border-right:1 #7AB271 solid;padding:10px 5px 10px 5px;}  		   
+.bottom {width:80px;color:#000000;line-height:30px;font-size:12px;text-align:center; text-decoration:none;}
+.bottom :hover{width:80px;color:#000000;line-height:30px;font-size:12px;text-align:center; text-decoration:none;}
+.bcopyright{color:#666666;font-size:12px; text-align:center;}
+</style>
+</HEAD>
+<BODY>
+<!--网站头部开始-->
+<FORM id="form1" runat="server">
+<div style="width:1024px;height:150px;">
+<div><IMG src="Images/index-top.jpg" border="0" usemap="#Map"></div>
+  </div>
+<div class="middle-bg">
+<!--网站中间部分开始-->
+<div style="padding-left:30px; font-size:13px;line-height:30px;font-weight:bold;">您现在的位置：<asp:SiteMapPath ID="SiteMapPath1" runat="server">
+    </asp:SiteMapPath>
+</div>
+<div style="padding:15px 0px 15px 0px;">
+<TABLE width="900" border="0" cellspacing="0" cellpadding="0" align="center">
+  <TR>
+  <!--左边菜单栏开始-->
+    <TD class="middle-left" valign="top"><div><IMG src="Images/menu-top.gif"></div>
+	<div class="middle-left1">
+        <asp:TreeView ID="TreeView1" runat="server" DataSourceID="XmlDataSource1" Style="position: static" ExpandDepth="1" ImageSet="WindowsHelp">
+                             <DataBindings>
+                                 <asp:TreeNodeBinding DataMember="mainNode" NavigateUrlField="url" TextField="title" />
+                                 <asp:TreeNodeBinding DataMember="categoryNode" NavigateUrlField="url" TextField="title" />
+                                 <asp:TreeNodeBinding DataMember="bookNode" NavigateUrlField="url" TextField="title" />
+                             </DataBindings>
+                             <ParentNodeStyle Font-Bold="False" />
+                             <HoverNodeStyle Font-Underline="True" ForeColor="#6666AA" />
+                             <SelectedNodeStyle BackColor="#B5B5B5" Font-Underline="False" HorizontalPadding="0px"
+                                 VerticalPadding="0px" />
+                             <NodeStyle Font-Names="Tahoma" Font-Size="8pt" ForeColor="Black" HorizontalPadding="5px"
+                                 NodeSpacing="0px" VerticalPadding="1px" />
+                         </asp:TreeView>
+                         <asp:XmlDataSource ID="XmlDataSource1" runat="server" DataFile="~/App_Data/catalog.xml">
+                         </asp:XmlDataSource>
+    </div>
+	<div><IMG src="Images/menu-bottom.gif"></div>
+	</TD>
+	<!--右边主要内容开始-->
+    <TD valign="top"><TABLE width="100%" border="0" cellspacing="0" cellpadding="0">
+  <TR>
+    <TD>
+        <asp:ContentPlaceHolder ID="cphContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </TD>
+  </TR>
+</TABLE>
+</TD>
+  </TR>
+</TABLE>
+</div>
+<!--网站底部开始-->
+<div align="center"><IMG src="Images/line-1.gif" width="960" height="6"><br>
+<a href="#" class="bottom">公司简介</a> &nbsp; &nbsp; <a href="#" class="bottom">诚征英才</a>
+    &nbsp;&nbsp; <a href="#" class="bottom">网站联盟</a> &nbsp;&nbsp; <a href="#" class="bottom">店中店招商</a>
+    &nbsp;&nbsp; <a href="#" class="bottom">交易条款</a>
+</div>
+<DIV class="bcopyright">Copyright (C)北大青鸟 2007-2010, All Rights Reserved<IMG src="Images/validate.gif" hspace="4" align="absmiddle"> 
+<span style="font-size:13px;color:#000000;">京ICP证666666号</span>
+</DIV>
+</div>
+<MAP name="Map">
+  <AREA shape="rect" coords="224,95,307,125" href="default.aspx">
+  <AREA shape="rect" coords="326,96,407,123" href="Cart.aspx">
+  <AREA shape="rect" coords="426,96,503,125" href="MemberShip/UserLogin.aspx">
+</MAP>
+  </FORM>
+</BODY>
+</HTML>

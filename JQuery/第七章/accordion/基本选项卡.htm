@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="css/ui-lightness/jquery-ui-1.8.18.custom.css" rel="stylesheet" type="text/css" />
+
+    <script src="js/jquery-1.7.1.min.js" type="text/javascript"></script>
+
+    <script src="js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function() {
+            var accOpts = {
+                event: "mouseover",//鼠标滑过时切换选项卡
+                //active:1//默认激活任何一个选项卡
+                //collapsible:true//选项卡处于折叠状态
+                fillSpace:true//控制内容充满容器的高度
+                //animated:false//无动画
+                //animated:"bounceslide"//反弹效果
+                //animated:"easeOutBounce"//上下反弹效果
+            };
+            $("#myAccordion").accordion(accOpts);
+            //$("#myAccordion").accordion({ event: "mouseover" });
+            //$("#myAccordion").accordion()//简单accordion实现
+
+        })
+    </script>
+    <style type="text/css">
+        #container { height:400px;  width:400px; border:1px #333333 solid;}
+        #myAccordion{ border:1px solid #000}
+        #myAccordion .ui-accordion-header{ height:30px; overflow:hidden}
+        #myAccordion .ui-accordion-header a{ height:30px; font-size:14px;}
+        #myAccordion .ui-widget-content{ border:1px solid #F00}
+        #myAccordion .ui-state-active{ background:#FCC;}
+        #myAccordion .ui-accordion-content-active{ background:#F93;
+    </style>
+</head>
+<body>
+<div id="container">
+<div id="myAccordion"> 
+<h2><a href="#">薛之谦</a></h2> 
+<div>简单点，说话的方式简单点。递进的情绪请省略，你又不是个演员，别设计那些情节。简单点，说话的方式简单点。递进的情绪请省略，你又不是个演员，别设计那些情节。简单点，说话的方式简单点。递进的情绪请省略，你又不是个演员，别设计那些情节。</div> 
+<h2><a href="#">许嵩</a></h2> 
+<div>那天午后，我站在你家门口，你咬咬嘴唇还是说出了分手。我的挽留和眼泪全都没有用。那天午后，我站在你家门口，你咬咬嘴唇还是说出了分手。我的挽留和眼泪全都没有用。那天午后，我站在你家门口，你咬咬嘴唇还是说出了分手。我的挽留和眼泪全都没有用。</div> 
+<h2><a href="#">张杰</a></h2> 
+<div>是否爱上一个人不问明天过后，山名和水秀不比你有看头。是否爱上一个人不问明天过后，山名和水秀不比你有看头。是否爱上一个人不问明天过后，山名和水秀不比你有看头。是否爱上一个人不问明天过后，山名和水秀不比你有看头。是否爱上一个人不问明天过后，山名和水秀不比你有看头。</div> 
+</div> 
+</div>
+
+</body>
+</html>

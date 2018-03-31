@@ -1,0 +1,14 @@
+F:\GridView\MySchool.DAL\bin\Debug\MySchool.DAL.dll
+F:\GridView\MySchool.DAL\bin\Debug\MySchool.DAL.pdb
+F:\GridView\MySchool.DAL\bin\Debug\MySchool.Model.dll
+F:\GridView\MySchool.DAL\bin\Debug\MySchool.Model.pdb
+F:\GridView\MySchool.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\GridView\MySchool.DAL\obj\Debug\MySchool.DAL.dll
+F:\GridView\MySchool.DAL\obj\Debug\MySchool.DAL.pdb
+F:\ASP.NET\Web\GridView\MySchool.DAL\bin\Debug\MySchool.DAL.dll
+F:\ASP.NET\Web\GridView\MySchool.DAL\bin\Debug\MySchool.DAL.pdb
+F:\ASP.NET\Web\GridView\MySchool.DAL\bin\Debug\MySchool.Model.dll
+F:\ASP.NET\Web\GridView\MySchool.DAL\bin\Debug\MySchool.Model.pdb
+F:\ASP.NET\Web\GridView\MySchool.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\Web\GridView\MySchool.DAL\obj\Debug\MySchool.DAL.dll
+F:\ASP.NET\Web\GridView\MySchool.DAL\obj\Debug\MySchool.DAL.pdb

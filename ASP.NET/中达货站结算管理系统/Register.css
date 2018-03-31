@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background-image:url(images/Background.jpg);
+
+	background-size:cover;
+	background-repeat:no-repeat;
+	font-family:'΢ź'; 
+	font-size:12px;
+	color:White;
+}
+#Wapper{
+	width:1000px;
+	height:550px;
+	margin:0px auto;
+}
+
+#form1
+{
+	height:100%;
+	width:100%;
+}
+
+.Table
+{
+	width:400px;
+	height:300px;
+	margin:200px auto;
+	vertical-align:middle;
+}
+

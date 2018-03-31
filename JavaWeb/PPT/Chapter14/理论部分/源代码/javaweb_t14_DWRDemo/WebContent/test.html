@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+
+
+
+  <script type='text/javascript' src='/javaweb_t14_DWR/dwr/interface/MovieManager.js'></script>
+  <script type='text/javascript' src='/javaweb_t14_DWR/dwr/interface/Person.js'></script>
+  <script type='text/javascript' src='/javaweb_t14_DWR/dwr/engine.js'></script>
+<script src="js/jquery-1.4.2.js"></script>
+<script>
+	function fun() {
+		//1.Person js对象
+		/* Person.hello(
+			//拿到服务器端数据之后的回调函数
+			function(data){
+				//alert(data);
+				$("#result").html(data);
+			}		
+		);  */ 
+		
+		//2.调用Person的sayHello()方法，测试传递一个参数的功能
+		/* var name=$("input[name=UserName]").val();
+		
+		Person.sayHello(
+			name,
+			function(data){
+				$("#result").html(data);
+			}
+		);  */
+
+		//3.调用Person的add()方法，测试传递两个参数的功能
+		/* var num1=parseInt($("input[name=Num1]").val());
+		var num2=parseInt($("input[name=Num2]").val());
+		Person.add(num1,num2,
+			function(data){
+				$("#result").html(data);
+			}
+		); */
+		
+		//4.调用Person的saleDog()方法，测试自定义返回类型功能
+		//需要在dwr.xml配置文件中进行相关的自定义类型配置操作。
+		/* Person.saleDog(
+			function(data){
+				//alert(data.name);
+				$("#result").html("狗名："+data.name+"<br/>品种："+data.category);
+			}
+		); */
+
+		//5.调用Person的feedDog()方法，测试自定义类型作参数
+		/* var dogName=$("input[name=DogName]").val();
+		var dogCategory=$("input[name=DogCategory]").val();
+		var dog={
+			name:dogName,
+			category:dogCategory
+		};
+		Person.feedDog(dog,
+			function(data){
+				$("#result").html(data);
+			}		
+		);  */
+
+		//7.调用MovieManager的getList()方法，测试返回集合的操作
+		/* MovieManager.getList(
+			function(data){
+				var content='<ul>';
+				//遍历字符串集合
+				for(var i=0;i<data.length;i++){
+					content+="	<li>"+data[i]+"</li>";
+				}
+				//便利自定义对象集合
+				for(var i=0;i<data.length;i++){
+					content+="	<li>"+data[i].name+":"+data[i].category+"</li>";
+				}  
+				content+="</ul>";
+				$("#result").html(content);
+			}		
+		); */
+		
+		//8.调用MovieManger的select()方法，测试 返回泛型集合的操作
+		/* MovieManager.select(
+			function(data){
+				var content='<table border="1">';
+				for(var i=0;i<data.length;i++){
+					content+="	<tr><td>"+data[i].movieID+"</td><td>"+data[i].movieName+"</td><td>"+data[i].showTime.toLocaleDateString()+"</td></tr>";
+				}
+				content+="</table>";
+				$("#result").html(content);
+			}
+		); */
+
+		//9.调用MovieManager的getMap()方法测试返回HashMap操作
+		MovieManager.getMap(function(data) {
+			var content = "<table border='1'>";
+			
+			//1.输出字符串对象
+			/* for ( var i in data) {
+				content += "<tr>";
+				content += "<td>"+i+"</td><td>"+data[i]+"</td>";
+				content += "</tr>";
+			} 
+			content += "</table>";  */
+			
+			//2.输出自定义对象
+			for ( var i in data) {
+				content += "<tr>";
+				content += "<td>"+i+"</td>";
+				/* for ( var j in data[i]) {
+					content += "<td>" + data[i][j] + "</td>";
+				} */
+				content+="<td>"+data[i].category+"</td>";
+				content+="<td>"+data[i].name+"</td>";
+				content += "</tr>";
+			}
+			content += "</table>"; 
+			
+			$("#result").html(content);
+		}); 
+	}
+</script>
+</head>
+<body>
+	userName:<input type="text" name="UserName" /><br/>
+	<hr/>
+	num1:<input type="text" name="Num1" /><br/>
+	num2:<input type="text" name="Num2" /><br/>
+	<hr/>
+	dogName:<input type="text" name="DogName" /><br/>
+	dogCategory:<input type="text" name="DogCategory" /><br/>
+	<br />
+	<button onclick="fun()">click</button>
+	<div id="result" style="border: solid 1px red"></div>
+</body>
+</html>

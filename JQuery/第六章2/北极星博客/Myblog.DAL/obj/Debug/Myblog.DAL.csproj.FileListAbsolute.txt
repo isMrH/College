@@ -1,0 +1,7 @@
+F:\jquery\北极星博客\Myblog.DAL\bin\Debug\Myblog.DAL.dll
+F:\jquery\北极星博客\Myblog.DAL\bin\Debug\Myblog.DAL.pdb
+F:\jquery\北极星博客\Myblog.DAL\bin\Debug\Myblog.Model.dll
+F:\jquery\北极星博客\Myblog.DAL\bin\Debug\Myblog.Model.pdb
+F:\jquery\北极星博客\Myblog.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\jquery\北极星博客\Myblog.DAL\obj\Debug\Myblog.DAL.dll
+F:\jquery\北极星博客\Myblog.DAL\obj\Debug\Myblog.DAL.pdb

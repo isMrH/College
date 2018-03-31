@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946401843
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460946402968
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.stop",1460946409156
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1460946409671
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460946410625
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1460946410671
+started,bundle,org.eclipse.datatools.connectivity,1.1.2.v200906020553,"org.eclipse.datatools.connectivity",1460946412375
+started,bundle,org.eclipse.datatools.connectivity.ui,1.1.4.v200906020553,"org.eclipse.datatools.connectivity.ui",1460946412375
+started,bundle,org.eclipse.datatools.connectivity.ui.dse,1.1.3.v200906020553,"org.eclipse.datatools.connectivity.ui.dse",1460946412375
+started,bundle,org.eclipse.datatools.enablement.ingres.ui,1.0.0.v200906111145,"org.eclipse.datatools.enablement.ingres.ui",1460946412390
+started,bundle,org.eclipse.datatools.connectivity.sqm.core,1.1.0.v200906020553,"org.eclipse.datatools.connectivity.sqm.core",1460946412421
+started,bundle,org.eclipse.datatools.connectivity.sqm.core.ui,1.1.100.v200906020553,"org.eclipse.datatools.connectivity.sqm.core.ui",1460946412421
+opened,view,org.eclipse.datatools.connectivity.ui.dse,1.1.3.v200906020553,"org.eclipse.datatools.connectivity.DataSourceExplorerNavigator",1460946412453
+activated,view,org.eclipse.datatools.connectivity.ui.dse,1.1.3.v200906020553,"org.eclipse.datatools.connectivity.DataSourceExplorerNavigator",1460946412468
+started,bundle,org.eclipse.wst.common.snippets,1.1.300.v200903120643,"org.eclipse.wst.common.snippets",1460946414218
+started,bundle,org.eclipse.gef,3.5.0.v20090528-1511,"org.eclipse.gef",1460946414234
+started,bundle,org.eclipse.draw2d,3.5.0.v20090528-1511,"org.eclipse.draw2d",1460946414250
+opened,view,org.eclipse.wst.common.snippets,1.1.300.v200903120643,"org.eclipse.wst.common.snippets.internal.ui.SnippetsView",1460946415140
+activated,view,org.eclipse.wst.common.snippets,1.1.300.v200903120643,"org.eclipse.wst.common.snippets.internal.ui.SnippetsView",1460946415156
+activated,view,org.eclipse.datatools.connectivity.ui.dse,1.1.3.v200906020553,"org.eclipse.datatools.connectivity.DataSourceExplorerNavigator",1460946415171
+closed,view,org.eclipse.wst.common.snippets,1.1.300.v200903120643,"org.eclipse.wst.common.snippets.internal.ui.SnippetsView",1460946415171
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1460946416031
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460946416859
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.run",1460946420656
+error,log,,,"Could not publish server configuration for Tomcat v6.0 Server at localhost.",1460946420687

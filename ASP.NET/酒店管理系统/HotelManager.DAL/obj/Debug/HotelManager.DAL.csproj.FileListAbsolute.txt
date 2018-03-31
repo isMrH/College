@@ -1,0 +1,7 @@
+F:\ASP.NET\酒店管理系统\HotelManager.DAL\bin\Debug\HotelManager.DAL.dll
+F:\ASP.NET\酒店管理系统\HotelManager.DAL\bin\Debug\HotelManager.DAL.pdb
+F:\ASP.NET\酒店管理系统\HotelManager.DAL\bin\Debug\HotelManager.dll
+F:\ASP.NET\酒店管理系统\HotelManager.DAL\bin\Debug\HotelManager.pdb
+F:\ASP.NET\酒店管理系统\HotelManager.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\酒店管理系统\HotelManager.DAL\obj\Debug\HotelManager.DAL.dll
+F:\ASP.NET\酒店管理系统\HotelManager.DAL\obj\Debug\HotelManager.DAL.pdb

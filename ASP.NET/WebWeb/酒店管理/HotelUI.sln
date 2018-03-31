@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HotelUI", "HotelUI", "{F0A80520-4234-4804-9361-342AF293294F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{D88009AD-3721-48C3-8FBA-5294F0A8F8D5}|HotelManager.BLL.dll;{0A4F0416-194B-4620-9B8C-9C8432540B8D}|HotelManager.DAL.dll;{3A64A1A4-EE51-404D-AA16-B0481744F42E}|HotelManager.Model.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/HotelUI"
+		Debug.AspNetCompiler.PhysicalPath = "HotelUI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\HotelUI\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/HotelUI"
+		Release.AspNetCompiler.PhysicalPath = "HotelUI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\HotelUI\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1239"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManager.Model", "HotelManager.Model\HotelManager.Model.csproj", "{3A64A1A4-EE51-404D-AA16-B0481744F42E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManager.DAL", "HotelManager.DAL\HotelManager.DAL.csproj", "{0A4F0416-194B-4620-9B8C-9C8432540B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManager.BLL", "HotelManager.BLL\HotelManager.BLL.csproj", "{D88009AD-3721-48C3-8FBA-5294F0A8F8D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0A80520-4234-4804-9361-342AF293294F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A80520-4234-4804-9361-342AF293294F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A80520-4234-4804-9361-342AF293294F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A80520-4234-4804-9361-342AF293294F}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{3A64A1A4-EE51-404D-AA16-B0481744F42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A64A1A4-EE51-404D-AA16-B0481744F42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A64A1A4-EE51-404D-AA16-B0481744F42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A64A1A4-EE51-404D-AA16-B0481744F42E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4F0416-194B-4620-9B8C-9C8432540B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4F0416-194B-4620-9B8C-9C8432540B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4F0416-194B-4620-9B8C-9C8432540B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4F0416-194B-4620-9B8C-9C8432540B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88009AD-3721-48C3-8FBA-5294F0A8F8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88009AD-3721-48C3-8FBA-5294F0A8F8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88009AD-3721-48C3-8FBA-5294F0A8F8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88009AD-3721-48C3-8FBA-5294F0A8F8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

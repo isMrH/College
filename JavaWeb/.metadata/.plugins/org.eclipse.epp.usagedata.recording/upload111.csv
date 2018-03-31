@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Could not publish server configuration for Tomcat v6.0 Server at localhost.",1460946552640
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946552687
+error,log,,,"Two or more Web modules defined in the configuration have the same context root (/Test). To start this server you will need to remove the duplicate(s).",1460946552750
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946557843
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1460946560500
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460946563015
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946563656
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946564859
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460946564875
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.run",1460946570375
+error,log,,,"Could not publish server configuration for Tomcat v6.0 Server at localhost.",1460946570406
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946570437
+error,log,,,"Two or more Web modules defined in the configuration have the same context root (/Test). To start this server you will need to remove the duplicate(s).",1460946570500
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946572625
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.views.showView",1460946579078
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.views.showView",1460946584000
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460946585765
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460946589468
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.views.showView",1460946589468
+started,bundle,com.sysdeo.eclipse.tomcat,3.2.1,"com.sysdeo.eclipse.tomcat",1460946598031
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946598046
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946599265
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.views.showView",1460946614500
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946617281
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946621234

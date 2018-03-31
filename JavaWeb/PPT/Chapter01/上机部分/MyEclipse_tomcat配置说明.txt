@@ -1,0 +1,8 @@
+在MyEclipse中配置tomcat演示
+1、打开MyEclipse，点击菜单栏“Window”→“Preferences”。
+2、在弹出的窗口中依次打开MyEclipse节点、Application Servers节点、Tomcat节点。
+3、选中Tomcat 6.x，点击Tomcat home directory后的Browse，选中Tomcat6安装目录。
+4、注意一定要选中Enable选项。
+5、配置Tomcat6.x关联的JDK：
+   （1）打开Tomcat 6.x节点，选中JDK节点。
+   （2）点击Tomcat JDK name后的Add按钮，在弹出的窗口中录入JRE name（随便取个名字，例如               jdk1.6.0_02），点击JRE home directory后的Browse，选中JDK安装目录。

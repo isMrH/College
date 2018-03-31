@@ -1,0 +1,9 @@
+F:\ASP.NET\Web\上机1作业1\Users.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\Web\上机1作业1\Users.BLL\bin\Debug\Users.BLL.dll
+F:\ASP.NET\Web\上机1作业1\Users.BLL\bin\Debug\Users.BLL.pdb
+F:\ASP.NET\Web\上机1作业1\Users.BLL\bin\Debug\Users.DAL.dll
+F:\ASP.NET\Web\上机1作业1\Users.BLL\bin\Debug\Users.Model.dll
+F:\ASP.NET\Web\上机1作业1\Users.BLL\bin\Debug\Users.Model.pdb
+F:\ASP.NET\Web\上机1作业1\Users.BLL\bin\Debug\Users.DAL.pdb
+F:\ASP.NET\Web\上机1作业1\Users.BLL\obj\Debug\Users.BLL.dll
+F:\ASP.NET\Web\上机1作业1\Users.BLL\obj\Debug\Users.BLL.pdb

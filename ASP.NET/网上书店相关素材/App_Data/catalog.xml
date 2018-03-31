@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<mainNode url="BookList.aspx" title="图书目录"  description="">
+
+  <categoryNode Id="" url="BookList.aspx?Catalog=计算机基础" title="计算机基础" description="">
+    <bookNode url="BookList.aspx?BookName=计算机等级考试"  title="计算机等级考试"  description="" />
+    <bookNode url="BookList.aspx?BookName=Windows操作系统"  title="Windows操作系统"  description="" />
+  </categoryNode>
+  <categoryNode Id="" url="BookList.aspx?Catalog=软件开发" title="软件开发" description="">
+    <bookNode url="BookList.aspx?BookName=C#程序设计"  title="C#程序设计"  description="" />
+    <bookNode url="BookList.aspx?BookName=JSP应用教程"  title="JSP应用教程"  description="" />
+  </categoryNode>
+  <categoryNode Id="" url="" title="网页制作" description="">
+    <bookNode url="BookList.aspx?BookName=CSS实战手册"  title="CSS实战手册"  description="" />
+    <bookNode url="BookList.aspx?BookName=Dreamweaver MX2004完全自学手册"  title="Dreamweaver MX2004完全自学手册 "  description="" />
+  </categoryNode>
+  <categoryNode Id="" url="" title="人文科学" description="">
+    <bookNode url="BookList.aspx?BookName=第一哲学沉思集"  title="第一哲学沉思集"  description="" />
+    <bookNode url="BookList.aspx?BookName=老子心解"  title="老子心解"  description="" />
+  </categoryNode>
+</mainNode>
+
+

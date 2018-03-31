@@ -1,0 +1,11 @@
+F:\ASP.NET\MobileManager\Mobile.BLL\bin\Debug\Mobile.BLL.exe
+F:\ASP.NET\MobileManager\Mobile.BLL\bin\Debug\Mobile.BLL.pdb
+F:\ASP.NET\MobileManager\Mobile.BLL\bin\Debug\Mobile.DAL.exe
+F:\ASP.NET\MobileManager\Mobile.BLL\bin\Debug\Mobile.DAL.pdb
+F:\ASP.NET\MobileManager\Mobile.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\MobileManager\Mobile.BLL\obj\Debug\Mobile.BLL.Properties.Resources.resources
+F:\ASP.NET\MobileManager\Mobile.BLL\obj\Debug\Mobile.BLL.csproj.GenerateResource.Cache
+F:\ASP.NET\MobileManager\Mobile.BLL\obj\Debug\Mobile.BLL.exe
+F:\ASP.NET\MobileManager\Mobile.BLL\obj\Debug\Mobile.BLL.pdb
+F:\ASP.NET\MobileManager\Mobile.BLL\bin\Debug\Mobile.Model.exe
+F:\ASP.NET\MobileManager\Mobile.BLL\bin\Debug\Mobile.Model.pdb

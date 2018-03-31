@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Webheath", "F:\asp.net考核\TestC\Heathy\Webheath", "{EDC404AC-0F9C-439C-81F6-EE50E3F1EA72}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{AA2E0968-B45D-4514-AA6C-697F5D49D296}|HealthTypeItemDB.BLL.dll;{DD2C5A54-9AFA-4028-8352-2B844E44E950}|HealthTypeItemDB.DAL.dll;{7EFE9669-79C2-4818-B80E-BC2C75721E96}|HealthTypeItemDB.Medol.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Webheath"
+		Debug.AspNetCompiler.PhysicalPath = "Webheath\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Webheath\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Webheath"
+		Release.AspNetCompiler.PhysicalPath = "Webheath\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Webheath\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1755"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthTypeItemDB.Medol", "F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.Medol\HealthTypeItemDB.Medol.csproj", "{7EFE9669-79C2-4818-B80E-BC2C75721E96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthTypeItemDB.DAL", "F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.DAL\HealthTypeItemDB.DAL.csproj", "{DD2C5A54-9AFA-4028-8352-2B844E44E950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthTypeItemDB.BLL", "F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.BLL\HealthTypeItemDB.BLL.csproj", "{AA2E0968-B45D-4514-AA6C-697F5D49D296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC404AC-0F9C-439C-81F6-EE50E3F1EA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC404AC-0F9C-439C-81F6-EE50E3F1EA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC404AC-0F9C-439C-81F6-EE50E3F1EA72}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC404AC-0F9C-439C-81F6-EE50E3F1EA72}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{7EFE9669-79C2-4818-B80E-BC2C75721E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFE9669-79C2-4818-B80E-BC2C75721E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFE9669-79C2-4818-B80E-BC2C75721E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFE9669-79C2-4818-B80E-BC2C75721E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD2C5A54-9AFA-4028-8352-2B844E44E950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2C5A54-9AFA-4028-8352-2B844E44E950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2C5A54-9AFA-4028-8352-2B844E44E950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2C5A54-9AFA-4028-8352-2B844E44E950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2E0968-B45D-4514-AA6C-697F5D49D296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2E0968-B45D-4514-AA6C-697F5D49D296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2E0968-B45D-4514-AA6C-697F5D49D296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2E0968-B45D-4514-AA6C-697F5D49D296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

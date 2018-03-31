@@ -1,0 +1,14 @@
+F:\ASP.NET\Web\北极星\MyBlog.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\Web\北极星\MyBlog.DAL\bin\Debug\MyBlog.DAL.dll
+F:\ASP.NET\Web\北极星\MyBlog.DAL\bin\Debug\MyBlog.DAL.pdb
+F:\ASP.NET\Web\北极星\MyBlog.DAL\bin\Debug\MyBlog.Model.dll
+F:\ASP.NET\Web\北极星\MyBlog.DAL\bin\Debug\MyBlog.Model.pdb
+F:\ASP.NET\Web\北极星\MyBlog.DAL\obj\Debug\MyBlog.DAL.dll
+F:\ASP.NET\Web\北极星\MyBlog.DAL\obj\Debug\MyBlog.DAL.pdb
+F:\ASP.NET\WebWeb\北极星\MyBlog.DAL\bin\Debug\MyBlog.DAL.dll
+F:\ASP.NET\WebWeb\北极星\MyBlog.DAL\bin\Debug\MyBlog.DAL.pdb
+F:\ASP.NET\WebWeb\北极星\MyBlog.DAL\bin\Debug\MyBlog.Model.dll
+F:\ASP.NET\WebWeb\北极星\MyBlog.DAL\bin\Debug\MyBlog.Model.pdb
+F:\ASP.NET\WebWeb\北极星\MyBlog.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\WebWeb\北极星\MyBlog.DAL\obj\Debug\MyBlog.DAL.dll
+F:\ASP.NET\WebWeb\北极星\MyBlog.DAL\obj\Debug\MyBlog.DAL.pdb

@@ -1,0 +1,164 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        *
+        {
+    	    margin:0px;
+    	    padding:0px;
+        }
+        #wapper
+        {
+    	    height:auto;
+    	    width:900px;
+    	    margin:0px auto;
+        }
+        #header
+        {
+        	width:900px;
+        	height:80px;
+        }
+        #center
+        {
+        	width:900px;
+        	height:400px;
+        	margin-top:10px;
+        }
+        #left
+        {
+        	height:350px;
+        	width:600px;
+        	float:left;
+        	margin-left:5px;
+        	border:1px solid #9E9E9E;
+        	
+        }
+        #right
+        {
+        	height:400px;
+        	width:280px;
+        	float:left;
+        	margin-left:10px;
+        }
+        #Label1
+        {
+        	text-align:right;
+        }
+        #lblPwd
+        {
+        	text-align:right;
+        }
+        #footer
+        {
+        	width:900px;
+        	height:40px;
+        	background-color:#adb3d6;
+        	text-align:center;
+        	padding-top:15px;
+        	color:White;
+        }
+        #right1
+        {
+        	border:1px soild #9E9E9E;
+        	
+        }
+        #rightt
+        {
+        	text-align:center;
+        	border:1px solid #9E9E9E;
+        	height:180px;
+        	width:280px;
+        	padding-top:5px;
+        	
+        }
+        #Button
+        {
+        	margin-left:35px;
+        }
+        #Label4
+        {
+        	text-align:right;
+        }
+        .label
+        {
+        	text-align:left;
+        }
+        </style>
+</head>
+<body>
+<div id="wapper">
+<div id="header"><img src="top.jpg" alt="top"/>
+</div>
+    <form id="form1" runat="server">
+    <div id="center">
+    <div id="left">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+            <asp:Panel ID="Panel1" runat="server">
+            </asp:Panel>
+        
+        </asp:ContentPlaceHolder>
+        </div>
+        <div id="right">
+        
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                <p>
+                    &nbsp;</p>
+            </asp:ContentPlaceHolder>
+            <div id="right1">
+            <div id="rightt">
+                    <asp:Panel ID="Panel4" runat="server" Height="177px">
+                        <asp:Label ID="Label4" runat="server" Text="用户登录：Login" 
+    ForeColor="#9E9E9E"></asp:Label>
+                        <br />
+                        <br />
+                        <asp:Label ID="Label5" runat="server" Text="用户名：" Width="70px"></asp:Label>
+                        <asp:TextBox ID="txtName" runat="server" BorderColor="#A2A2A2"></asp:TextBox>
+                        <br />
+                        <br />
+                        <asp:Label ID="Label6" runat="server" Text="密码：" Width="70px"></asp:Label>
+                        <asp:TextBox ID="txtPwd" runat="server"  TextMode="Password"></asp:TextBox>
+                        <br />
+                        <br />
+                        <asp:ImageButton ID="IBtnEnter0" runat="server" ImageUrl="~/1111.jpg" 
+                            onclick="IBtnEnter0_Click" />
+                        <asp:ImageButton ID="IBtnSubmit0" runat="server" ImageUrl="~/222.jpg" 
+                            onclick="IBtnSubmit0_Click" />
+                        <br />
+                        <asp:Label ID="lblMessage" runat="server"></asp:Label>
+                    </asp:Panel>
+                <br />
+                  <asp:Panel ID="Panel3" runat="server" Visible="False">
+                        <asp:Label class="label" ID="lblMes" runat="server"></asp:Label>
+                        <br />
+                        <asp:Label class="label" ID="Label7" runat="server" ForeColor="#1E1E1E" Text="发表文章"></asp:Label>
+                        <br />
+                        <asp:Label class="label" ID="Label8" runat="server" ForeColor="#1E1E1E" Text="文章管理"></asp:Label>
+                        <br />
+                        <asp:Button ID="btnExit" runat="server" BackColor="#5B5B5B" ForeColor="White" 
+                            Height="24px" onclick="btnExit_Click" Text="退出" Width="71px" />
+                        <br />
+                    </asp:Panel>
+                </div>
+                  
+                <br />
+                <br />
+                    <br />
+                <br />
+                <br />
+            </div>
+        </div>
+    </div>
+    </form>
+
+<div id="footer">@2007 Beijing Aptech Beida Jade Bird Information Technology CollLtd 
+    版权所有</div>
+    </div>
+</body>
+</html>

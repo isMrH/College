@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dwr>
+	<allow>
+		<create creator="new" javascript="Person">
+			<param name="class"	value="cn.com.ambow.test.Person" />
+			<!-- <include method="add"/> -->
+			<!-- <exclude method="add"/> -->
+		</create>
+		<convert converter="bean" match="cn.com.ambow.test.Dog"/>
+
+		<!-- movie demo -->
+		<create creator="new" javascript="MovieManager">
+			<param name="class"	value="cn.com.ambow.test.MovieManager" />
+		</create>
+		<convert converter="bean" match="cn.com.ambow.movie.pojo.Movie"/>
+	</allow>
+</dwr>

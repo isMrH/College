@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1463985990437
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463985990953
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463985993843
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1463985995828
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1463985999281
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463986012234
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463986013671
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463986014875
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1463986019000
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463986022984
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463986023500
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463986025437
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1463986026500
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1463986029781
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1463986034687
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1463986045453
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1463986050640
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1463986052281
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463986069546
+error,log,,,"File not found: '/WareWeb/src/__2F_WareWeb_2F_WebContent_2F_AddWare_2E_jsp.java'",1463986069562
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1463986077875
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463986078500
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1463986082375
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1463986083937
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1463986091187

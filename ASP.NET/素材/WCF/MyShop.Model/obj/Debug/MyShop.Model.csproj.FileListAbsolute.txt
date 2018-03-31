@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\李兰兰\WCF\MyShop.Model\bin\Debug\MyShop.Model.dll
+C:\Users\Administrator\Desktop\李兰兰\WCF\MyShop.Model\bin\Debug\MyShop.Model.pdb
+C:\Users\Administrator\Desktop\李兰兰\WCF\MyShop.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\李兰兰\WCF\MyShop.Model\obj\Debug\MyShop.Model.dll
+C:\Users\Administrator\Desktop\李兰兰\WCF\MyShop.Model\obj\Debug\MyShop.Model.pdb
+F:\Net企业级\第十五章\李兰兰\WCF\MyShop.Model\bin\Debug\MyShop.Model.dll
+F:\Net企业级\第十五章\李兰兰\WCF\MyShop.Model\bin\Debug\MyShop.Model.pdb
+F:\Net企业级\第十五章\李兰兰\WCF\MyShop.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\Net企业级\第十五章\李兰兰\WCF\MyShop.Model\obj\Debug\MyShop.Model.dll
+F:\Net企业级\第十五章\李兰兰\WCF\MyShop.Model\obj\Debug\MyShop.Model.pdb
+F:\Net企业级\第十五章\40李兰兰\WCF\MyShop.Model\bin\Debug\MyShop.Model.dll
+F:\Net企业级\第十五章\40李兰兰\WCF\MyShop.Model\bin\Debug\MyShop.Model.pdb
+F:\Net企业级\第十五章\40李兰兰\WCF\MyShop.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\Net企业级\第十五章\40李兰兰\WCF\MyShop.Model\obj\Debug\MyShop.Model.dll
+F:\Net企业级\第十五章\40李兰兰\WCF\MyShop.Model\obj\Debug\MyShop.Model.pdb

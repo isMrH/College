@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.version,sysinfo,,,"1.0",1460514568953
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1460514568953
+java.vm.version,sysinfo,,,"1.6.0_02-b06",1460514568953
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460514580078
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460514580093
+closed,view,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.internal.introview",1460514580109
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460514584437
+started,bundle,org.eclipse.wst.common.project.facet.ui,1.4.0.v200906080543,"org.eclipse.wst.common.project.facet.ui",1460514620890
+started,bundle,org.eclipse.wst.web.ui,1.1.300.v200905242131,"org.eclipse.wst.web.ui",1460514620890
+started,bundle,org.eclipse.jst.servlet.ui,1.1.300.v200902191739,"org.eclipse.jst.servlet.ui",1460514620890
+started,bundle,org.eclipse.wst.server.core,1.1.101.v20090515,"org.eclipse.wst.server.core",1460514620984
+started,bundle,org.eclipse.jst.j2ee.web,1.1.300.v200904290430,"org.eclipse.jst.j2ee.web",1460514621015
+started,bundle,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui",1460514621031
+started,bundle,org.eclipse.debug.core,3.5.0.v20090526-1600,"org.eclipse.debug.core",1460514621062
+started,bundle,org.eclipse.jdt.launching,3.5.0.v20090527,"org.eclipse.jdt.launching",1460514621093
+started,bundle,org.eclipse.jst.common.frameworks,1.1.300.v200904132230,"org.eclipse.jst.common.frameworks",1460514636015
+started,bundle,org.eclipse.jst.common.project.facet.ui,1.4.0.v200906080500,"org.eclipse.jst.common.project.facet.ui",1460514636234
+started,bundle,org.eclipse.jst.server.core,1.2.0.v20090421,"org.eclipse.jst.server.core",1460514704078
+started,bundle,org.eclipse.jst.server.tomcat.core,1.1.105.v20090424,"org.eclipse.jst.server.tomcat.core",1460514704078
+started,bundle,org.eclipse.jst.server.tomcat.ui,1.1.102.v20090424,"org.eclipse.jst.server.tomcat.ui",1460514704093
+started,bundle,org.eclipse.jem.workbench,2.0.200.v200810300900,"org.eclipse.jem.workbench",1460514734890
+started,bundle,org.eclipse.jst.j2ee.ejb,1.1.300.v200904230730,"org.eclipse.jst.j2ee.ejb",1460514735515
+started,bundle,org.eclipse.jst.j2ee.jca,1.1.300.v200903120000,"org.eclipse.jst.j2ee.jca",1460514735515
+started,bundle,org.eclipse.jst.jee.ejb,1.0.200.v200810230716,"org.eclipse.jst.jee.ejb",1460514735515
+started,bundle,org.eclipse.jst.jee.web,1.0.200.v200904130912,"org.eclipse.jst.jee.web",1460514735515

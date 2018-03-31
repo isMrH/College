@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks.ui",1465982101171
+started,bundle,org.eclipse.wst.common.modulecore,1.1.300.v200904132230,"org.eclipse.wst.common.modulecore",1465982101265
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.0.v200906080535,"org.eclipse.wst.common.project.facet.core",1465982101265
+started,bundle,org.eclipse.wst.jsdt.core,1.0.200.v200905201910,"org.eclipse.wst.jsdt.core",1465982101328
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.100.v200809240707,"org.eclipse.wst.jsdt.manipulation",1465982101375
+started,bundle,org.eclipse.wst.jsdt.ui,1.0.200.v200905242047,"org.eclipse.wst.jsdt.ui",1465982101375
+started,bundle,org.eclipse.wst.jsdt.web.core,1.0.200.v200905120445,"org.eclipse.wst.jsdt.web.core",1465982101421
+started,bundle,org.eclipse.wst.server.core,1.1.101.v20090515,"org.eclipse.wst.server.core",1465982101515
+started,bundle,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui",1465982101562
+started,bundle,org.eclipse.wst.sse.core,1.1.400.v200905141750,"org.eclipse.wst.sse.core",1465982101656
+started,bundle,org.eclipse.wst.validation,1.2.102.v200905201610,"org.eclipse.wst.validation",1465982101765
+started,bundle,org.eclipse.wst.web,1.1.300.v200901261500,"org.eclipse.wst.web",1465982101812
+started,bundle,org.eclipse.wst.xml.core,1.1.400.v200904300540,"org.eclipse.wst.xml.core",1465982101875
+started,bundle,org.hibernate.eclipse,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse",1465982101875
+started,bundle,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.console",1465982101937
+started,bundle,org.hibernate.eclipse.jdt.ui,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.jdt.ui",1465982101937
+started,bundle,org.tigris.subversion.subclipse.core,1.0.6,"org.tigris.subversion.subclipse.core",1465982101984
+os,sysinfo,,,"win32",1465982101984
+arch,sysinfo,,,"x86",1465982101984
+ws,sysinfo,,,"win32",1465982101984
+locale,sysinfo,,,"zh_CN",1465982101984
+started,bundle,org.eclipse.ui.forms,3.4.0.v20090526,"org.eclipse.ui.forms",1465982102234
+processors,sysinfo,,,"2",1465982102281
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1465982102281
+java.runtime.version,sysinfo,,,"1.6.0_02-b06",1465982102281

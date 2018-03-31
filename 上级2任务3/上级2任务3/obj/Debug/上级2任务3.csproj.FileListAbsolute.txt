@@ -1,0 +1,5 @@
+F:\上级2任务3\上级2任务3\bin\Debug\上级2任务3.exe
+F:\上级2任务3\上级2任务3\bin\Debug\上级2任务3.pdb
+F:\上级2任务3\上级2任务3\obj\Debug\ResolveAssemblyReference.cache
+F:\上级2任务3\上级2任务3\obj\Debug\上级2任务3.exe
+F:\上级2任务3\上级2任务3\obj\Debug\上级2任务3.pdb

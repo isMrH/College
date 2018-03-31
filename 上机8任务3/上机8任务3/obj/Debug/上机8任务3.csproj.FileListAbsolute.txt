@@ -1,0 +1,8 @@
+F:\上机8任务3\上机8任务3\bin\Debug\上机8任务3.exe
+F:\上机8任务3\上机8任务3\bin\Debug\上机8任务3.pdb
+F:\上机8任务3\上机8任务3\obj\Debug\ResolveAssemblyReference.cache
+F:\上机8任务3\上机8任务3\obj\Debug\上机8任务3.ExplorerForm.resources
+F:\上机8任务3\上机8任务3\obj\Debug\上机8任务3.Properties.Resources.resources
+F:\上机8任务3\上机8任务3\obj\Debug\上机8任务3.csproj.GenerateResource.Cache
+F:\上机8任务3\上机8任务3\obj\Debug\上机8任务3.exe
+F:\上机8任务3\上机8任务3\obj\Debug\上机8任务3.pdb

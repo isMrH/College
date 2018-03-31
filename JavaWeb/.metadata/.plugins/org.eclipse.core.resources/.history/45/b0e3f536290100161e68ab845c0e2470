@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+*{
+	margin:0px auto;
+	padding:0px;
+}
+#Wapper{
+	margin-top:5px;
+	width:1000px;
+	height:auto;
+	border:1px solid #CCC;
+}
+#Title{
+	padding-left:10px;
+	font-size:16px;
+	font-weight:bold;
+	height:30px;
+	line-height:30px;
+	border-bottom:1px solid #CCC;
+}
+#Main{
+	margin-top:15px;
+	width:1000px;
+
+}
+.lbl{
+	width:250px;
+	font-size:12px;
+	height:30px;
+	line-height:30px;
+	text-align:right;
+}
+
+
+
+</style>
+</head>
+<body>
+
+<div id="Wapper">
+	<div id="Title">用户注册</div>
+	<div id="Main">
+		<div class="lbl">用户名 <input type="text"></input></div>
+		<div class="lbl">密码 <input type="text"></input></div>
+		<div class="lbl">在输一遍密码 <input type="text"></input></div>
+  		<div class="lbl">身份证号码 <input type="text"></input></div>
+    	<div class="lbl">电话 <input type="text"></input></div>
+        <div class="lbl">地址 <input type="text"></input></div>
+      	<div class="lbl">邮编 <input type="text"></input></div>              
+
+    <div class="lbl"><input type="button" value="提交" /></div>
+    </div>
+   
+    <div id="Bottom"> <img alt="Title" src="WebContent/images/title_pic.jpg"></div>
+</div>
+</body>
+</html>

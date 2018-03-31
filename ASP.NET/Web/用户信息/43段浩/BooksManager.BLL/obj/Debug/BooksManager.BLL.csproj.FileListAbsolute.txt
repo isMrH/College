@@ -1,0 +1,29 @@
+F:\文件接收柜\Asp.net\第二章\上机一\BooksManager.BLL\obj\Debug\ResolveAssemblyReference.cache
+K:\上机一\BooksManager.BLL\obj\Debug\ResolveAssemblyReference.cache
+H:\上机一\BooksManager.BLL\obj\Debug\ResolveAssemblyReference.cache
+H:\上机一\BooksManager.BLL\bin\Debug\BooksManager.BLL.dll
+H:\上机一\BooksManager.BLL\bin\Debug\BooksManager.BLL.pdb
+H:\上机一\BooksManager.BLL\bin\Debug\BooksManager.DAL.dll
+H:\上机一\BooksManager.BLL\bin\Debug\BooksManager.Model.dll
+H:\上机一\BooksManager.BLL\bin\Debug\BooksManager.Model.pdb
+H:\上机一\BooksManager.BLL\bin\Debug\BooksManager.DAL.pdb
+H:\上机一\BooksManager.BLL\obj\Debug\BooksManager.BLL.dll
+H:\上机一\BooksManager.BLL\obj\Debug\BooksManager.BLL.pdb
+F:\上机一\BooksManager.BLL\bin\Debug\BooksManager.BLL.dll
+F:\上机一\BooksManager.BLL\bin\Debug\BooksManager.BLL.pdb
+F:\上机一\BooksManager.BLL\bin\Debug\BooksManager.DAL.dll
+F:\上机一\BooksManager.BLL\bin\Debug\BooksManager.Model.dll
+F:\上机一\BooksManager.BLL\bin\Debug\BooksManager.Model.pdb
+F:\上机一\BooksManager.BLL\bin\Debug\BooksManager.DAL.pdb
+F:\上机一\BooksManager.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\上机一\BooksManager.BLL\obj\Debug\BooksManager.BLL.dll
+F:\上机一\BooksManager.BLL\obj\Debug\BooksManager.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\43段浩\BooksManager.BLL\bin\Debug\BooksManager.BLL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\43段浩\BooksManager.BLL\bin\Debug\BooksManager.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\43段浩\BooksManager.BLL\bin\Debug\BooksManager.DAL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\43段浩\BooksManager.BLL\bin\Debug\BooksManager.Model.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\43段浩\BooksManager.BLL\bin\Debug\BooksManager.Model.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\43段浩\BooksManager.BLL\bin\Debug\BooksManager.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\43段浩\BooksManager.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\43段浩\BooksManager.BLL\obj\Debug\BooksManager.BLL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\43段浩\BooksManager.BLL\obj\Debug\BooksManager.BLL.pdb

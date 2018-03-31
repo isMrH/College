@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="css/ui-lightness/jquery-ui-1.8.18.custom.css" rel="stylesheet" type="text/css" />
+
+    <script src="js/jquery-1.7.1.min.js" type="text/javascript"></script>
+
+    <script src="js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function() {
+            var execute = function() {
+                var answer;
+                $("input").each(function() {
+                    (this.checked == true) ? answer = $(this).val() : null;
+                });
+                $("<p>").text("你选择了：" + answer).appendTo($("body"));
+                $("#myDialog").dialog("close");
+            }
+            var cancel = function() {
+                $("#myDialog").dialog("close");
+            }
+
+            var dialogOpts = {
+                buttons: {
+                    "确定": execute,
+                    "取消": cancel
+                }
+            };
+
+            $("#myDialog").dialog(dialogOpts);
+        })
+    </script>
+</head>
+<body>
+<p>请回答问题:</p>
+<div id="myDialog" title="最好的歌星">
+<p>谁是最好的歌星？</p>
+<label for="yes">许嵩</label><input type="radio" id="yes" value="许嵩" name="question" checked="checked"/><br />
+<label for="no">薛之谦</label><input type="radio" id="no" value="薛之谦" name="question" />
+</div>
+</body>
+</html>

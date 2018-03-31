@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1461133267890
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1461133268937
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133270500
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133283437
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133285859
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133289375
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.properties",1461133289406
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133294593
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133301406
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133305218
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133306468
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461133309500
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133324718
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133326843
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133327515
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133327531
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133327625
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133344359
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133350062
+started,bundle,org.eclipse.ant.ui,3.4.0.v20090520,"org.eclipse.ant.ui",1461133352609
+error,log,,,"Could not acquire children from extension: org.eclipse.jst.jee.ui.web",1461133353500
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133353546
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.rename",1461133353546
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1461133354093
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461133356281

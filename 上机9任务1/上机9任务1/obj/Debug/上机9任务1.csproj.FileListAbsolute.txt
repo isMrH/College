@@ -1,0 +1,8 @@
+F:\上机9任务1\上机9任务1\bin\Debug\上机9任务1.exe
+F:\上机9任务1\上机9任务1\bin\Debug\上机9任务1.pdb
+F:\上机9任务1\上机9任务1\obj\Debug\ResolveAssemblyReference.cache
+F:\上机9任务1\上机9任务1\obj\Debug\上机9任务1.frmBookInfo.resources
+F:\上机9任务1\上机9任务1\obj\Debug\上机9任务1.Properties.Resources.resources
+F:\上机9任务1\上机9任务1\obj\Debug\上机9任务1.csproj.GenerateResource.Cache
+F:\上机9任务1\上机9任务1\obj\Debug\上机9任务1.exe
+F:\上机9任务1\上机9任务1\obj\Debug\上机9任务1.pdb

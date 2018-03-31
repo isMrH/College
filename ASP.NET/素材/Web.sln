@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Web", "WCF\Web", "{3AEDFD48-F27F-4EA2-B420-5ECC74ED62D4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{13E038A5-5019-4D5E-BB5E-FA087B156B80}|MyShop.BLL.dll;{2391D07E-1D2A-442D-B4E5-9D0ABB85CBE4}|MyShop.DAL.dll;{6908C655-9B74-499A-9323-B09B5E68D838}|MyShop.Model.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Web"
+		Debug.AspNetCompiler.PhysicalPath = "WCF\Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Web"
+		Release.AspNetCompiler.PhysicalPath = "WCF\Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "34918"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.Model", "WCF\MyShop.Model\MyShop.Model.csproj", "{6908C655-9B74-499A-9323-B09B5E68D838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.DAL", "WCF\MyShop.DAL\MyShop.DAL.csproj", "{2391D07E-1D2A-442D-B4E5-9D0ABB85CBE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.BLL", "WCF\MyShop.BLL\MyShop.BLL.csproj", "{13E038A5-5019-4D5E-BB5E-FA087B156B80}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Shop", "Shop", "{EC6341EA-569F-46A4-8508-D56BEA16B082}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{13E038A5-5019-4D5E-BB5E-FA087B156B80}|MyShop.BLL.dll;{2391D07E-1D2A-442D-B4E5-9D0ABB85CBE4}|MyShop.DAL.dll;{6908C655-9B74-499A-9323-B09B5E68D838}|MyShop.Model.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Shop"
+		Debug.AspNetCompiler.PhysicalPath = "Shop\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Shop\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Shop"
+		Release.AspNetCompiler.PhysicalPath = "Shop\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Shop\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "35534"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{3AEDFD48-F27F-4EA2-B420-5ECC74ED62D4} = {3AEDFD48-F27F-4EA2-B420-5ECC74ED62D4}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AEDFD48-F27F-4EA2-B420-5ECC74ED62D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AEDFD48-F27F-4EA2-B420-5ECC74ED62D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AEDFD48-F27F-4EA2-B420-5ECC74ED62D4}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AEDFD48-F27F-4EA2-B420-5ECC74ED62D4}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{6908C655-9B74-499A-9323-B09B5E68D838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6908C655-9B74-499A-9323-B09B5E68D838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6908C655-9B74-499A-9323-B09B5E68D838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6908C655-9B74-499A-9323-B09B5E68D838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2391D07E-1D2A-442D-B4E5-9D0ABB85CBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2391D07E-1D2A-442D-B4E5-9D0ABB85CBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2391D07E-1D2A-442D-B4E5-9D0ABB85CBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2391D07E-1D2A-442D-B4E5-9D0ABB85CBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E038A5-5019-4D5E-BB5E-FA087B156B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E038A5-5019-4D5E-BB5E-FA087B156B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E038A5-5019-4D5E-BB5E-FA087B156B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E038A5-5019-4D5E-BB5E-FA087B156B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6341EA-569F-46A4-8508-D56BEA16B082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6341EA-569F-46A4-8508-D56BEA16B082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6341EA-569F-46A4-8508-D56BEA16B082}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6341EA-569F-46A4-8508-D56BEA16B082}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

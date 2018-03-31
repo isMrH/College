@@ -1,0 +1,5 @@
+F:\综合实例\综合实例\bin\Debug\综合实例.exe
+F:\综合实例\综合实例\bin\Debug\综合实例.pdb
+F:\综合实例\综合实例\obj\Debug\ResolveAssemblyReference.cache
+F:\综合实例\综合实例\obj\Debug\综合实例.exe
+F:\综合实例\综合实例\obj\Debug\综合实例.pdb

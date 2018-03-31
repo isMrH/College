@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MyBlog">
+</Property><Property Name="解决方案文件" Value="E:\实训\第2周\Chapter07\项目训练1\源代码\代码参考\MyBlog\MyBlog.sln">
+</Property><Property Name="Date" Value="2010年9月30日">
+</Property><Property Name="Time" Value="15:03">
+</Property></Properties><Event ErrorLevel="0" Project="MyBlogModels" Source="MyblogModels\MyBlogModels.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MyBlogModels" Source="MyblogModels\MyBlogModels.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyBlogDAL" Source="MyBlogDAL\MyBlogDAL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MyBlogDAL" Source="MyBlogDAL\MyBlogDAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyBlogBLL" Source="MyBlogBLL\MyBlogBLL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MyBlogBLL" Source="MyBlogBLL\MyBlogBLL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MyBlog.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="MyBlog.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyBlogModels" Source="MyblogModels\MyBlogModels.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="MyBlogDAL" Source="MyBlogDAL\MyBlogDAL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="MyBlogBLL" Source="MyBlogBLL\MyBlogBLL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

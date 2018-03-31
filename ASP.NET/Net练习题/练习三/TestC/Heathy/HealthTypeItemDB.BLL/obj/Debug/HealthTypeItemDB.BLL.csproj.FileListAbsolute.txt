@@ -1,0 +1,9 @@
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.BLL\bin\Debug\HealthTypeItemDB.BLL.dll
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.BLL\bin\Debug\HealthTypeItemDB.BLL.pdb
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.BLL\bin\Debug\HealthTypeItemDB.DAL.dll
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.BLL\bin\Debug\HealthTypeItemDB.Medol.dll
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.BLL\bin\Debug\HealthTypeItemDB.DAL.pdb
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.BLL\bin\Debug\HealthTypeItemDB.Medol.pdb
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.BLL\obj\Debug\HealthTypeItemDB.BLL.dll
+F:\asp.net考核\TestC\Heathy\HealthTypeItemDB.BLL\obj\Debug\HealthTypeItemDB.BLL.pdb

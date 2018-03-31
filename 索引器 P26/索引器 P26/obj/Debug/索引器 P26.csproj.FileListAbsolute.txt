@@ -1,0 +1,5 @@
+F:\索引器 P26\索引器 P26\bin\Debug\索引器 P26.exe
+F:\索引器 P26\索引器 P26\bin\Debug\索引器 P26.pdb
+F:\索引器 P26\索引器 P26\obj\Debug\ResolveAssemblyReference.cache
+F:\索引器 P26\索引器 P26\obj\Debug\索引器 P26.exe
+F:\索引器 P26\索引器 P26\obj\Debug\索引器 P26.pdb

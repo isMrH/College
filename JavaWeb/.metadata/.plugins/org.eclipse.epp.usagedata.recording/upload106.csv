@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1460946261734
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460946262625
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946265343
+error,log,,,"Could not publish server configuration for Tomcat v6.0 Server at localhost.",1460946269890
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946269890
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946269937
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946276718
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460946277781
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946280671
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1460946283046
+error,log,,,"Could not acquire children from extension: org.eclipse.jst.jee.ui.web",1460946283078
+error,log,,,"Internal Error",1460946283109
+error,log,,,"Problems encountered while deleting resources.",1460946283109
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946285296
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1460946285312
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1460946285312
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946287921
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946288187
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1460946288187
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1460946288187
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946289187
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946289812
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946314453
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1460946315156
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946318343

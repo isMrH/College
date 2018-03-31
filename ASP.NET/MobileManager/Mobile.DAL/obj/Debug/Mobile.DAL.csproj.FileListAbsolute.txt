@@ -1,0 +1,9 @@
+F:\ASP.NET\MobileManager\Mobile.DAL\bin\Debug\Mobile.DAL.exe
+F:\ASP.NET\MobileManager\Mobile.DAL\bin\Debug\Mobile.DAL.pdb
+F:\ASP.NET\MobileManager\Mobile.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\MobileManager\Mobile.DAL\obj\Debug\Mobile.DAL.Properties.Resources.resources
+F:\ASP.NET\MobileManager\Mobile.DAL\obj\Debug\Mobile.DAL.csproj.GenerateResource.Cache
+F:\ASP.NET\MobileManager\Mobile.DAL\obj\Debug\Mobile.DAL.exe
+F:\ASP.NET\MobileManager\Mobile.DAL\obj\Debug\Mobile.DAL.pdb
+F:\ASP.NET\MobileManager\Mobile.DAL\bin\Debug\Mobile.Model.exe
+F:\ASP.NET\MobileManager\Mobile.DAL\bin\Debug\Mobile.Model.pdb

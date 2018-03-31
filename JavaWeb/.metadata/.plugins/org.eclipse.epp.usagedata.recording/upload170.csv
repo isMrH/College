@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1461118178734
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1461118183453
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461118202156
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1461118204015
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461118220140
+opened,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461118220578
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461118220640
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1461118221765
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461118223078
+closed,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1461118223078
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461118226468
+closed,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461118226468
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461118227453
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461118229265
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461118229406
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461118244328
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461118244937
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461118257125
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461118259328
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461118294828
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461118294843
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461118294953
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461118295546
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461118296906
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461118296906

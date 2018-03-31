@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1462762437109
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1462762442484
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462762446281
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.findReplace",1462762446296
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462762449296
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1462762449968
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1462762454000
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1462762485640
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1462762487375
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1462762495671
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1462762496234
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1462762498984
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1462762504375
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1462762508593
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1462762509062
+error,log,,,"Error starting server Tomcat v6.0 Server at localhost",1462762510218
+error,log,,,"Could not launch in profiling mode because no profilers are configured.",1462762510218
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462762510265
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462762516859
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462762517906
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462762518015
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1462762523515
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462762529203
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462762530234
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.run",1462762532250

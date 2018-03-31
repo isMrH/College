@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1462343797812
+java.specification.version,sysinfo,,,"1.6",1462343797812
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1462343797812
+java.version,sysinfo,,,"1.6.0_02",1462343797812
+java.vm.info,sysinfo,,,"mixed mode",1462343797812
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1462343797812
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1462343797812
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1462343797812
+java.vm.specification.version,sysinfo,,,"1.0",1462343797812
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1462343797812
+java.vm.version,sysinfo,,,"1.6.0_02-b06",1462343797812
+started,bundle,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console",1462343798171
+started,bundle,org.eclipse.mylyn.tasks.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.tasks.ui",1462343798406
+started,bundle,org.eclipse.wst.sse.ui,1.1.100.v200905141750,"org.eclipse.wst.sse.ui",1462343798437
+started,bundle,org.eclipse.mylyn.team.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.team.ui",1462343798437
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1462343798453
+started,bundle,org.tigris.subversion.subclipse.ui,1.0.5,"org.tigris.subversion.subclipse.ui",1462343798546
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1462343798593
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1462343798593
+started,bundle,org.eclipse.wst.xml.ui,1.1.0.v200905242047,"org.eclipse.wst.xml.ui",1462343798625
+started,bundle,org.eclipse.wst.html.ui,1.0.400.v200904292008,"org.eclipse.wst.html.ui",1462343798625
+started,bundle,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.ui",1462343798640
+started,bundle,org.eclipse.epp.usagedata.ui,1.1.0.R200906100410,"org.eclipse.epp.usagedata.ui",1462343798968
+started,bundle,org.eclipse.jsch.core,1.1.100.I20090430-0408,"org.eclipse.jsch.core",1462343799265
+started,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1462343799296

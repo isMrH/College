@@ -1,0 +1,9 @@
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\bin\Debug\WinFormWebServiceTest.exe.config
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\obj\Debug\WinFormWebServiceTest.exe
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\obj\Debug\WinFormWebServiceTest.pdb
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\bin\Debug\WinFormWebServiceTest.exe
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\bin\Debug\WinFormWebServiceTest.pdb
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\obj\Debug\WinFormWebServiceTest.Form1.resources
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\obj\Debug\WinFormWebServiceTest.Properties.Resources.resources
+E:\ACCP5.0\课本\Ajax\Chapter1\上机部分\源代码\阶段4\WinFormWebServiceTest\WinFormWebServiceTest\obj\Debug\WinFormWebServiceTest.csproj.GenerateResource.Cache

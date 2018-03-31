@@ -1,0 +1,6 @@
+解压版tomcat安装演示
+1、从apache官网http://www.apache.org/下载tomcat6压缩版。
+2、解压tomcat6压缩版。
+3、运行bin目录下的startup.bat启动tomcat6服务。
+4、打开IE浏览器录入http://localhost:8080/测试。
+5、页面出现“小猫”页面说明tomcat6服务启动成功。

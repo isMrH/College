@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="themes/base/jquery.ui.all.css" rel="stylesheet" type="text/css" />
+
+    <script src="js/jquery-1.7.1.min.js" type="text/javascript"></script>
+
+    <script src="ui/jquery.ui.core.js" type="text/javascript"></script>
+    <script src="ui/jquery.ui.widget.js" type="text/javascript"></script>
+
+    <script src="ui/jquery.ui.datepicker.js" type="text/javascript"></script>
+
+    <script src="ui/i18n/jquery.ui.datepicker-zh-CN.js" type="text/javascript"></script>
+
+    <link href="css/demos.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript">
+        $(function() {
+            var options = {
+                changeMonth: true
+            };
+            $("#datepicker").datepicker(options);
+        })
+    </script>
+</head>
+<body>
+<p>Date:<input type="text" id="datepicker"/>&nbsp;</p>
+</body>
+</html>

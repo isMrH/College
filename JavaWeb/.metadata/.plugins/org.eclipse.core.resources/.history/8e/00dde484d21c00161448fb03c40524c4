@@ -1,0 +1,101 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>春晚节目评选</title>
+<script type="text/javascript">
+	var xmlHttpRequest=null;
+	function createXmlHttpRequest(){
+		try{
+			return new ActiveXObject("Msxml2.XMLHTTP");
+		}catch(e){
+			try{
+				return new ActiveXObject("Microsoft.XMLHTTP");
+			}catch(e){
+				try{return new XMLHttpRequest();
+				}catch(e){}
+			}
+		}
+	}
+	function getOptions(){
+		xmlHttpRequest = createXmlHttpRequest();
+		xmlHttpRequest.onreadystatechange=optionsResult;
+		xmlHttpRequest.open("GET","GetOptionServlet",true);
+		xmlHttpRequest.send(null);
+	}
+	function optionsResult(){
+		if(xmlHttpRequest.readyState==4){
+			if(xmlHttpRequest.status==200){
+				var xmldoc=xmlHttpRequest.responseXML;
+				if(xmldoc){
+					var options=xmldoc.getElementsByTagName("option");
+					if(options.length>0){
+						var optionsHtml="";
+						for(i=0;i<options.length;i++){
+							var val=options[i].getAttribute("val");
+							var txt=options[i].text;
+							optionsHtml+="<input type='radio' name='option' value'"+val+"' />"+txt+"<br>";
+						}
+						document.getElementById("options").innerHTML=optionsHtml;
+					}
+				}
+			}
+			else{
+				alert("请求发送异常，异常编号："+xmlHttpRequest,status);
+			}
+		}
+	}
+	window.onload=getOptions();
+	function getResult(){
+		xmlHttpRequest = createXmlHttpRequest();
+
+		xmlHttpRequest.onreadystatechange=showResult;
+		xmlHttpRequest.open("GET","GetVoteResultServlet",true);
+		xmlHttpRequest.send(null);
+	}
+	function showResult(){
+		if(xmlHttpRequest.readyState==4){
+			if(xmlHttpRequest.status==200){
+				var inhtml=xmlHttpRequest.responseText;
+				document.getElementById("result").innerHTML=inhtml;
+			}
+			else{
+				alert("请求发送异常，异常编号："+xmlHttpRequest.status);
+			}
+		}
+	}
+	function init(){
+		setInterval("getRequest()",5000);
+	}
+</script>
+</head>
+<body onLoad="getResult();init();">
+<form id="form1" name="form1" method="post" action="VoteServlet">
+<table width="390" border="1" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="390" height="30" align="center">我喜爱的春晚节目在线投票评选</td>
+	</tr>
+	<tr>
+		<td height="30">发起人：CCTV.com</td>
+	</tr>
+	<tr>
+		<td height="30">详细内容：请您投下宝贵的一票吧！</td>
+	</tr>
+	<tr>
+		<td height="30">节目列表：</td>
+	</tr>
+	<tr>
+		<td>
+		<div id="options" style="width:100%;height:100%"></div>
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><input type="submit" value="投票" /></td>
+	</tr>
+</table>
+</form>
+
+</body>
+</html>

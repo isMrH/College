@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "北极星同学录", "F:\ASP.NET\北极星同学录", "{774E367B-CBE7-48A5-9C17-5A60219B94DD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/北极星同学录"
+		Debug.AspNetCompiler.PhysicalPath = "..\北极星同学录\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\北极星同学录\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/北极星同学录"
+		Release.AspNetCompiler.PhysicalPath = "..\北极星同学录\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\北极星同学录\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3593"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{774E367B-CBE7-48A5-9C17-5A60219B94DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774E367B-CBE7-48A5-9C17-5A60219B94DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

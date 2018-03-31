@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1460942410921
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1460942410921
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1460942410921
+java.vm.specification.version,sysinfo,,,"1.0",1460942410921
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1460942410921
+java.vm.version,sysinfo,,,"1.6.0_02-b06",1460942410921
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1460942410937
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1460942410953
+started,bundle,org.eclipse.mylyn.monitor.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.monitor.ui",1460942411312
+started,bundle,org.eclipse.team.cvs.ui,3.3.200.I20090521-1750,"org.eclipse.team.cvs.ui",1460942411343
+started,bundle,org.hibernate.eclipse.jdt.ui,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.jdt.ui",1460942411390
+started,bundle,org.hibernate.eclipse,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse",1460942411484
+started,bundle,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.console",1460942411546
+started,bundle,org.eclipse.jdt.apt.core,3.3.200.v20090528-1135,"org.eclipse.jdt.apt.core",1460942411562
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.200.v20090526-2130,"org.eclipse.jdt.apt.pluggable.core",1460942411578
+started,bundle,org.eclipse.wst.dtd.core,1.1.300.v200904181727,"org.eclipse.wst.dtd.core",1460942412296
+started,bundle,org.eclipse.wst.sse.ui,1.1.100.v200905141750,"org.eclipse.wst.sse.ui",1460942412296
+started,bundle,org.eclipse.wst.html.ui,1.0.400.v200904292008,"org.eclipse.wst.html.ui",1460942412296
+started,bundle,org.eclipse.jst.jsp.core,1.2.202.v200905081451,"org.eclipse.jst.jsp.core",1460942412343
+started,bundle,org.eclipse.wst.wsdl.validation,1.1.401.v200902271605,"org.eclipse.wst.wsdl.validation",1460942412406
+started,bundle,org.eclipse.wst.xsd.core,1.1.401.v200903020335,"org.eclipse.wst.xsd.core",1460942412421
+started,bundle,org.eclipse.wst.xsl.core,1.0.0.v200905071815,"org.eclipse.wst.xsl.core",1460942412421
+started,bundle,org.eclipse.jst.j2ee.ejb,1.1.300.v200904230730,"org.eclipse.jst.j2ee.ejb",1460942420625
+started,bundle,org.eclipse.jst.j2ee.jca,1.1.300.v200903120000,"org.eclipse.jst.j2ee.jca",1460942420625
+started,bundle,org.eclipse.jst.jee.ejb,1.0.200.v200810230716,"org.eclipse.jst.jee.ejb",1460942420625

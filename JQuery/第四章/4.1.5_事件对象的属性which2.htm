@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="../jquery-1.4.1-vsdoc.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function() {
+            $("input").keyup(function(e) {
+                alert(e.which);
+            })
+           
+        })
+        
+    </script>
+</head>
+<body>
+<form action="4.1.1加载DOM.htm">
+<div id="content">
+用户名：<input type="text" id="username" />
+</div>
+<input type="submit" id="sub" value="提交" />
+</form>
+<div id="msg"></div>
+</body>
+</html>

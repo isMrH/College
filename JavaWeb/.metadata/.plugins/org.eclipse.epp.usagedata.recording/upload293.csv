@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566559640
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566563515
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566564890
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566574343
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1461566574343
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461566588562
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1461566590937
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461566591828
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461566592875
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461566595500
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461566601875
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461566602625
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461566604000
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1461566604281
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1461566604359
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566614484
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566626000
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461566628281
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566628843
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566630046
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1461566630625
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461566642062
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566664421
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461566681781
+error,log,,,"Unhandled event loop exception during blocked modal context.",1461566685046

@@ -1,0 +1,7 @@
+package cn.com.systop.JavaBean;
+
+public class WareBean {
+	String wareName;
+	int wareSort;
+	int wareAmount;
+}

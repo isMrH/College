@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "酒店管理系统项目", "F:\ASP.NET\WebWeb\酒店管理系统BS\酒店管理系统项目", "{B41FBCFD-A18C-4FA7-9798-1F254ACC142A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/酒店管理系统项目"
+		Debug.AspNetCompiler.PhysicalPath = "酒店管理系统项目\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\酒店管理系统项目\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/酒店管理系统项目"
+		Release.AspNetCompiler.PhysicalPath = "酒店管理系统项目\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\酒店管理系统项目\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2095"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManager.DAL", "RoomType.DAL\HotelManager.DAL.csproj", "{C33C8443-191F-4675-8AEA-31AEF848BCB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManager.Model", "RoomType.Model\HotelManager.Model.csproj", "{83BAE385-A6D8-427E-B888-190D8D631599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManager.BLL", "RoomType.BLL\HotelManager.BLL.csproj", "{561D7374-68A7-4B6F-B855-C04D1AD1BA54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41FBCFD-A18C-4FA7-9798-1F254ACC142A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41FBCFD-A18C-4FA7-9798-1F254ACC142A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41FBCFD-A18C-4FA7-9798-1F254ACC142A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41FBCFD-A18C-4FA7-9798-1F254ACC142A}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{C33C8443-191F-4675-8AEA-31AEF848BCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33C8443-191F-4675-8AEA-31AEF848BCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33C8443-191F-4675-8AEA-31AEF848BCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33C8443-191F-4675-8AEA-31AEF848BCB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83BAE385-A6D8-427E-B888-190D8D631599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83BAE385-A6D8-427E-B888-190D8D631599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83BAE385-A6D8-427E-B888-190D8D631599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83BAE385-A6D8-427E-B888-190D8D631599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561D7374-68A7-4B6F-B855-C04D1AD1BA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561D7374-68A7-4B6F-B855-C04D1AD1BA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561D7374-68A7-4B6F-B855-C04D1AD1BA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561D7374-68A7-4B6F-B855-C04D1AD1BA54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

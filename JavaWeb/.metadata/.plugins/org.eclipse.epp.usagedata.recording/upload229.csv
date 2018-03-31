@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+closed,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461550651828
+opened,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461550651968
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461550652093
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1461550653625
+closed,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461550653625
+opened,view,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.views.AllMarkersView",1461550655015
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461550661562
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1461550661562
+started,bundle,org.eclipse.wst.xsl.debug.ui,1.0.0.v200904240436,"org.eclipse.wst.xsl.debug.ui",1461550784687
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461550970859
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461551278140
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461551306359
+started,bundle,org.eclipse.wst.common.project.facet.ui,1.4.0.v200906080543,"org.eclipse.wst.common.project.facet.ui",1461551310328
+started,bundle,org.eclipse.wst.web.ui,1.1.300.v200905242131,"org.eclipse.wst.web.ui",1461551310328
+started,bundle,org.eclipse.jst.common.project.facet.ui,1.4.0.v200906080500,"org.eclipse.jst.common.project.facet.ui",1461551310546
+started,bundle,org.eclipse.jst.jee.ejb,1.0.200.v200810230716,"org.eclipse.jst.jee.ejb",1461551320875
+started,bundle,org.eclipse.jst.jee.web,1.0.200.v200904130912,"org.eclipse.jst.jee.web",1461551320875
+started,bundle,org.eclipse.xsd,2.5.0.v200906151043,"org.eclipse.xsd",1461551321015
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461551322203
+started,bundle,org.eclipse.wst.internet.cache,1.0.301.v200805140020,"org.eclipse.wst.internet.cache",1461551322578
+started,bundle,org.eclipse.pde.core,3.5.0.v20090602,"org.eclipse.pde.core",1461551322968
+error,log,,,"Unhandled event loop exception",1461551336046
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.103.v200905151848,"org.eclipse.wst.ws.service.policy",1461551351750
+started,bundle,org.eclipse.wst.command.env,1.0.408.v200903110045,"org.eclipse.wst.command.env",1461551351828
+started,bundle,org.eclipse.wst.ws,1.1.103.v200903111822,"org.eclipse.wst.ws",1461551351828

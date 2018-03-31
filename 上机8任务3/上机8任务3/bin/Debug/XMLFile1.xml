@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<explorer>
+  <subarea name="C:">
+    <directory name="WINDOWS"></directory>
+    <directory name="Downloads"></directory>
+    <directory name="Documents and Settings"></directory>
+    <directory name="Program Files"></directory>
+    <file name="Game.txt"></file>
+  </subarea>
+  <subarea name="D:">
+    <directory name="Program Files"></directory>
+    <directory name="C#高级编程"></directory>
+    <file name="ASP.NET3.5开发大全.rar"></file>
+    <file name="技术规集萃.txt"></file>
+  </subarea>
+  <subarea name="E:">
+    <directory name="donet tool"></directory>
+    <directory name="资料"></directory>
+    <file name="《格力空调产品使用手册》V1.0.pdf"></file>
+  </subarea>
+  <subarea name="F:">
+    <directory name="drivers"></directory>
+    <directory name="小说"></directory>
+    <file name="魔塔.swf"></file>
+    <file name="GhostXP.rar"></file>
+  </subarea>
+</explorer>

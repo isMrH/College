@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "JSONTest", "..\JSONTest", "{0E843D3E-8BB2-46C1-8099-66ED1549F08F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/JSONTest"
+		Debug.AspNetCompiler.PhysicalPath = "..\JSONTest\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\JSONTest\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/JSONTest"
+		Release.AspNetCompiler.PhysicalPath = "..\JSONTest\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\JSONTest\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "5766"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E843D3E-8BB2-46C1-8099-66ED1549F08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E843D3E-8BB2-46C1-8099-66ED1549F08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

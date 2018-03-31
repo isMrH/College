@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>加载HTML</title>
+
+    <script src="../../Script/jquery-1.4.1.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        function getData() {
+            //$("#listDiv").load("html.ashx", $("form").serialize());
+            
+            //如果没有数据参数传递,则彩GET方式传递参数;反之则自动转为POST方式
+            $("#listDiv").load("html.ashx", { area: $("#area").val() });
+            setTimeout("getData()", 1000);
+        }
+
+        $(function() {
+            getData();
+        });
+    </script>
+
+</head>
+<body>
+<div id="listDiv">
+    显示时间</div>
+<form name="form1" action ="">
+<input type="text" id="area" name="area" value="北京" />
+</form>
+</body>
+</html>

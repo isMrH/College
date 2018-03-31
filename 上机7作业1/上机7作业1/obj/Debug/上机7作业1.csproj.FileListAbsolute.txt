@@ -1,0 +1,5 @@
+F:\上机7作业1\上机7作业1\obj\Debug\ResolveAssemblyReference.cache
+F:\上机7作业1\上机7作业1\bin\Debug\上机7作业1.exe
+F:\上机7作业1\上机7作业1\bin\Debug\上机7作业1.pdb
+F:\上机7作业1\上机7作业1\obj\Debug\上机7作业1.exe
+F:\上机7作业1\上机7作业1\obj\Debug\上机7作业1.pdb

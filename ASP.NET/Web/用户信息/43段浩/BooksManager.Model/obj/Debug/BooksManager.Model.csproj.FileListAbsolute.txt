@@ -1,0 +1,20 @@
+F:\文件接收柜\Asp.net\第二章\上机一\BooksManager.Model\bin\Debug\BooksManager.Model.dll
+F:\文件接收柜\Asp.net\第二章\上机一\BooksManager.Model\bin\Debug\BooksManager.Model.pdb
+F:\文件接收柜\Asp.net\第二章\上机一\BooksManager.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\文件接收柜\Asp.net\第二章\上机一\BooksManager.Model\obj\Debug\BooksManager.Model.dll
+F:\文件接收柜\Asp.net\第二章\上机一\BooksManager.Model\obj\Debug\BooksManager.Model.pdb
+K:\上机一\BooksManager.Model\bin\Debug\BooksManager.Model.dll
+K:\上机一\BooksManager.Model\bin\Debug\BooksManager.Model.pdb
+K:\上机一\BooksManager.Model\obj\Debug\ResolveAssemblyReference.cache
+K:\上机一\BooksManager.Model\obj\Debug\BooksManager.Model.dll
+K:\上机一\BooksManager.Model\obj\Debug\BooksManager.Model.pdb
+F:\上机一\BooksManager.Model\bin\Debug\BooksManager.Model.dll
+F:\上机一\BooksManager.Model\bin\Debug\BooksManager.Model.pdb
+F:\上机一\BooksManager.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\上机一\BooksManager.Model\obj\Debug\BooksManager.Model.dll
+F:\上机一\BooksManager.Model\obj\Debug\BooksManager.Model.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\43段浩\BooksManager.Model\bin\Debug\BooksManager.Model.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\43段浩\BooksManager.Model\bin\Debug\BooksManager.Model.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\43段浩\BooksManager.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\43段浩\BooksManager.Model\obj\Debug\BooksManager.Model.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\43段浩\BooksManager.Model\obj\Debug\BooksManager.Model.pdb

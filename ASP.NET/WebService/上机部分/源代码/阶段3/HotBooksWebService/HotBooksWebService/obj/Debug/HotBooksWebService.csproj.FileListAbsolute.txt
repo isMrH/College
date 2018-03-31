@@ -1,0 +1,9 @@
+E:\实训\整理课件\Chapter19\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\bin\Debug\HotBooksWebService.exe.config
+E:\实训\整理课件\Chapter19\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\obj\Debug\HotBooksWebService.exe
+E:\实训\整理课件\Chapter19\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\obj\Debug\HotBooksWebService.pdb
+D:\软件学院\信息\第二十章\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\bin\Debug\HotBooksWebService.exe.config
+D:\软件学院\信息\第二十章\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\obj\Debug\HotBooksWebService.exe
+D:\软件学院\信息\第二十章\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\obj\Debug\HotBooksWebService.pdb
+F:\ASP.NET\WebService\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\bin\Debug\HotBooksWebService.exe.config
+F:\ASP.NET\WebService\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\obj\Debug\HotBooksWebService.exe
+F:\ASP.NET\WebService\上机部分\源代码\阶段3\HotBooksWebService\HotBooksWebService\obj\Debug\HotBooksWebService.pdb

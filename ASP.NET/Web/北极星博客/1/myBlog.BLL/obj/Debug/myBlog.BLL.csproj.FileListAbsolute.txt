@@ -1,0 +1,43 @@
+F:\文件接收柜\上机4\myBlog.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\文件接收柜\上机4\myBlog.BLL\bin\Debug\myBlog.BLL.dll
+F:\文件接收柜\上机4\myBlog.BLL\bin\Debug\myBlog.BLL.pdb
+F:\文件接收柜\上机4\myBlog.BLL\bin\Debug\myBlog.DAL.dll
+F:\文件接收柜\上机4\myBlog.BLL\bin\Debug\myBlog.DAL.pdb
+F:\文件接收柜\上机4\myBlog.BLL\obj\Debug\myBlog.BLL.dll
+F:\文件接收柜\上机4\myBlog.BLL\obj\Debug\myBlog.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\myBlog.BLL\bin\Debug\myBlog.BLL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\myBlog.BLL\bin\Debug\myBlog.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\myBlog.BLL\bin\Debug\myBlog.DAL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\myBlog.BLL\bin\Debug\myBlog.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\myBlog.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\myBlog.BLL\obj\Debug\myBlog.BLL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\myBlog.BLL\obj\Debug\myBlog.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\myBlog.BLL\bin\Debug\myBlog.Model.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\myBlog.BLL\bin\Debug\myBlog.Model.pdb
+F:\1\myBlog.BLL\bin\Debug\myBlog.BLL.dll
+F:\1\myBlog.BLL\bin\Debug\myBlog.BLL.pdb
+F:\1\myBlog.BLL\bin\Debug\myBlog.DAL.dll
+F:\1\myBlog.BLL\bin\Debug\myBlog.Model.dll
+F:\1\myBlog.BLL\bin\Debug\myBlog.Model.pdb
+F:\1\myBlog.BLL\bin\Debug\myBlog.DAL.pdb
+F:\1\myBlog.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\1\myBlog.BLL\obj\Debug\myBlog.BLL.dll
+F:\1\myBlog.BLL\obj\Debug\myBlog.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\1\myBlog.BLL\bin\Debug\myBlog.BLL.dll
+C:\Documents and Settings\Administrator\桌面\1\myBlog.BLL\bin\Debug\myBlog.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\1\myBlog.BLL\bin\Debug\myBlog.DAL.dll
+C:\Documents and Settings\Administrator\桌面\1\myBlog.BLL\bin\Debug\myBlog.Model.dll
+C:\Documents and Settings\Administrator\桌面\1\myBlog.BLL\bin\Debug\myBlog.Model.pdb
+C:\Documents and Settings\Administrator\桌面\1\myBlog.BLL\bin\Debug\myBlog.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\1\myBlog.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\1\myBlog.BLL\obj\Debug\myBlog.BLL.dll
+C:\Documents and Settings\Administrator\桌面\1\myBlog.BLL\obj\Debug\myBlog.BLL.pdb
+F:\ASP.NET\Web\北极星博客\1\myBlog.BLL\bin\Debug\myBlog.BLL.dll
+F:\ASP.NET\Web\北极星博客\1\myBlog.BLL\bin\Debug\myBlog.BLL.pdb
+F:\ASP.NET\Web\北极星博客\1\myBlog.BLL\bin\Debug\myBlog.DAL.dll
+F:\ASP.NET\Web\北极星博客\1\myBlog.BLL\bin\Debug\myBlog.Model.dll
+F:\ASP.NET\Web\北极星博客\1\myBlog.BLL\bin\Debug\myBlog.Model.pdb
+F:\ASP.NET\Web\北极星博客\1\myBlog.BLL\bin\Debug\myBlog.DAL.pdb
+F:\ASP.NET\Web\北极星博客\1\myBlog.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\Web\北极星博客\1\myBlog.BLL\obj\Debug\myBlog.BLL.dll
+F:\ASP.NET\Web\北极星博客\1\myBlog.BLL\obj\Debug\myBlog.BLL.pdb

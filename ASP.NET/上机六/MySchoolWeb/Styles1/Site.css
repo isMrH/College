@@ -1,0 +1,456 @@
+﻿/*----------------------------------------------------------
+The base color for this template is #ffc300. If you'd like
+to use a different color start by replacing all instances of
+#ffc300 with your new color.
+----------------------------------------------------------*/
+body
+{
+    background-color: #5c87b2;
+    font-size: .75em;
+    font-family: Verdana, Helvetica, Sans-Serif;
+    margin: 0;
+    padding: 0;
+    color: #696969;
+}
+
+a:link
+{
+    color: #5c87b2;
+    text-decoration: none;
+}
+a:visited
+{
+    color: #505abc;
+    text-decoration: none;
+}
+a:hover
+{
+    color: #1d60ff;
+    text-decoration:underline;
+}
+a:active
+{
+    color: #12eb87;
+}
+
+p, ul
+{
+    margin-bottom: 20px;
+    line-height: 1.6em;
+}
+
+/* HEADINGS   
+----------------------------------------------------------*/
+h1, h2, h3, h4, h5, h6
+{
+    font-size: 1.5em;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1
+{
+    font-size: 2em;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+h2
+{
+    padding: 0 0 10px 0;
+}
+h3
+{
+    font-size: 1.2em;
+}
+h4
+{
+    font-size: 1.1em;
+}
+h5, h6
+{
+    font-size: 1em;
+}
+
+/* this rule styles <h2> tags that are the 
+first child of the left and right table columns */
+.rightColumn > h1, .rightColumn > h2, .leftColumn > h1, .leftColumn > h2
+{
+    margin-top: 0;
+}
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+/* you can specify a greater or lesser percentage for the 
+page width. Or, you can specify an exact pixel width. */
+.page
+{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header
+{
+    position: relative;
+    margin-bottom: 0px;
+    color: #000;
+    padding: 0;
+}
+
+#header h1
+{
+    border-style: none;
+	border-color: inherit;
+	border-width: medium;
+	font-weight: bold;
+    	padding: 5px 0;
+    	margin: 0;
+    	color: #fff;
+    	line-height: 2em;
+    	font-family: Arial, Helvetica, sans-serif;
+    	font-size: 32px !important;
+	height: 36px;
+}
+
+#main
+{
+    background-color: #fff;
+    margin-bottom: 30px;
+    _height: 1px; /* only IE6 applies CSS properties starting with an underscrore */
+}
+
+#footer
+{
+    color: #999;
+    padding: 10px 0;
+    text-align: center;
+    line-height: normal;
+    margin: 0;
+    font-size: .9em;
+}
+
+/* TAB MENU   
+----------------------------------------------------------*/
+ul#menu
+{
+    
+    padding: 0 0 2px;
+    position: relative;
+    margin: 0;
+    text-align: right;
+}
+
+ul#menu li
+{
+    display: inline;
+    list-style: none;
+}
+
+ul#menu li#greeting
+{
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    line-height: 2.8em;
+    color: #fff;
+}
+
+ul#menu li a
+{
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    line-height: 2.8em;
+    background-color: #e8eef4;
+    color: #034af3;
+}
+
+ul#menu li a:hover
+{
+    background-color: #fff;
+    text-decoration: none;
+}
+
+ul#menu li a:active
+{
+    background-color: #a6e2a6;
+    text-decoration: none;
+}
+
+ul#menu li.selected a
+{
+    background-color: #fff;
+    color: #000;
+}
+
+/* FORM LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+fieldset 
+{
+    margin: 1em 0;
+    padding: 1em;
+    border: 1px solid #CCC;
+}
+
+fieldset p 
+{
+    margin: 2px 12px 10px 10px;
+	height: 19px;
+}
+
+fieldset label 
+{
+    display: block;
+}
+
+fieldset label.inline 
+{
+    display: inline;
+}
+
+legend 
+{
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 2px 4px 8px 4px;
+	height: 18px;
+	width: 66px;
+}
+
+input[type="text"] 
+{
+    width: 200px;
+    border: 1px solid #CCC;
+}
+
+input[type="password"] 
+{
+    width: 200px;
+    border: 1px solid #CCC;
+}
+
+/* TABLE
+----------------------------------------------------------*/
+
+table 
+{
+  border: solid 1px #e8eef4;
+  border-collapse: collapse;
+	margin-bottom: 0px;
+}
+
+table td 
+{
+  padding: 5px;   
+  border: solid 1px #e8eef4;
+}
+
+table th
+{
+  padding: 6px 5px;
+  text-align: center;
+  background-color: #e8eef4; 
+  border: solid 1px #e8eef4;   
+}
+
+/* MISC  
+----------------------------------------------------------*/
+.clear
+{
+    clear: both;
+}
+
+.error
+{
+    color:Red;
+}
+
+#menucontainer
+{
+    margin-top:40px;
+}
+
+div#title
+{
+    display:block;
+    float:left;
+    text-align:left;
+}
+
+#logindisplay
+{
+    font-size:1.1em;
+    display:block;
+    text-align:right;
+    margin:10px;
+    color:White;
+}
+
+#logindisplay a:link
+{
+    color: white;
+    text-decoration: underline;
+}
+
+#logindisplay a:visited
+{
+    color: white;
+    text-decoration: underline;
+}
+
+#logindisplay a:hover
+{
+    color: white;
+    text-decoration: none;
+}
+
+.field-validation-error
+{
+    color: #ff0000;
+}
+
+/*未通过验证时的错误提示样式代码。*/
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.menutitle
+{ 
+	cursor:pointer; 
+	margin: 5px; 
+	color:#FFFFFF; width:158px; text-align:center; 
+	font-weight:bold;
+	padding-left:0px; padding-right:0px; 
+	padding-top:2px; padding-bottom:2px 
+}
+
+.submenu
+{ 
+	margin-bottom: 0em; 
+}
+
+.cn 
+{ 
+	FONT-SIZE: 9pt; 
+	COLOR: #006599; 
+	FONT-FAMILY: 宋体 
+}
+
+.tableborder	
+{ 
+	background: #D6E0EF; 
+	border: 1px solid #698CC3 
+} 
+
+.header			
+{ 
+	font: 12px Tahoma, Verdana; 
+	color: #FFFFFF; 
+	font-weight: bold; 
+	background-color: #698CC3 
+}
+
+td {
+	font-size: 12px;
+	line-height: 150%;
+	color: #000000;
+}
+
+.altbg1		    
+{ 
+	/*background: #EFEFEF;  */
+}
+
+.pageIndex
+{
+	text-align:right;padding:0px 30px
+}
+
+.error 
+{ 
+	FONT-SIZE: 9pt; 
+	COLOR: red; 
+	FONT-FAMILY: 宋体 
+}
+.condition
+{
+	border :1px solid Silver
+}
+hr
+{	
+	 border:solid;
+	  color:Silver
+}
+/*按钮样式*/
+.buttonCss {
+    font-family: "Tahoma", "宋体";
+    font-size: 9pt; color: #003399;
+    border: 1px #003399 solid;
+    color:#006699;
+    BORDER-BOTTOM: #93bee2 1px solid; 
+    BORDER-LEFT: #93bee2 1px solid; 
+    BORDER-RIGHT: #93bee2 1px solid; 
+    BORDER-TOP: #93bee2 1px solid;
+    background-image:url(images/bluebuttonbg.gif);
+    background-color: #e8f4ff;
+    CURSOR: hand;
+    font-style: normal ;
+}
+/* 输入文字样式*/
+input {  
+    font-family: "Tahoma", "宋体";
+    font-size: 9pt; color: #003399;
+    border: 1px #003399 solid;
+    color:#006699;
+    BORDER-BOTTOM: #93bee2 1px solid; 
+    BORDER-LEFT: #93bee2 1px solid; 
+    BORDER-RIGHT: #93bee2 1px solid; 
+    BORDER-TOP: #93bee2 1px solid;
+    background-image:url(images/bluebuttonbg.gif);
+    background-color: #e8f4ff;
+    CURSOR: hand;
+    font-style: normal ;
+}
+/* 输入文字样式*/
+.dropDownListInputCss {  
+    font-size: 9pt; 
+    color: #003399; 
+    font-family: "宋体"; 
+    font-style: normal; 
+    border-color: #93BEE2 #93BEE2 #93BEE2 #93BEE2 ; 
+    border: 1px #93BEE2 solid; 
+}
+/*定义文本区输入样式 */
+textarea 
+{
+	BORDER-RIGHT: #93bee2 1px solid; BORDER-TOP: #93bee2 1px solid; BORDER-LEFT: #93bee2 1px solid; BORDER-BOTTOM:#93bee2 1px solid;OVERFLOW: auto;  FONT-FAMILY: 宋体; BACKGROUND-COLOR:#e8f4ff;
+}
+
+/* 下拉菜单样式*/
+select
+{
+    font-size  : 10pt; 
+    color: #003399; 
+    font-family: "宋体"; 
+    font-style: normal; 
+    border:0px;   
+    BACKGROUND-COLOR:#e8f4ff; 
+}
+.login
+{
+	width:164px; height:32px; 
+	line-height:34px;
+	 background:url(/Content/images/admin/inputbg.gif) repeat-x;
+	  border:solid 1px #d1d1d1; font-size:9pt; 
+	  font-family:Verdana, Geneva, sans-serif;
+}

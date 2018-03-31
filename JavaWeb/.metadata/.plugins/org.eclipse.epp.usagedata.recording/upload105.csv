@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1460946148765
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460946151031
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1460946152718
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1460946152796
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460946157437
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946159500
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946162953
+error,log,,,"Could not publish server configuration for Tomcat v6.0 Server at localhost.",1460946163093
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946163125
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946165250
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460946167984
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1460946171500
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460946179390
+opened,editor,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.editor",1460946180609
+activated,editor,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.editor",1460946180656
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460946186046
+activated,editor,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.editor",1460946188546
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1460946188625
+closed,editor,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.editor",1460946188625
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460946190546
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1460946191812
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460946217953
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946221093
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946225328
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1460946239296

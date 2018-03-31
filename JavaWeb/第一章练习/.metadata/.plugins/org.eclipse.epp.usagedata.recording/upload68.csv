@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wst.jsdt.core,1.0.200.v200905201910,"org.eclipse.wst.jsdt.core",1460942410890
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.100.v200809240707,"org.eclipse.wst.jsdt.manipulation",1460942410890
+started,bundle,org.eclipse.wst.jsdt.ui,1.0.200.v200905242047,"org.eclipse.wst.jsdt.ui",1460942410890
+started,bundle,org.eclipse.wst.jsdt.web.core,1.0.200.v200905120445,"org.eclipse.wst.jsdt.web.core",1460942410890
+started,bundle,org.eclipse.wst.server.core,1.1.101.v20090515,"org.eclipse.wst.server.core",1460942410890
+started,bundle,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui",1460942410890
+started,bundle,org.eclipse.wst.sse.core,1.1.400.v200905141750,"org.eclipse.wst.sse.core",1460942410890
+started,bundle,org.eclipse.wst.validation,1.2.102.v200905201610,"org.eclipse.wst.validation",1460942410890
+started,bundle,org.eclipse.wst.web,1.1.300.v200901261500,"org.eclipse.wst.web",1460942410906
+started,bundle,org.eclipse.wst.xml.core,1.1.400.v200904300540,"org.eclipse.wst.xml.core",1460942410906
+started,bundle,org.tigris.subversion.subclipse.core,1.0.6,"org.tigris.subversion.subclipse.core",1460942410906
+started,bundle,org.tigris.subversion.subclipse.ui,1.0.5,"org.tigris.subversion.subclipse.ui",1460942410906
+os,sysinfo,,,"win32",1460942410921
+arch,sysinfo,,,"x86",1460942410921
+ws,sysinfo,,,"win32",1460942410921
+locale,sysinfo,,,"zh_CN",1460942410921
+processors,sysinfo,,,"2",1460942410921
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1460942410921
+java.runtime.version,sysinfo,,,"1.6.0_02-b06",1460942410921
+java.specification.name,sysinfo,,,"Java Platform API Specification",1460942410921
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1460942410921
+java.specification.version,sysinfo,,,"1.6",1460942410921
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1460942410921
+java.version,sysinfo,,,"1.6.0_02",1460942410921
+java.vm.info,sysinfo,,,"mixed mode",1460942410921

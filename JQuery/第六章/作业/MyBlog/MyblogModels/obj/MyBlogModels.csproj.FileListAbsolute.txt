@@ -1,0 +1,10 @@
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\DLC1\源代码\阶段5\MyBlog\MyblogModels\bin\Debug\MyblogModels.dll
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\DLC1\源代码\阶段5\MyBlog\MyblogModels\bin\Debug\MyblogModels.pdb
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\DLC1\源代码\阶段5\MyBlog\MyblogModels\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\DLC1\源代码\阶段5\MyBlog\MyblogModels\obj\Debug\MyblogModels.dll
+E:\ACCP5.0\课本\使用ASP.NET技术开发网上书店(ASP.NET)\DLC1\源代码\阶段5\MyBlog\MyblogModels\obj\Debug\MyblogModels.pdb
+E:\ACCP5.0\课本\ASPNET\DLC1\源代码\阶段5\MyBlog\MyblogModels\bin\Debug\MyblogModels.dll
+E:\ACCP5.0\课本\ASPNET\DLC1\源代码\阶段5\MyBlog\MyblogModels\bin\Debug\MyblogModels.pdb
+E:\ACCP5.0\课本\ASPNET\DLC1\源代码\阶段5\MyBlog\MyblogModels\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP5.0\课本\ASPNET\DLC1\源代码\阶段5\MyBlog\MyblogModels\obj\Debug\MyblogModels.dll
+E:\ACCP5.0\课本\ASPNET\DLC1\源代码\阶段5\MyBlog\MyblogModels\obj\Debug\MyblogModels.pdb

@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+
+    <script src="jquery-1.4.1-vsdoc.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        $(function() {
+            var $comment = $('#comment');
+            $('.up').click(function() {
+                if (!$comment.is(":animated")) {
+                    $comment.animate({ scrollTop: "-=50" }, 400);
+                }
+            });
+            $('.down').click(function() {
+                if (!$comment.is(":animated")) {
+                    $comment.animate({ scrollTop: "+=50" }, 400);
+                }
+            });
+        });
+    </script>
+
+</head>
+<body>
+    <form action="#" method="post" id="regForm">
+    <div class="msg">
+        <div class="msg_caption">
+            <span class="up">向上</span> <span class="down">向下</span>
+        </div>
+        <div>
+            <textarea id="comment" rows="8" cols="20">多行文本框的高度变化。多行文本框的高度变化。多行文本框的高度变化。多行文本框的高度变化。多行文本框的高度变化。
+            多行文本框的高度变化。多行文本框的高度变化。多行文本框的高度变化。多行文本框的高度变化。多行文本框的高度变化。多行文本框的高度变化。多行文本框的高度变化。多行文本框的高度变化。多行文本框的高度变化。
+            多行文本框的高度变化。多行文本框的高度变化。</textarea>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

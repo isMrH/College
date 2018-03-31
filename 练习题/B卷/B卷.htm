@@ -1,0 +1,239 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="css/ui-lightness/jquery-ui-1.8.18.custom.css" rel="stylesheet" type="text/css" />
+
+    <script src="js/jquery-1.7.1.min.js" type="text/javascript"></script>
+
+    <script src="js/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function() {
+            //选项卡
+            $("#myTabs").tabs({
+                event: "mouseover"
+            });
+
+            //accordion
+            var accOpts = {
+                event: "click",
+                fillSpace: true
+            };
+
+            $("#myAccordion").accordion(accOpts);
+
+            //日期
+            $("#chuangjiandate").datepicker();
+            $("#xiugaidate").datepicker();
+
+
+
+            //查重
+            $("#txtname").bind("blur", function() {
+                $.get("register.ashx", $("#txtname").serialize(), function(msg) {
+                    if (msg == 1) {
+                        $("#infoName").html("<font color='green'>恭喜您，商品名可以使用！</font>");
+                    } else {
+                        $("#infoName").html("<font color='red'>对不起，商品名已经被注册！</font>");
+                    }
+
+
+                }, "text");
+            })
+
+
+            //左侧导航栏展开闭合
+            $(".qiehuan").toggle(function() {
+                $(this).removeClass("qiehuan").addClass("clic");
+                $(this).next().hide();
+            }, function() {
+
+                $(this).removeClass("clic").addClass("qiehuan");
+                $(this).next().show();
+            })
+
+            //key up
+            $("#txtname").keyup(function() {
+                var name = $("#txtname").val();
+                if (name != null || name != "") {
+                    $("#infoName").html("");
+                }
+            });
+
+            $("#txtcount").keyup(function() {
+                var count = $("#txtcount").val();
+                if (count != null || count != "") {
+                    $("#infocount").html("");
+                }
+            });
+
+            $("#txtprice").keyup(function() {
+                var price = $("#txtprice").val();
+                if (price != null || price != "") {
+                    $("#infoprice").html("");
+                }
+            });
+
+            //表单验证
+
+            $("#tianjia").click(function() {
+                var name = $("#txtname").val();
+                var count = $("#txtcount").val();
+                var price = $("#txtprice").val();
+
+                if (name == null || name == "") {
+                    $("#infoName").html("<font color='red'>商品名称不能为空！</font>");
+
+                }
+
+                if (count == null || count == "") {
+                    $("#infocount").html("<font color='red'>商品数量不能为空！</font>");
+
+                }
+
+                if (price == null || price == "") {
+                    $("#infoprice").html("<font color='red'>商品价格不能为空！</font>");
+                    return false;
+                }
+
+            })
+        })
+    </script>
+    <style type="text/css">
+        *{margin:0px auto;padding:0px}
+        #father{height:400px;width:800px; margin-top:20px;}
+        #header{ height:82px; width:800px;  background-color:#0099cc; text-align:center;}
+        #title{ padding-top:26px; padding-left:50px; font-size:24px; color:White; font-weight:bold;}
+        #center{ margin-top:10px;}
+        #left{ height:307px; width:200px;float:left; padding-right:-5px; padding-top:5px;}
+        #right{ height:307px; width:596px;float:left; background-color:Gray;}
+        #pic{ height:28px; width:50px;}
+  
+        table{ background-color:#d7d7d7; text-align:left; font-size:14px; height:220px; width:500px;}
+        table td .green{ background-color:Green;}
+        table td{ background-color:#FFF;}
+        table input{ border:#c1c1c1 solid 1px;}
+        
+        
+        
+        #myTabs {height:299px; width:580px; background:white none; padding-left:5px; margin-left:7px;}
+        #myTabs .ui-widget-content { background:#ffffff none;font-size:80%;}
+        .ui-state-active, .ui-widget-content .ui-state-active {background:#ffffff none;}
+        
+        #cont{ padding-left:76px;}
+        .clic{  background-image:url(images/tree_03.gif); background-repeat:no-repeat; height:16px; width:56px; padding-left:55px;}
+        .qiehuan{ background-image:url(images/tree-hover_03.gif); background-repeat:no-repeat; height:16px; width:56px; padding-left:55px;}
+        #left_01{ height:307px; width:190px;margin-left:-20px;}
+    </style>
+</head>
+<body>
+<form action="" method="">
+<div id="father">
+    <div id="header"><div id="title">后台管理系统</div></div>
+    <div id="center">
+        <div id="left">
+          <div id="left_01">
+               <div class="qiehuan"><h5>栏目管理</h5></div>
+                <div id="cont">
+                    <img src="images/tree_08.gif" />添加栏目<br />
+                    <img src="images/tree_08.gif" />删除栏目<br />
+                </div>
+             <div class="qiehuan"><h5>用户管理</h5></div>
+                 <div id="cont">
+                    <img src="images/tree_08.gif" />添加栏目<br />
+                    <img src="images/tree_08.gif" />删除栏目<br />
+                </div>
+             <div class="qiehuan"><h5>商品管理</h5></div>
+                 <div id="cont">
+                    <img src="images/tree_08.gif" />添加栏目<br />
+                    <img src="images/tree_08.gif" />删除栏目<br />
+                </div>
+             <div class="qiehuan"><h5>用户管理</h5></div>
+                 <div id="cont">
+                    <img src="images/tree_08.gif" />添加栏目<br />
+                    <img src="images/tree_08.gif" />删除栏目<br />
+                </div>
+          </div>
+             
+        </div>
+        <div id="right">
+           <div id="myTabs">
+                <ul>
+                   <li><a href="#a">基本信息</a></li>
+                   <li><a href="#b">高级信息</a></li>
+                </ul>
+                <div id="a">
+                    <table>
+                        <tr>
+                           <td colspan="2" style="text-align:center; background-color:#d7d7d7;">添加商品</td>
+                        </tr>
+                        <tr>
+                           <td style=" width:150px;">商品名称：</td>
+                           <td><input type="text" name="txtname" id="txtname"/><span id="infoName"></span></td>
+                        </tr>
+                        <tr>
+                           <td>商品数量：</td>
+                           <td><input type="text" name="txtcount" id="txtcount"/><span id="infocount"></span></td>
+                        </tr>
+                        <tr>
+                           <td>价格：</td>
+                           <td><input type="text" name="txtprice" id="txtprice"/><span id="infoprice"></span></td>
+                        </tr>
+                        <tr>
+                           <td>商品图片：</td>
+                           <td><input type="button" value="选择文件"/><label>未选择文件</label></td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" style="text-align:center;"><input type="submit" name="tianjia" id="tianjia" value="添加"/>&nbsp;&nbsp;&nbsp;&nbsp;<input type="reset" name="remove" id="remove" value="清除"/></td>
+                    
+                        </tr>
+                    </table>
+                </div>
+                <div id="b">
+                    <table>
+                        <tr>
+                           <td class="green">类型名称：</td>
+                           <td><input type="text" id="typename"/></td>
+                        </tr>
+                        <tr>
+                           <td class="green">父级名称：</td>
+                           <td><input type="text" id="fathername"/></td>
+                        </tr>
+                        <tr>
+                           <td class="green">排序：</td>
+                           <td><input type="text" id="order"/></td>
+                        </tr>
+                        <tr>
+                           <td class="green">招标特征：</td>
+                           <td><input type="text" id="zhaobiao"/></td>
+                        </tr>
+                        <tr>
+                           <td class="green">创建人：</td>
+                           <td><input type="text" id="chuangjianren"/></td>
+                        </tr>
+                        <tr>
+                           <td class="green">创建日期：</td>
+                           <td><input type="text" id="chuangjiandate"/><div id="datepicker"></div></td>
+                        </tr>
+                        <tr>
+                           <td class="green">修改人：</td>
+                           <td><input type="text" id="xiugairen"/></td>
+                        </tr>
+                        <tr>
+                           <td class="green">修改日期：</td>
+                           <td><input type="text" id="xiugaidate"/><img src="images/i_03.jpg"/><div id="datepicker"></div></td>
+                        </tr>
+                        <tr>
+                           <td><img src="images/i_07.jpg"/></td>
+                           <td><img src="images/i_09.jpg"/></td>
+                        </tr>
+                    </table>
+                </div>
+           </div>
+        </div>
+    </div>
+</div>
+</form>
+</body>
+</html>

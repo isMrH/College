@@ -1,0 +1,14 @@
+F:\Net练习题\练习二\MyAirTicket.DAL\bin\Debug\MyAirTicket.DAL.dll
+F:\Net练习题\练习二\MyAirTicket.DAL\bin\Debug\MyAirTicket.DAL.pdb
+F:\Net练习题\练习二\MyAirTicket.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Net练习题\练习二\MyAirTicket.DAL\obj\Debug\MyAirTicket.DAL.dll
+F:\Net练习题\练习二\MyAirTicket.DAL\obj\Debug\MyAirTicket.DAL.pdb
+F:\Net练习题\练习二\MyAirTicket.DAL\bin\Debug\MyAirTicket.Model.dll
+F:\Net练习题\练习二\MyAirTicket.DAL\bin\Debug\MyAirTicket.Model.pdb
+F:\ASP.NET\Net练习题\练习二\MyAirTicket.DAL\bin\Debug\MyAirTicket.DAL.dll
+F:\ASP.NET\Net练习题\练习二\MyAirTicket.DAL\bin\Debug\MyAirTicket.DAL.pdb
+F:\ASP.NET\Net练习题\练习二\MyAirTicket.DAL\bin\Debug\MyAirTicket.Model.dll
+F:\ASP.NET\Net练习题\练习二\MyAirTicket.DAL\bin\Debug\MyAirTicket.Model.pdb
+F:\ASP.NET\Net练习题\练习二\MyAirTicket.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\Net练习题\练习二\MyAirTicket.DAL\obj\Debug\MyAirTicket.DAL.dll
+F:\ASP.NET\Net练习题\练习二\MyAirTicket.DAL\obj\Debug\MyAirTicket.DAL.pdb

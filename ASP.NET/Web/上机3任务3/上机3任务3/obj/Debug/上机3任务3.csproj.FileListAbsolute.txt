@@ -1,0 +1,5 @@
+F:\ASP.NET\Web\上机3任务3\上机3任务3\bin\上机3任务3.dll
+F:\ASP.NET\Web\上机3任务3\上机3任务3\bin\上机3任务3.pdb
+F:\ASP.NET\Web\上机3任务3\上机3任务3\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\Web\上机3任务3\上机3任务3\obj\Debug\上机3任务3.dll
+F:\ASP.NET\Web\上机3任务3\上机3任务3\obj\Debug\上机3任务3.pdb

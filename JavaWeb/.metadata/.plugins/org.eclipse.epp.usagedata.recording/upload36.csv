@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460535259921
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460535262640
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460535265875
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460535346421
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460535346531
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460535347421
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460535347531
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460535349437
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460535351421
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1460535384718
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1460535473078
+error,log,,,"File not found: '/Unit2/src/__2F_Unit2_2F_WebContent_2F_Test1Color_2E_jsp.java'",1460535483750
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1460535488703
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460535495703
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460535497953
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460535508421
+started,bundle,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser",1460535510234
+opened,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1460535510703
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1460535510718
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460535564515
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460535564546
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460535569234
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.run",1460535572890
+started,bundle,org.eclipse.jst.server.tomcat.ui,1.1.102.v20090424,"org.eclipse.jst.server.tomcat.ui",1460535573000
+started,bundle,org.eclipse.jdt.debug,3.5.0.v20090526,"org.eclipse.jdt.debug",1460535573250

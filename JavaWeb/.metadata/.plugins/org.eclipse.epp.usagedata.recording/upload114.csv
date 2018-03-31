@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1460946758437
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1460946759656
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946760546
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946790062
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946813093
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946813750
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946815140
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946829718
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1460946830437
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460946836593
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460946840734
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946865187
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946890468
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946892953
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946893093
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460946893734
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946895984
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946897187
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946897593
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946898234
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460946900031
+opened,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460946900828
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460946900875
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460946907390
+opened,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1460946907750

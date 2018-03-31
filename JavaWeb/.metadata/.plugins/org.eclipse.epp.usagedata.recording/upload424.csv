@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.runtime.version,sysinfo,,,"1.6.0_02-b06",1462932942156
+java.specification.name,sysinfo,,,"Java Platform API Specification",1462932942156
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1462932942156
+java.specification.version,sysinfo,,,"1.6",1462932942156
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1462932942156
+java.version,sysinfo,,,"1.6.0_02",1462932942156
+java.vm.info,sysinfo,,,"mixed mode",1462932942156
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1462932942156
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1462932942156
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1462932942156
+java.vm.specification.version,sysinfo,,,"1.0",1462932942156
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1462932942156
+java.vm.version,sysinfo,,,"1.6.0_02-b06",1462932942156
+started,bundle,org.eclipse.jsch.core,1.1.100.I20090430-0408,"org.eclipse.jsch.core",1462932942562
+started,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1462932942562
+started,bundle,org.eclipse.team.cvs.ui,3.3.200.I20090521-1750,"org.eclipse.team.cvs.ui",1462932942734
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462932991984
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462932992140
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1462932995734
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1462932995750
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1462933067890
+opened,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.TypeHierarchy",1462933068078
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462933068093
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462933084859
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1462933084906

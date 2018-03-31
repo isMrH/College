@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MyBook", "MyBook", "{7B2C8B1F-1477-44E7-AEDA-30B3FC648E56}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{B5457F3B-CAF1-409A-871A-082A56F5A7AE}|MyBook.Model.dll;{82512A63-7361-40FB-B691-89AC4ED24F11}|MyBookManager.BLL.dll;{94F7F6F6-77FF-4855-9334-59FB2258394F}|MyBookService.DAL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/MyBook"
+		Debug.AspNetCompiler.PhysicalPath = "MyBook\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\MyBook\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/MyBook"
+		Release.AspNetCompiler.PhysicalPath = "MyBook\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\MyBook\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3859"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBookManager.BLL", "MyBookManager.BLL\MyBookManager.BLL.csproj", "{82512A63-7361-40FB-B691-89AC4ED24F11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBookService.DAL", "MyBookService.DAL\MyBookService.DAL.csproj", "{94F7F6F6-77FF-4855-9334-59FB2258394F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBook.Model", "MyBook.Model\MyBook.Model.csproj", "{B5457F3B-CAF1-409A-871A-082A56F5A7AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B2C8B1F-1477-44E7-AEDA-30B3FC648E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2C8B1F-1477-44E7-AEDA-30B3FC648E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2C8B1F-1477-44E7-AEDA-30B3FC648E56}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2C8B1F-1477-44E7-AEDA-30B3FC648E56}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{82512A63-7361-40FB-B691-89AC4ED24F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82512A63-7361-40FB-B691-89AC4ED24F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82512A63-7361-40FB-B691-89AC4ED24F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82512A63-7361-40FB-B691-89AC4ED24F11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F7F6F6-77FF-4855-9334-59FB2258394F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F7F6F6-77FF-4855-9334-59FB2258394F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F7F6F6-77FF-4855-9334-59FB2258394F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F7F6F6-77FF-4855-9334-59FB2258394F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5457F3B-CAF1-409A-871A-082A56F5A7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5457F3B-CAF1-409A-871A-082A56F5A7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5457F3B-CAF1-409A-871A-082A56F5A7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5457F3B-CAF1-409A-871A-082A56F5A7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

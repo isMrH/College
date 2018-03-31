@@ -1,0 +1,7 @@
+F:\ASP.NET\MobileManager\Mobile.Model\bin\Debug\Mobile.Model.exe
+F:\ASP.NET\MobileManager\Mobile.Model\bin\Debug\Mobile.Model.pdb
+F:\ASP.NET\MobileManager\Mobile.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\MobileManager\Mobile.Model\obj\Debug\Mobile.Model.Properties.Resources.resources
+F:\ASP.NET\MobileManager\Mobile.Model\obj\Debug\Mobile.Model.csproj.GenerateResource.Cache
+F:\ASP.NET\MobileManager\Mobile.Model\obj\Debug\Mobile.Model.exe
+F:\ASP.NET\MobileManager\Mobile.Model\obj\Debug\Mobile.Model.pdb

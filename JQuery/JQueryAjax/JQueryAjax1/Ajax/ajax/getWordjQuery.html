@@ -1,0 +1,43 @@
+<html>
+<head>
+    <title>Ajax得到服务器数据</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=gb2312" />
+
+    <script src="../../script/jquery-1.4.1.js" type="text/javascript"></script>
+
+    <script type="text/javascript">       
+
+        //get提交
+        function getData() {
+            $.ajax({
+                type: "get",
+                url: "hello.ashx",
+                data: { name: "王" },
+                dataType: "text",
+                success: function(msg) {
+                    $("#listDiv").html(msg);
+                }
+            });
+        }
+        //post提交
+        function postData() {
+            $.ajax({
+                type: "post",
+                url: "hello.ashx",
+                data: { name: "张" },
+                dataType: "text",
+                success: function(msg) {
+                    $("#listDiv").html(msg);
+                }
+            });
+        }
+    </script>
+
+</head>
+<body>
+    <div id="listDiv">
+    </div>
+    <input type="button" value="GetData" onclick="getData();" /><input type="button"
+        value="PostData" onclick="postData();" />
+</body>
+</html>

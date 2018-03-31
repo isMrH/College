@@ -1,0 +1,114 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        *
+        {
+    	    margin:0px;
+    	    padding:0px;
+        }
+        #wapper
+        {
+    	    height:auto;
+    	    width:900px;
+    	    margin:0px auto;
+    	    background-color:#e1e1e0;
+        }
+        #header
+        {
+        	width:900px;
+        	height:80px;
+        }
+        #center
+        {
+        	width:900px;
+        	height:400px;
+        }
+        #left
+        {
+        	height:400px;
+        	width:600px;
+        	float:left;
+        	margin-left:5px;
+        }
+        #right
+        {
+        	height:400px;
+        	width:280px;
+        	float:left;
+        	margin-left:10px;
+        }
+        #Label1
+        {
+        	text-align:right;
+        }
+        #lblPwd
+        {
+        	text-align:right;
+        }
+        #footer
+        {
+        	width:900px;
+        	height:40px;
+        	background-color:#adb3d6;
+        	text-align:center;
+        	padding-top:15px;
+        	color:White;
+        }
+        #Button
+        {
+        	margin-left:35px;
+        }
+    </style>
+</head>
+<body>
+<div id="wapper">
+<div id="header"><img src="top.jpg" alt="top"/>
+</div>
+    <form id="form1" runat="server">
+    <div id="center">
+    <div id="left">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        </div>
+        <div id="right">
+        
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                <p>
+                    &nbsp;</p>
+            </asp:ContentPlaceHolder>
+            <div id="right1" align="left">
+                    <asp:Label ID="Label1" runat="server" Text="用户登录：Login"></asp:Label>
+                <br />
+                    <asp:Label ID="Label2" runat="server" Text="用户名：" Width="70px"></asp:Label>
+                    <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
+                <br />
+                    <asp:Label ID="Label3" runat="server" Text="密码：" Width="70px"></asp:Label>
+                    <asp:TextBox ID="txtPwd" runat="server"></asp:TextBox>
+                <br />
+                    <asp:Button ID="btnEnter" runat="server" onclick="btnEnter_Click" Text="登录" 
+                        Width="70px" />
+                    <asp:Button ID="btnSubmit" runat="server" onclick="btnSubmit_Click" Text="注册" 
+                        Width="70px" />
+                    <br />
+                    <asp:Label ID="lblMessage" runat="server"></asp:Label>
+                <br />
+                <div id="Button">
+                </div>
+                <br />
+            </div>
+        </div>
+    </div>
+    </form>
+</div>
+<div id="footer">@2007 Beijing Aptech Beida Jade Bird Information Technology CollLtd 
+    版权所有</div>
+</body>
+</html>

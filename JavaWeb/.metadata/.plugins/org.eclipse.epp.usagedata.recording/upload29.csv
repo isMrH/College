@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+arch,sysinfo,,,"x86",1460527318312
+ws,sysinfo,,,"win32",1460527318312
+locale,sysinfo,,,"zh_CN",1460527318312
+processors,sysinfo,,,"2",1460527318312
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1460527318312
+java.runtime.version,sysinfo,,,"1.6.0_02-b06",1460527318312
+java.specification.name,sysinfo,,,"Java Platform API Specification",1460527318312
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1460527318312
+java.specification.version,sysinfo,,,"1.6",1460527318312
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1460527318312
+java.version,sysinfo,,,"1.6.0_02",1460527318312
+java.vm.info,sysinfo,,,"mixed mode",1460527318312
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1460527318312
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1460527318312
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1460527318312
+java.vm.specification.version,sysinfo,,,"1.0",1460527318312
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1460527318312
+java.vm.version,sysinfo,,,"1.6.0_02-b06",1460527318312
+started,bundle,org.eclipse.ui.forms,3.4.0.v20090526,"org.eclipse.ui.forms",1460527318921
+started,bundle,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui",1460527319031
+started,bundle,org.eclipse.jst.server.tomcat.core,1.1.105.v20090424,"org.eclipse.jst.server.tomcat.core",1460527319359
+started,bundle,org.eclipse.mylyn.tasks.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.tasks.ui",1460527320031
+started,bundle,org.eclipse.mylyn.team.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.team.ui",1460527320109
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1460527320312
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1460527320609

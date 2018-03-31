@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946420718
+error,log,,,"Error starting server Tomcat v6.0 Server at localhost",1460946420796
+error,log,,,"Two or more Web modules defined in the configuration have the same context root (/Test). To start this server you will need to remove the duplicate(s).",1460946420796
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946425203
+opened,editor,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.editor",1460946426593
+activated,editor,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.editor",1460946426625
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460946426734
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946428796
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946431546
+activated,editor,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.editor",1460946432562
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1460946432593
+closed,editor,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.editor",1460946432593
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460946443375
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1460946450640
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1460946452546
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1460946468140
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.run",1460946470968
+error,log,,,"Could not publish server configuration for Tomcat v6.0 Server at localhost.",1460946471015
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946471031
+error,log,,,"Two or more Web modules defined in the configuration have the same context root (/Test). To start this server you will need to remove the duplicate(s).",1460946471109
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1460946484015
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.views.showView",1460946494781
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.views.showView",1460946503921
+activated,perspective,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.JavaPerspective",1460946505156
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.SourceView",1460946505171

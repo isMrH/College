@@ -1,0 +1,63 @@
+F:\Asp.net\第五章练习\MySchool.BLL\bin\Debug\MySchool.BLL.dll
+F:\Asp.net\第五章练习\MySchool.BLL\bin\Debug\MySchool.BLL.pdb
+F:\Asp.net\第五章练习\MySchool.BLL\bin\Debug\MySchool.DAL.dll
+F:\Asp.net\第五章练习\MySchool.BLL\bin\Debug\MySchool.Model.dll
+F:\Asp.net\第五章练习\MySchool.BLL\bin\Debug\MySchool.Model.pdb
+F:\Asp.net\第五章练习\MySchool.BLL\bin\Debug\MySchool.DAL.pdb
+F:\Asp.net\第五章练习\MySchool.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Asp.net\第五章练习\MySchool.BLL\obj\Debug\MySchool.BLL.dll
+F:\Asp.net\第五章练习\MySchool.BLL\obj\Debug\MySchool.BLL.pdb
+F:\李兰兰\ASP.NET\上机\第五章练习\MySchool.BLL\bin\Debug\MySchool.BLL.dll
+F:\李兰兰\ASP.NET\上机\第五章练习\MySchool.BLL\bin\Debug\MySchool.BLL.pdb
+F:\李兰兰\ASP.NET\上机\第五章练习\MySchool.BLL\bin\Debug\MySchool.DAL.dll
+F:\李兰兰\ASP.NET\上机\第五章练习\MySchool.BLL\bin\Debug\MySchool.Model.dll
+F:\李兰兰\ASP.NET\上机\第五章练习\MySchool.BLL\bin\Debug\MySchool.Model.pdb
+F:\李兰兰\ASP.NET\上机\第五章练习\MySchool.BLL\bin\Debug\MySchool.DAL.pdb
+F:\李兰兰\ASP.NET\上机\第五章练习\MySchool.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\李兰兰\ASP.NET\上机\第五章练习\MySchool.BLL\obj\Debug\MySchool.BLL.dll
+F:\李兰兰\ASP.NET\上机\第五章练习\MySchool.BLL\obj\Debug\MySchool.BLL.pdb
+F:\李兰兰\ASP.NET\上机\第五章联系\MySchool.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\李兰兰\ASP.NET\上机\第五章联系\MySchool.BLL\obj\Debug\MySchool.BLL.pdb
+F:\李兰兰\ASP.NET\上机\第五章联系\MySchool.BLL\bin\Debug\MySchool.BLL.dll
+F:\李兰兰\ASP.NET\上机\第五章联系\MySchool.BLL\bin\Debug\MySchool.BLL.pdb
+F:\李兰兰\ASP.NET\上机\第五章联系\MySchool.BLL\bin\Debug\MySchool.DAL.dll
+F:\李兰兰\ASP.NET\上机\第五章联系\MySchool.BLL\bin\Debug\MySchool.Model.dll
+F:\李兰兰\ASP.NET\上机\第五章联系\MySchool.BLL\bin\Debug\MySchool.Model.pdb
+F:\李兰兰\ASP.NET\上机\第五章联系\MySchool.BLL\bin\Debug\MySchool.DAL.pdb
+F:\李兰兰\ASP.NET\上机\第五章联系\MySchool.BLL\obj\Debug\MySchool.BLL.dll
+I:\ASP.NET\上机\01李兰兰\MySchool.BLL\bin\Debug\MySchool.BLL.dll
+I:\ASP.NET\上机\01李兰兰\MySchool.BLL\bin\Debug\MySchool.BLL.pdb
+I:\ASP.NET\上机\01李兰兰\MySchool.BLL\bin\Debug\MySchool.DAL.dll
+I:\ASP.NET\上机\01李兰兰\MySchool.BLL\bin\Debug\MySchool.Model.dll
+I:\ASP.NET\上机\01李兰兰\MySchool.BLL\bin\Debug\MySchool.Model.pdb
+I:\ASP.NET\上机\01李兰兰\MySchool.BLL\bin\Debug\MySchool.DAL.pdb
+I:\ASP.NET\上机\01李兰兰\MySchool.BLL\obj\Debug\ResolveAssemblyReference.cache
+I:\ASP.NET\上机\01李兰兰\MySchool.BLL\obj\Debug\MySchool.BLL.dll
+I:\ASP.NET\上机\01李兰兰\MySchool.BLL\obj\Debug\MySchool.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\01李兰兰\MySchool.BLL\bin\Debug\MySchool.BLL.dll
+C:\Documents and Settings\Administrator\桌面\01李兰兰\MySchool.BLL\bin\Debug\MySchool.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\01李兰兰\MySchool.BLL\bin\Debug\MySchool.DAL.dll
+C:\Documents and Settings\Administrator\桌面\01李兰兰\MySchool.BLL\bin\Debug\MySchool.Model.dll
+C:\Documents and Settings\Administrator\桌面\01李兰兰\MySchool.BLL\bin\Debug\MySchool.Model.pdb
+C:\Documents and Settings\Administrator\桌面\01李兰兰\MySchool.BLL\bin\Debug\MySchool.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\01李兰兰\MySchool.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\01李兰兰\MySchool.BLL\obj\Debug\MySchool.BLL.dll
+C:\Documents and Settings\Administrator\桌面\01李兰兰\MySchool.BLL\obj\Debug\MySchool.BLL.pdb
+F:\Net企业级\第六章\myschool\MySchool.BLL\bin\Debug\MySchool.BLL.dll
+F:\Net企业级\第六章\myschool\MySchool.BLL\bin\Debug\MySchool.BLL.pdb
+F:\Net企业级\第六章\myschool\MySchool.BLL\bin\Debug\MySchool.DAL.dll
+F:\Net企业级\第六章\myschool\MySchool.BLL\bin\Debug\MySchool.Model.dll
+F:\Net企业级\第六章\myschool\MySchool.BLL\bin\Debug\MySchool.Model.pdb
+F:\Net企业级\第六章\myschool\MySchool.BLL\bin\Debug\MySchool.DAL.pdb
+F:\Net企业级\第六章\myschool\MySchool.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Net企业级\第六章\myschool\MySchool.BLL\obj\Debug\MySchool.BLL.dll
+F:\Net企业级\第六章\myschool\MySchool.BLL\obj\Debug\MySchool.BLL.pdb
+F:\ASP.NET\WebWeb\myschool\MySchool.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\WebWeb\myschool\MySchool.BLL\obj\Debug\MySchool.BLL.pdb
+F:\ASP.NET\WebWeb\myschool\MySchool.BLL\bin\Debug\MySchool.BLL.dll
+F:\ASP.NET\WebWeb\myschool\MySchool.BLL\bin\Debug\MySchool.BLL.pdb
+F:\ASP.NET\WebWeb\myschool\MySchool.BLL\bin\Debug\MySchool.DAL.dll
+F:\ASP.NET\WebWeb\myschool\MySchool.BLL\bin\Debug\MySchool.Model.dll
+F:\ASP.NET\WebWeb\myschool\MySchool.BLL\bin\Debug\MySchool.Model.pdb
+F:\ASP.NET\WebWeb\myschool\MySchool.BLL\bin\Debug\MySchool.DAL.pdb
+F:\ASP.NET\WebWeb\myschool\MySchool.BLL\obj\Debug\MySchool.BLL.dll

@@ -1,0 +1,8 @@
+F:\上机7作业2\上机7作业2\obj\Debug\ResolveAssemblyReference.cache
+F:\上机7作业2\上机7作业2\obj\Debug\上机7作业2.frmMedal.resources
+F:\上机7作业2\上机7作业2\obj\Debug\上机7作业2.Properties.Resources.resources
+F:\上机7作业2\上机7作业2\obj\Debug\上机7作业2.csproj.GenerateResource.Cache
+F:\上机7作业2\上机7作业2\bin\Debug\上机7作业2.exe
+F:\上机7作业2\上机7作业2\bin\Debug\上机7作业2.pdb
+F:\上机7作业2\上机7作业2\obj\Debug\上机7作业2.exe
+F:\上机7作业2\上机7作业2\obj\Debug\上机7作业2.pdb

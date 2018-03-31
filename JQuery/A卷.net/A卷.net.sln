@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "A卷.net", "..\A卷.net", "{DBD3662A-2643-4729-AB4F-813751369A13}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/A卷.net"
+		Debug.AspNetCompiler.PhysicalPath = "F:\JQuery\A卷.net\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\A卷.net\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/A卷.net"
+		Release.AspNetCompiler.PhysicalPath = "F:\JQuery\A卷.net\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\A卷.net\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "5842"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBD3662A-2643-4729-AB4F-813751369A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD3662A-2643-4729-AB4F-813751369A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

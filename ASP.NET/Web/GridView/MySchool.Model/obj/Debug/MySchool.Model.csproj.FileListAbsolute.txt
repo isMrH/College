@@ -1,0 +1,10 @@
+F:\GridView\MySchool.Model\bin\Debug\MySchool.Model.dll
+F:\GridView\MySchool.Model\bin\Debug\MySchool.Model.pdb
+F:\GridView\MySchool.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\GridView\MySchool.Model\obj\Debug\MySchool.Model.dll
+F:\GridView\MySchool.Model\obj\Debug\MySchool.Model.pdb
+F:\ASP.NET\Web\GridView\MySchool.Model\bin\Debug\MySchool.Model.dll
+F:\ASP.NET\Web\GridView\MySchool.Model\bin\Debug\MySchool.Model.pdb
+F:\ASP.NET\Web\GridView\MySchool.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET\Web\GridView\MySchool.Model\obj\Debug\MySchool.Model.dll
+F:\ASP.NET\Web\GridView\MySchool.Model\obj\Debug\MySchool.Model.pdb

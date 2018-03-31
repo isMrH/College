@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462935061796
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1462935061812
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1462935061812
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462935064250
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462935068375
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1462935068406
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1462935068406
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1462935078390
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462935080015
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462935081828
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1462935081890
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1462935095546
+activated,perspective,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.JavaPerspective",1462935106234
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1462935106250
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1462935107781
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462935113515
+error,log,,,"null\n",1462935127546
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462935127562
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.properties",1462935127593
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462935131250
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1462935131531
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1462935131546
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1462935131546
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1462935139125
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1462935198203

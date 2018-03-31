@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461564927453
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461564935093
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461564949375
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461564969468
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.properties",1461564969500
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: Users",1461564969937
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1461564974296
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: Users",1461564974484
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1461564980984
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.stop",1461564984500
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1461564984984
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1461564986062
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.run",1461564989171
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1461564989765
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1461564991531
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1461565004968
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461565019125
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1461565030515
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461565047546
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1461565055515
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1461565061250
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461565132812
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461565132843
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461565132968
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1461565135078
